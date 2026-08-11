@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:sankei-ados-tennoji-2026-09-27@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260927T110000
+DTEND:20260927T153000
+SUMMARY:【合同/塾】産経アドス 進学相談会 in 天王寺
+LOCATION:あべのハルカス
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月27日（日） 11:00〜15:30\n場所: あべ
+ のハルカス\n予約: 要予約\nメモ: 奈良学園 参加\n詳細:
+  https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

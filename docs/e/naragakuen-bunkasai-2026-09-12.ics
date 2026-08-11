@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:naragakuen-bunkasai-2026-09-12@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260912T100000
+DTEND:20260912T150000
+SUMMARY:【奈良学園】奈良学園 文化祭（個別相談ブース
+ あり）
+LOCATION:奈良学園本校 コミュニティスペース（大和郡山
+ ）
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園中学校\n日
+ 時: 9月12日（土） 10:00〜15:00\n場所: 奈良学園本校 コミ
+ ュニティスペース（大和郡山）\n予約: 要予約\nメモ: 
+ 学校の雰囲気を直接見られる機会。個別相談ブース設
+ 置\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

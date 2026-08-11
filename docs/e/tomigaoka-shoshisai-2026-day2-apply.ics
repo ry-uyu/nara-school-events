@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tomigaoka-shoshisai-2026-day2-apply@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:【申込開始】登美ヶ丘 尚志祭（文化祭）2日目
+LOCATION:奈良学園登美ヶ丘（中登美ヶ丘）
+DESCRIPTION:登美ヶ丘「尚志祭（文化祭）2日目」の申込開
+ 始日です。\n本番: 8月30日（日）\n詳細: https://reserve.can
+ dy-s.jp/naragakuen_tomigaoka/view/junior/3120
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/view/junior/3120
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:kansai-kyoiku-festa-2026-09-27@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260927T100000
+DTEND:20260927T160000
+SUMMARY:【合同/塾】関西教育機構 私立中学フェスタ
+LOCATION:梅田サウスホール
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月27日（日） 10:00〜16:00\n場所: 梅田
+ サウスホール\n予約: 要予約\nメモ: 奈良学園 参加\n詳
+ 細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

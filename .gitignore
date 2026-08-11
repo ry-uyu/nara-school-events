@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# 認証情報は絶対にコミットしない
+*.secret
+.env
+config.local.json

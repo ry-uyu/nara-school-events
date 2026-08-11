@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara-shigaku-fair-2026@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260811T103000
+DTEND:20260811T161500
+SUMMARY:【合同/塾】奈良県私学フェア2026
+LOCATION:奈良県コンベンションセンター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 8月11日（火・祝） 10:30〜16:15\n場所: 
+ 奈良県コンベンションセンター\n予約: 入退場自由。
+ 個別相談のみ事前予約（先着）\n申込開始: 2026-07-22\n
+ メモ: 志望3校すべて参加（奈良女子/奈良学園/登美ヶ
+ 丘）\n詳細: https://www.nara-shigaku.net/naraken-shigaku-fair/
+URL:https://www.nara-shigaku.net/naraken-shigaku-fair/
+END:VEVENT
+BEGIN:VEVENT
+UID:tomigaoka-shoshisai-2026-day1@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:【登美ヶ丘】尚志祭（文化祭）1日目
+LOCATION:奈良学園登美ヶ丘（中登美ヶ丘）
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園登美ヶ丘中
+ 学校\n日時: 8月29日（土）\n場所: 奈良学園登美ヶ丘（
+ 中登美ヶ丘）\n予約: 要予約（申込開始 8/3 10:00）\n申
+ 込開始: 2026-08-03\nメモ: 受験生・保護者の見学機会\n詳
+ 細: https://reserve.candy-s.jp/naragakuen_tomigaoka/view/junior/3119
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/view/junior/3119
+END:VEVENT
+BEGIN:VEVENT
+UID:tomigaoka-shoshisai-2026-day2@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:【登美ヶ丘】尚志祭（文化祭）2日目
+LOCATION:奈良学園登美ヶ丘（中登美ヶ丘）
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園登美ヶ丘中
+ 学校\n日時: 8月30日（日）\n場所: 奈良学園登美ヶ丘（
+ 中登美ヶ丘）\n予約: 要予約（申込開始 8/3 10:00）\n申
+ 込開始: 2026-08-03\nメモ: 受験生・保護者の見学機会\n詳
+ 細: https://reserve.candy-s.jp/naragakuen_tomigaoka/view/junior/3120
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/view/junior/3120
+END:VEVENT
+BEGIN:VEVENT
+UID:hinoki-soudan-2026-08-30@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260830T183000
+DTEND:20260830T210000
+SUMMARY:【合同/塾】ひのき塾 令和8年度個別相談会
+LOCATION:奈良商工会議所
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 8月30日（日） 18:30〜21:00\n場所: 奈良
+ 商工会議所\n予約: 要予約\nメモ: 奈良学園 参加\n詳細:
+  https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:naragakuen-bunkasai-2026-09-12@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260912T100000
+DTEND:20260912T150000
+SUMMARY:【奈良学園】奈良学園 文化祭（個別相談ブース
+ あり）
+LOCATION:奈良学園本校 コミュニティスペース（大和郡山
+ ）
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園中学校\n日
+ 時: 9月12日（土） 10:00〜15:00\n場所: 奈良学園本校 コミ
+ ュニティスペース（大和郡山）\n予約: 要予約\nメモ: 
+ 学校の雰囲気を直接見られる機会。個別相談ブース設
+ 置\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:chuwa-kyoiku-2026-09-20@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260920T123000
+DTEND:20260920T153000
+SUMMARY:【合同/塾】中和教育研究会 第21回私立中学・高
+ 校入試相談会
+LOCATION:奈良県社会福祉総合センター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月20日（日） 12:30〜15:30\n場所: 奈良
+ 県社会福祉総合センター\n予約: 要予約\nメモ: 奈良学
+ 園 参加\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansemi-axy-2026-09-20@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260920T131500
+DTEND:20260920T151500
+SUMMARY:【合同/塾】カンセミAXY 入試説明会
+LOCATION:奈良県コンベンションセンター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月20日（日） 13:15〜15:15\n場所: 奈良
+ 県コンベンションセンター\n予約: 要予約\nメモ: 奈良
+ 学園 参加\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:mabuchi-expo-2026-09-23@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260923T100000
+DTEND:20260923T160000
+SUMMARY:【合同/塾】馬渕教室 EXPO'26
+LOCATION:グランフロント大阪
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月23日（水・祝） 10:00〜16:00\n場所: 
+ グランフロント大阪\n予約: 要予約\nメモ: 奈良学園 参
+ 加。関西大手塾の大型イベント（多数校が集まる）\n
+ 詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:kansai-kyoiku-festa-2026-09-27@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260927T100000
+DTEND:20260927T160000
+SUMMARY:【合同/塾】関西教育機構 私立中学フェスタ
+LOCATION:梅田サウスホール
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月27日（日） 10:00〜16:00\n場所: 梅田
+ サウスホール\n予約: 要予約\nメモ: 奈良学園 参加\n詳
+ 細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:nara-shingakuhaku-30-2026-09-27@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260927T100000
+DTEND:20260927T160000
+SUMMARY:【合同/塾】第30回 奈良県進学博
+LOCATION:奈良県コンベンションセンター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月27日（日） 10:00〜16:00\n場所: 奈良
+ 県コンベンションセンター\n予約: 要予約\nメモ: 奈良
+ 学園 参加。奈良県内最大級の進学イベント\n詳細: http
+ s://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:sankei-ados-tennoji-2026-09-27@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260927T110000
+DTEND:20260927T153000
+SUMMARY:【合同/塾】産経アドス 進学相談会 in 天王寺
+LOCATION:あべのハルカス
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月27日（日） 11:00〜15:30\n場所: あべ
+ のハルカス\n予約: 要予約\nメモ: 奈良学園 参加\n詳細:
+  https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:itsuki-2026-10-04@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20261004T100000
+DTEND:20261004T150000
+SUMMARY:【合同/塾】五ツ木書房 中学・高校進学相談会
+LOCATION:OMMビル（大阪）
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 10月4日（日） 10:00〜15:00\n場所: OMMビ
+ ル（大阪）\n予約: 要予約\nメモ: 奈良学園 参加\n詳細:
+  https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:shoei-2026-11-01@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20261101T120000
+DTEND:20261101T160000
+SUMMARY:【合同/塾】昇英塾 私立中高・公立高校 学校説
+ 明会
+LOCATION:名張産業振興センター アスピア
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 11月1日（日） 12:00〜16:00\n場所: 名張
+ 産業振興センター アスピア\n予約: 要予約\nメモ: 奈良
+ 学園 参加\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:sankei-ados-umeda-2026-11-15@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20261115T110000
+DTEND:20261115T153000
+SUMMARY:【合同/塾】産経アドス 進学相談会 in 梅田
+LOCATION:グランフロント大阪
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 11月15日（日） 11:00〜15:30\n場所: グラ
+ ンフロント大阪\n予約: 要予約\nメモ: 奈良学園 参加\n
+ 詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

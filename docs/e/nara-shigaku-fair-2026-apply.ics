@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara-shigaku-fair-2026-apply@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:【申込開始】合同/塾 奈良県私学フェア2026
+LOCATION:奈良県コンベンションセンター
+DESCRIPTION:合同/塾「奈良県私学フェア2026」の申込開始
+ 日です。\n本番: 8月11日（火・祝）\n詳細: https://www.nara
+ -shigaku.net/naraken-shigaku-fair/
+URL:https://www.nara-shigaku.net/naraken-shigaku-fair/
+END:VEVENT
+END:VCALENDAR

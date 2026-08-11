@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara-shigaku-fair-2026@nara-school-events
+DTSTAMP:20260811T071037Z
+DTSTART:20260811T103000
+DTEND:20260811T161500
+SUMMARY:【合同/塾】奈良県私学フェア2026
+LOCATION:奈良県コンベンションセンター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 8月11日（火・祝） 10:30〜16:15\n場所: 
+ 奈良県コンベンションセンター\n予約: 入退場自由。
+ 個別相談のみ事前予約（先着）\n申込開始: 2026-07-22\n
+ メモ: 志望3校すべて参加（奈良女子/奈良学園/登美ヶ
+ 丘）\n詳細: https://www.nara-shigaku.net/naraken-shigaku-fair/
+URL:https://www.nara-shigaku.net/naraken-shigaku-fair/
+END:VEVENT
+END:VCALENDAR
