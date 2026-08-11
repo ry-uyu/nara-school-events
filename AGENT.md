@@ -63,10 +63,12 @@ printf '%s 種別=%s 巡回=%s スキップ=%s 新規=%s 変更=%s 即時通知=
 
 git add -A
 git commit -m "run: $TODAY $(TZ=Asia/Tokyo date +%H:%M) 新規${N_NEW}/変更${N_CHG}" || echo "nothing to commit"
-# push が拒否されたら pull --rebase してから再push（同時実行対策）
-git push origin HEAD:main || (git pull --rebase origin main && git push origin HEAD:main)
+
+# 書き込みトークンで push（GH_PUSH_TOKEN は routine の環境変数。値はリポジトリに絶対に書かない）
+REMOTE="https://x-access-token:${GH_PUSH_TOKEN}@github.com/ry-uyu/nara-school-events.git"
+git push "$REMOTE" HEAD:main || (git pull --rebase "$REMOTE" main && git push "$REMOTE" HEAD:main)
 ```
-認証情報は絶対にコミットしない。**もし push が認証エラーで失敗する場合は、その旨を `state/last_run.txt` に記録し、実行サマリにも明記すること**（原因切り分けのため）。
+認証情報は絶対にコミットしない（`GH_PUSH_TOKEN` を含むコマンドの実体をファイルへ書かない）。**push が失敗する場合は、エラー要旨を `state/last_run.txt` に記録し実行サマリにも明記すること**（原因切り分けのため）。
 
 ### 6. 通知
 
