@@ -5,32 +5,38 @@
     "last_run": "2026-08-11",
     "timezone": "Asia/Tokyo"
   },
+  "priority_event_types": ["学校見学会", "説明会", "願書受付", "受験日程"],
   "schools": {
     "nwu": {
       "name": "奈良女子大学附属中等教育学校",
       "short": "奈良女子大附属",
       "color": "#b5124f",
+      "tier": "priority",
       "sources": [
         "https://nwuss.nara-wu.ac.jp/admission/",
+        "https://nwuss.nara-wu.ac.jp/admission/guide/requirement1/",
+        "https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1",
         "https://nwuss.nara-wu.ac.jp/info/",
-        "https://nwuss.nara-wu.ac.jp/event-schedule/",
-        "https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1"
+        "https://nwuss.nara-wu.ac.jp/event-schedule/"
       ]
     },
     "tomigaoka": {
       "name": "奈良学園登美ヶ丘中学校",
       "short": "登美ヶ丘",
       "color": "#0b6b3a",
+      "tier": "priority",
       "sources": [
         "https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior",
         "https://www.naragakuen.jp/open_campas/",
-        "https://www.naragakuen.jp/tomigaoka/t_jun/"
+        "https://www.naragakuen.jp/tomigaoka/t_jun/",
+        "https://www.naragakuen.jp/tomigaoka/t_jun/test/"
       ]
     },
     "naragakuen": {
       "name": "奈良学園中学校",
       "short": "奈良学園",
       "color": "#1a4f9c",
+      "tier": "priority",
       "sources": [
         "https://www.naragakuen.ed.jp/exam/briefing/",
         "https://www.naragakuen.ed.jp/exam/"
@@ -40,9 +46,20 @@
       "name": "合同説明会・進学相談会",
       "short": "合同/塾",
       "color": "#7a5b00",
+      "tier": "weekly",
       "sources": [
         "https://www.nara-shigaku.net/naraken-shigaku-fair/",
         "https://www.osaka-shigaku.gr.jp/chugakufair/"
+      ]
+    },
+    "nara_private": {
+      "name": "奈良県内 その他私立中学校",
+      "short": "県内私立",
+      "color": "#556070",
+      "tier": "weekly",
+      "sources": [
+        "https://www.nara-shigaku.net/",
+        "https://www.study1.jp/kansai/area/nara/"
       ]
     }
   },

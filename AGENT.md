@@ -1,97 +1,96 @@
-# AGENT.md — クラウド定期エージェントの動作手順
+# AGENT.md — クラウド定期エージェントの動作手順（v2）
 
-このリポジトリは「娘の中学受験イベント」を自動監視し、新規/変更イベントをPushoverでスマホ通知し、iPhoneカレンダーに1タップで追加できる.icsを配信する。**あなた（スケジュール実行エージェント）は、毎回この手順を上から順に厳密に実行すること。**
+このリポジトリは「娘の中学受験イベント」を自動監視し、更新をPushover通知し、iPhoneカレンダーに1タップで追加できる.icsを配信する。**あなた（スケジュール実行エージェント）は毎回この手順を上から順に厳密に実行すること。**
+
+## 実行タイミング
+1日2回：**07:00 / 17:00 JST**（cron `0 8,22 * * *` UTC）。
 
 ## 大前提
-- 監視対象の志望校は3校：奈良女子大学附属中等教育学校 / 奈良学園登美ヶ丘中学校 / 奈良学園中学校（大和郡山）。加えて、この3校が参加する合同説明会・進学相談会も対象。
-- 対象は **中学受験（中等教育学校前期含む）** 関連イベントのみ。高校のみ対象のイベントは無視。
-- Pushoverの認証情報は環境変数 `PUSHOVER_TOKEN` / `PUSHOVER_USER` から渡される。**これらを絶対にリポジトリへコミットしない。**
-- GitHub PagesベースURL：`https://ry-uyu.github.io/nara-school-events`
+- 志望3校（`tier=="priority"`）：奈良女子大学附属中等教育学校 / 奈良学園登美ヶ丘中学校 / 奈良学園中学校（大和郡山）。**毎回巡回**。
+- その他の県内私立中・合同説明会（`tier=="weekly"`）：**日曜朝の回だけ巡回**。
+- 対象は中学受験（中等教育学校前期含む）関連のみ。高校専用は無視。
+- Pushover認証は環境変数 `PUSHOVER_TOKEN` / `PUSHOVER_USER`。**絶対にコミット・出力しない。**
+- GitHub Pages: `https://ry-uyu.github.io/nara-school-events`
 
-## リポジトリ構成
-- `state/events.json` … 既知イベントの唯一の状態ソース（前回までの記録＝差分判定の基準）
-- `build.py` … `state/events.json` から `docs/`（.ics群・購読フィード・ダッシュボード）を生成
-- `docs/` … GitHub Pagesで公開される配信物（直接編集しない。必ずbuild.pyで生成）
+## この実行の種別を決める
+```
+WD=$(TZ=Asia/Tokyo date +%u)   # 1=月 .. 7=日
+HH=$(TZ=Asia/Tokyo date +%H)
+TODAY=$(TZ=Asia/Tokyo date +%F)
+```
+- **週次実行** = （`WD==7` かつ `HH==07`）＝日曜朝の回だけ。→ 全ソース（priority＋weekly）を巡回し、最後に週次通知を必ず1通送る。
+- **通常実行** = それ以外の回。→ priorityソースのみ巡回。更新があれば即通知、無ければ何も送らない。
 
 ## 手順
 
-### 1. 基準を読む
-`state/events.json` を読む。これが「前回時点で判明していたイベント」＝差分判定の基準。イベントの一意キーは `id`。
+### 1. 状態を読む
+- `state/events.json` … 既知イベント（差分判定の基準）。`schools` に `tier` あり。
+- `state/sources.json` … 各ソースURL→前回の内容ハッシュ。無ければ空 `{}` として扱う。
 
-### 2. 各ソースを巡回して最新イベントを抽出
-`state/events.json` の `schools[*].sources` の各URLを取得（WebFetchを優先、失敗時は `curl -sL`）。各ページから中学受験関連イベントを抽出する。抽出項目：
-- `title`（イベント名）, `type`（説明会/オープンスクール/オープンキャンパス/文化祭/入試説明会/合同説明会/受付開始/出願/入試/その他）
-- `date`（`YYYY-MM-DD`。**未発表なら `null`**）, `date_raw`（原文の日付表記）
-- `start_time` / `end_time`（`"HH:MM"` または null）, `all_day`（時刻不明なら true）
-- `location`, `reservation_required`(bool), `reservation_note`
-- `apply_start`（申込・予約の開始日 `YYYY-MM-DD` / null）, `apply_deadline`（同 締切 / null）
-- `url`（詳細ページ）, `source`（どのソースか）
+### 2. 巡回対象ソースを決める
+- 通常実行：`schools[*]` のうち `tier=="priority"` の `sources` のみ。
+- 週次実行：全 `schools[*].sources`（priority＋weekly）。加えて WebSearch で「奈良県 私立中学 説明会 <当月>」等を1〜2回だけ検索し、県内その他私立中の新着も拾う。
 
-**抽出の鉄則（ハルシネーション厳禁）**
-- ページに明記された情報のみ記録。推測で日付を作らない。読み取れなければ `null`。
-- 日本語の和暦・曜日つき表記（例「9月20日（日）」）を正しくISO化。年が無ければ文脈から判断（当年〜翌年度入試）。
-- 高校専用イベントは除外。3校いずれとも無関係な合同イベントは除外。
+### 3. 変更ページのみ抽出（★トークン節約の要）
+対象URLごとに、まず**LLMを使わずBashで**内容ハッシュを取る：
+```
+BODY=$(curl -sL --max-time 30 "$URL")
+HASH=$(printf '%s' "$BODY" | python3 -c "import sys,re,hashlib; t=sys.stdin.read(); t=re.sub(r'<script.*?</script>','',t,flags=re.S|re.I); t=re.sub(r'<style.*?</style>','',t,flags=re.S|re.I); t=re.sub(r'<[^>]+>',' ',t); t=re.sub(r'\\s+',' ',t); print(hashlib.sha256(t.encode('utf-8','ignore')).hexdigest())")
+```
+- `state/sources.json` の前回ハッシュと**一致 → そのページは変化なし。本文をLLMで読まずスキップ。**
+- **不一致（または初回）** → そのページだけ WebFetch で本文を取得し、中学受験関連イベントを抽出。
+- 取得後、新しいハッシュを `state/sources.json` に保存。
 
-### 3. idの決定（毎回同じ結果になること）
-`id = "{school_key}-{titleを英数slug化}-{date or 'tbd'}"`。同じイベントが再登場したら必ず同じidになるよう、既存 `events.json` に一致候補（同school_key＆日付近接＆タイトル類似）があればその `id` を再利用する。
+**抽出項目**：`title` / `type`（学校見学会・説明会・オープンスクール・オープンキャンパス・文化祭・入試説明会・合同説明会・願書受付・受験日程・その他）/ `date`（`YYYY-MM-DD`、未発表は `null`）/ `date_raw` / `start_time` / `end_time` / `all_day` / `location` / `reservation_required` / `reservation_note` / `apply_start` / `apply_deadline` / `url` / `source`。
+**鉄則**：ページに明記された情報のみ（推測禁止、読めなければ `null`）。和暦・曜日つき表記を正しくISO化。高校専用は除外。
 
-### 4. state/events.json を更新
-- **新規**（基準にidが無い）→ 追加。`first_seen`=今日, `last_updated`=今日。
-- **変更**（idはあるが `date`/`start_time`/`location`/`apply_start`/`apply_deadline` のいずれかが変化）→ 上書き更新し `last_updated`=今日。**何がどう変わったかを覚えておく**（通知文に使う）。
-- 変化なし → 触らない。
-- 過去日・掲載終了イベントも `state` からは消さない（履歴）。`date:null` のイベントは保持し、後で日付が付いたら「変更」として扱う。
-- `meta.last_run` を今日の日付に更新。
+**最重要（志望3校では絶対に取りこぼさない）**：`学校見学会` / `説明会（入試説明会含む）` / `願書受付（出願受付）` / `受験日程（入試日・適性検査日）`。この4種は `type` を正確に付ける。
 
-### 5. 配信物を生成
+### 4. state/events.json にマージ
+- `id = "{school_key}-{titleを英数slug化}-{date or 'tbd'}"`（毎回一意。既存に一致候補があればその `id` を再利用）。
+- **新規**＝基準にidが無い。**変更**＝既存idの `date`/`start_time`/`location`/`apply_start`/`apply_deadline` のいずれかが変化。
+- `first_seen`/`last_updated` を設定。過去日・`date:null` も保持（履歴）。`meta.last_run`=`TODAY`。
+
+### 5. 配信物生成 → コミット
 ```
 export PAGES_BASE_URL="https://ry-uyu.github.io/nara-school-events"
 python3 build.py
+# 差分がある時のみ:
+git add -A && git commit -m "update: $TODAY 新規N/変更M" && git push origin HEAD:main
 ```
-`docs/` が再生成される。過去イベントは自動的に配信対象外になる。
+認証情報は絶対にコミットしない。
 
-### 6. 今回の新規/変更を確定
-ステップ4で「新規」「変更」と判定したイベント群が今回の通知対象。`date:null`（日付未発表）のものは通知に含めてよいが、.icsリンクは付けない（日付が無いとカレンダー登録できないため、ダッシュボードのURLを案内）。
+### 6. 通知
 
-### 7. コミット & プッシュ
-差分があれば必ず：
-```
-git add -A
-git commit -m "update: YYYY-MM-DD 新規N件/変更M件"
-git push origin HEAD:main
-```
-（`state/`と`docs/`のみ。認証情報ファイルは作らない。）
+**A. 即時通知（毎回・志望3校の更新）**
+priority校に今回の新規/変更が1件以上 → その場でPushover送信。
+- 種別が最重要4種（見学会/説明会/願書受付/受験日程）→ `priority=1`、本文先頭に「⚡最重要」。
+- 日付が「未発表→確定」に変わった → 「⚡確定」。日程が動いた → 「⚠日程変更」。
+- 1〜3件は個別送信（`url`=該当.icsの絶対URL `https://ry-uyu.github.io/nara-school-events/e/{id}.ics`、`url_title="カレンダーに追加"`）。4件以上はまとめて1通（`url`=ダッシュボード、`url_title="一覧を開く"`）。
 
-### 8. Pushover通知（新規/変更が1件以上のときだけ）
-新規/変更が **0件なら通知しない**（プッシュもコミットメッセージも出さない。ただしbuild差分があればサイレントにコミットは可）。
+**B. 週次通知（週次実行のときだけ・必ず1通）**
+- weekly校（県内その他私立＋合同）の新規/変更を本文にまとめる。
+- 直近7日以内に `last_updated` が更新された全イベントを「今週の更新」として簡潔に要約。
+- 直近7日で更新が1件も無ければ「📭 今週は更新なし（監視は正常稼働）」を送る（＝生存確認）。
+- `url`=ダッシュボード、`url_title="一覧を開く"`。
 
-送信ルール：
-- **新規/変更が1〜3件**：1件ずつ個別に送る。各メッセージの `url` に **その.icsの絶対URL**、`url_title="カレンダーに追加"` を付ける。
-  - `url` 例：`https://ry-uyu.github.io/nara-school-events/e/{id}.ics`
-  - `apply_start` があり申込が迫る場合は、本文にその旨を明記（申込.icsは `.../e/{id}-apply.ics`）。
-- **4件以上**：まとめて1通。本文に各イベントを1行ずつ列挙し、`url` はダッシュボード `https://ry-uyu.github.io/nara-school-events/`、`url_title="一覧を開く"`。
-
-メッセージ本文フォーマット（例）：
-```
-title: 【中学受験】新着イベント（登美ヶ丘）
-message: 9/20(日) 入試説明会 / 奈良県コンベンションセンター 要予約・申込開始9/1
-```
-必ず「学校名・日付・種別・要予約/申込開始」を含める。冗長にしない。
+**C. サイレント**
+通常実行で今回の新規/変更が0件 → 何も送らない（コミットも不要）。
 
 Pushover送信コマンド：
 ```
-curl -s --form-string "token=$PUSHOVER_TOKEN" \
-     --form-string "user=$PUSHOVER_USER" \
-     --form-string "title=TITLE" \
-     --form-string "message=MESSAGE" \
-     --form-string "url=ICS_OR_DASHBOARD_URL" \
-     --form-string "url_title=カレンダーに追加" \
-     https://api.pushover.net/1/messages.json
+curl -s --form-string "token=$PUSHOVER_TOKEN" --form-string "user=$PUSHOVER_USER" \
+  --form-string "title=TITLE" --form-string "message=MESSAGE" \
+  --form-string "url=URL" --form-string "url_title=カレンダーに追加" \
+  [--form-string "priority=1"] \
+  https://api.pushover.net/1/messages.json
 ```
+本文には必ず「学校名・日付・種別・要予約/申込開始」を含める。簡潔に。
 
-### 9. 最後にログ出力
-実行サマリ（巡回件数 / 新規 / 変更 / 通知有無）を標準出力に1行で残す。
+### 7. 実行サマリ
+「巡回N / スキップ(ハッシュ一致)N / 新規N / 変更N / 即時通知N件 / 週次通知(有無)」を1行で標準出力に残す。
 
-## 変わった時のポリシー
-- 日付が「未発表→確定」に変わったら最優先の通知（`type`の先頭に「⚡確定」を付ける）。
-- 既存イベントの日付が動いた（延期・変更）ら「⚠日程変更」と明示。
-- 迷ったら通知しない側に倒す（誤通知より取りこぼしの再送のほうがマシ、ただし重複通知は避ける）。
+## ポリシー
+- 迷ったら通知しない側に倒す。ただし志望3校の最重要4種は絶対に取りこぼさない。
+- 重複通知は避ける（既に即時通知済みの項目を週次で再掲するのは可、ただし「今週のまとめ」であることを明示）。
+- ハルシネーション厳禁。ページに明記された情報のみ。
