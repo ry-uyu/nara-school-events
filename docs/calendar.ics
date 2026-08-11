@@ -7,7 +7,7 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:godo-bbfd7466-2026-08-11@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:【合同/塾】奈良私学フェア2026
@@ -18,7 +18,7 @@ URL:https://www.naragakuen.jp/tomigaoka/t_jun/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-e863fa0d-2026-08-11@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260811T090000
 DTEND:20260811T170000
 SUMMARY:【合同/塾】奈良県私学フェア
@@ -31,7 +31,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-64ac8b32-2026-08-11@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260811T103000
 DTEND:20260811T161500
 SUMMARY:【合同/塾】奈良科学ファイア2026 -奈良科学のた
@@ -47,7 +47,7 @@ URL:https://www.nara-shigaku.net/naraken-shigaku-fair/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-d2ad0d5b-2026-08-22@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260822T135000
 DTEND:20260822T154000
 SUMMARY:【奈良学園】中学受験生対象 学校見学会 第9回
@@ -62,7 +62,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-5f6fa257-2026-08-23@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260823T090000
 DTEND:20260823T120000
 SUMMARY:【帝塚山】オープンスクール
@@ -79,7 +79,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-b686046e-2026-08-29@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:【登美ヶ丘】尚志祭
@@ -92,7 +92,7 @@ URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-7403d754-2026-08-29@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260829T135000
 DTEND:20260829T154000
 SUMMARY:【奈良学園】中学受験生対象 学校見学会 第10回
@@ -107,7 +107,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-02a76df4-2026-08-30@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:【登美ヶ丘】尚志祭2日目
@@ -120,7 +120,7 @@ URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-c869384f-2026-08-30@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260830T183000
 DTEND:20260830T210000
 SUMMARY:【合同/塾】ひのき塾主催「令和8年度個別相談会
@@ -134,7 +134,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-09-05@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260905T100000
 DTEND:20260905T143000
 SUMMARY:【智辯奈良カレッジ】サタデー学校ツアー
@@ -150,7 +150,7 @@ URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:ikuei_nishi-f735a9ec-2026-09-06@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260906T090000
 DTEND:20260906T113000
 SUMMARY:【育英西】9/6オープンスクール
@@ -165,7 +165,7 @@ URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-9a96e65c-2026-09-12@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260912T090000
 DTEND:20260912T150000
 SUMMARY:【奈良育英】菫咲祭（文化祭）
@@ -181,7 +181,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-9a96e65c-2026-09-12-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:【申込開始】奈良育英 菫咲祭（文化祭）
@@ -192,7 +192,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-303e5504-2026-09-12@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260912T100000
 DTEND:20260912T150000
 SUMMARY:【奈良学園】奈良学園文化祭 個別相談ブース
@@ -205,7 +205,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-a1e73248-2026-09-19@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:【聖心学園】オープンスクール・入試説明会
@@ -219,7 +219,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5f6fa257-2026-09-19@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260919T091500
 DTEND:20260919T130000
 SUMMARY:【奈良育英】中学校オープンスクール
@@ -235,7 +235,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5f6fa257-2026-09-19-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:【申込開始】奈良育英 中学校オープンスクール
@@ -246,7 +246,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-d79bf3e9-2026-09-20@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:【智辯奈良カレッジ】文化祭の見学
@@ -263,7 +263,7 @@ URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-1e31516e-2026-09-20@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260920T123000
 DTEND:20260920T153000
 SUMMARY:【合同/塾】中和教育研究会主催「第21回私立中
@@ -277,7 +277,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-bf94d90c-2026-09-20@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260920T131500
 DTEND:20260920T151500
 SUMMARY:【合同/塾】カンセミAXY主催「入試説明会」
@@ -290,7 +290,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-befeb793-2026-09-23@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260923T100000
 DTEND:20260923T160000
 SUMMARY:【合同/塾】馬渕教室 EXPO'26 学校説明会・個別相
@@ -304,7 +304,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:ikuei_nishi-eedd30db-2026-09-26@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260926T093000
 DTEND:20260926T120000
 SUMMARY:【育英西】9/26授業・クラブ体験会
@@ -319,7 +319,7 @@ URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-3eaf1c8b-2026-09-26@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260926T100000
 DTEND:20260926T113000
 SUMMARY:【帝塚山】ミニ学校見学会
@@ -334,7 +334,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-b8e661e1-2026-09-27@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260927T093000
 DTEND:20260927T103000
 SUMMARY:【帝塚山】第1回入試説明会
@@ -348,7 +348,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-b8e661e1-2026-09-27-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:【申込開始】帝塚山 第1回入試説明会
@@ -360,7 +360,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-338c5970-2026-09-27@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260927T100000
 DTEND:20260927T160000
 SUMMARY:【合同/塾】関西教育機構主催「私立中学フェス
@@ -374,7 +374,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-d01d3281-2026-09-27@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260927T100000
 DTEND:20260927T160000
 SUMMARY:【合同/塾】第30回奈良県進学博
@@ -387,7 +387,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-5909f782-2026-09-27@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260927T110000
 DTEND:20260927T153000
 SUMMARY:【合同/塾】産経アドス主催「私立中学校・高等
@@ -401,7 +401,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-eb11d530-2026-09-27@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20260927T130000
 DTEND:20260927T163000
 SUMMARY:【合同/塾】香芝教育研究会主催「第30回私立中
@@ -415,7 +415,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-791e5cac-2026-10-01@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:【奈良育英】授業見学会・説明会
@@ -427,7 +427,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-4860eb97-2026-10-03@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261003T100000
 DTEND:20261003T123000
 SUMMARY:【聖心学園】聖心入試チャレンジ（国算）・入
@@ -442,7 +442,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-83cec0f5-2026-10-03@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261003T140000
 DTEND:20261003T153000
 SUMMARY:【奈良学園】令和9年度 奈良学園中学校入試説明
@@ -457,7 +457,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-83cec0f5-2026-10-03-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:【申込開始】奈良学園 令和9年度 奈良学園中学
@@ -470,7 +470,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8dd3b62c-2026-10-03@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261003T143000
 DTEND:20261003T153000
 SUMMARY:【帝塚山】第2回入試説明会
@@ -484,7 +484,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8dd3b62c-2026-10-03-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:【申込開始】帝塚山 第2回入試説明会
@@ -496,7 +496,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-75dbf6ce-2026-10-04@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261004T100000
 DTEND:20261004T150000
 SUMMARY:【合同/塾】五ツ木書房主催「中学・高校進学相
@@ -510,7 +510,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-4860eb97-2026-10-07@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261007T173000
 DTEND:20261007T183000
 SUMMARY:【聖心学園】聖心入試チャレンジ（国算）・入
@@ -525,7 +525,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-09f375f4-2026-10-10@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:【智辯奈良カレッジ】中学入試プレテスト
@@ -537,7 +537,7 @@ URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-b8e661e1-2026-10-17@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:【奈良育英】第1回入試説明会
@@ -549,7 +549,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-eaa29a41-2026-10-18@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261018T140000
 DTEND:20261018T163000
 SUMMARY:【合同/塾】ひかり塾主催「私立高校進学相談会
@@ -563,7 +563,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-80ccc487-2026-10-18@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261018T140000
 DTEND:20261018T163000
 SUMMARY:【合同/塾】関西私塾の会主催「第17回京都山城
@@ -577,7 +577,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-f33c357d-2026-10-25@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261025T093000
 DTEND:20261025T103000
 SUMMARY:【帝塚山】第3回入試説明会
@@ -591,7 +591,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-f33c357d-2026-10-25-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:【申込開始】帝塚山 第3回入試説明会
@@ -603,7 +603,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5c3d4220-2026-10-31@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:【奈良育英】第2回入試説明会・トライアル①（
@@ -617,7 +617,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-c91f56da-2026-10-31@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261031T093000
 DTEND:20261031T120000
 SUMMARY:【奈良学園】中学受験生対象 テスト体験会「奈
@@ -634,7 +634,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-c91f56da-2026-10-31-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:【申込開始】奈良学園 中学受験生対象 テスト体
@@ -648,7 +648,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-e6f2ab1a-2026-10-31@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261031T100000
 DTEND:20261031T123000
 SUMMARY:【聖心学園】合格勝ち取りセミナー（国算）・
@@ -663,7 +663,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-77381697-2026-11-01@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261101T120000
 DTEND:20261101T160000
 SUMMARY:【合同/塾】昇英塾主催「私立中高 公立高校 学
@@ -677,7 +677,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-60d31832-2026-11-07@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261107T140000
 DTEND:20261107T153000
 SUMMARY:【奈良学園】令和9年度 奈良学園中学校入試説明
@@ -692,7 +692,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-60d31832-2026-11-07-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:【申込開始】奈良学園 令和9年度 奈良学園中学
@@ -705,7 +705,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:godo-81c60dad-2026-11-15@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261115T110000
 DTEND:20261115T153000
 SUMMARY:【合同/塾】産経アドス主催「私立中学校・高等
@@ -719,7 +719,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-6496e021-2026-11-21@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:【奈良育英】専願者集会
@@ -731,7 +731,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-7eb20a76-2026-11-21@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261121T090000
 DTEND:20261121T130000
 SUMMARY:【聖心学園】聖心入試チャレンジ（国算理社）
@@ -746,7 +746,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a51cfbbe-2026-11-21@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261121T091500
 DTEND:20261121T101500
 SUMMARY:【帝塚山】第4回入試説明会「小6対象 帝塚山チ
@@ -761,7 +761,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a51cfbbe-2026-11-21-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:【申込開始】帝塚山 第4回入試説明会「小6対象 
@@ -775,7 +775,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-694a5f84-2026-11-21@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261121T093000
 DTEND:20261121T120000
 SUMMARY:【智辯奈良カレッジ】中学部オープンキャンパ
@@ -793,7 +793,7 @@ URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-7eb20a76-2026-11-25@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261125T173000
 DTEND:20261125T183000
 SUMMARY:【聖心学園】聖心入試チャレンジ（国算理社）
@@ -808,7 +808,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5ab55969-2026-11-28@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:【奈良育英】第3回入試説明会・トライアル②（
@@ -822,7 +822,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a44d5d69-2026-11-29@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261129T093000
 DTEND:20261129T103000
 SUMMARY:【帝塚山】第5回入試説明会
@@ -836,7 +836,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a44d5d69-2026-11-29-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:【申込開始】帝塚山 第5回入試説明会
@@ -848,7 +848,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-12-05@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261205T100000
 DTEND:20261205T143000
 SUMMARY:【智辯奈良カレッジ】サタデー学校ツアー
@@ -864,7 +864,7 @@ URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-29a3c184-2026-12-08@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261208T090000
 DTEND:20261208T235900
 SUMMARY:【帝塚山】中学校出願受付（1次A・1次B・2次A）
@@ -877,7 +877,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-29a3c184-2026-12-08-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:【申込開始】帝塚山 中学校出願受付（1次A・1次B
@@ -890,7 +890,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8d3dd78a-2026-12-08@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261208T090000
 DTEND:20261208T110000
 SUMMARY:【帝塚山】中学校出願受付（2次B）
@@ -903,7 +903,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8d3dd78a-2026-12-08-apply@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:【申込開始】帝塚山 中学校出願受付（2次B）
@@ -915,7 +915,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-e6f2ab1a-2026-12-12@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261212T100000
 DTEND:20261212T123000
 SUMMARY:【聖心学園】合格勝ち取りセミナー（国算）・
@@ -930,7 +930,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-dafe54b8-2026-12-22@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20261222T100000
 DTEND:20261222T143000
 SUMMARY:【智辯奈良カレッジ】冬のプライベート見学会
@@ -945,7 +945,7 @@ URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8ab157e1-2027-01-16@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:【帝塚山】中学校1次A入試、中学校1次B入試
@@ -957,7 +957,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-a730f135-2027-01-17@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:【聖心学園】A日程 入試
@@ -971,7 +971,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-71e10975-2027-01-17@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:【聖心学園】B日程（午後）入試
@@ -985,7 +985,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-e7a8c317-2027-01-17@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20270117T160000
 DTEND:20270117T170000
 SUMMARY:【帝塚山】中学校2次A入試、中学校1次A入試・1次
@@ -999,7 +999,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-45d0e8bb-2027-01-18@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20270118T160000
 DTEND:20270118T170000
 SUMMARY:【帝塚山】中学校2次B入試、中学校入試専願合格
@@ -1013,7 +1013,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-ead84694-2027-01-19@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:【聖心学園】C日程 入試
@@ -1027,7 +1027,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-5816df12-2027-01-20@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:【聖心学園】D日程（午後）入試
@@ -1041,7 +1041,7 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-3f3f529c-2027-01-20@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART:20270120T100000
 DTEND:20270120T110000
 SUMMARY:【帝塚山】中学校2次B入試合格発表
@@ -1054,7 +1054,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-65ee4734-2027-01-23@nara-school-events
-DTSTAMP:20260811T120810Z
+DTSTAMP:20260811T120842Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:【帝塚山】中学校入試併願合格者登校日
