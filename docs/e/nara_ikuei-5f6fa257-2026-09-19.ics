@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara_ikuei-5f6fa257-2026-09-19@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260919T091500
+DTEND:20260919T130000
+SUMMARY:【奈良育英】中学校オープンスクール
+DESCRIPTION:種別: オープンスクール\n学校/主催: 奈良育英
+ 中学校\n日時: 2026/09/19（土） 09:15〜13:00\n予約: 受付は8
+ 月下旬より\n申込開始: 2026-08-19\n申込締切: 2026-09-18\nメ
+ モ: 08:45～受付。09:15-10:05 全体会・学校説明、10:15-11:00
+  授業体験、11:15-12:00 部活体験（１）等、12:15-13:00 部
+ 活体験（２）等。全体会・学校説明・授業体験は必須
+ 、部活体験・食堂体験・個別相談から選択可能。\n詳
+ 細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tomigaoka-b686046e-2026-08-29@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:【登美ヶ丘】尚志祭
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園登美ヶ丘中
+ 学校\n日時: 8/29(土)・30(日)\n予約: 申込受付開始：8/3（
+ 月）10：00～\nメモ: 参加対象:小学生６年生およびその
+ 保護者の方\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka
+ /list/junior
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tezukayama-b8e661e1-2026-09-27@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260927T093000
+DTEND:20260927T103000
+SUMMARY:【帝塚山】第1回入試説明会
+LOCATION:帝塚山学園講堂
+DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
+ 日時: 2026年9月27日（日） 09:30\n場所: 帝塚山学園講堂\n
+ 予約: 事前申込必要。定員500名（1家庭2名以内）\n申込
+ 開始: 2026-08-24\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/opens
+ chool.html
+URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+END:VEVENT
+END:VCALENDAR

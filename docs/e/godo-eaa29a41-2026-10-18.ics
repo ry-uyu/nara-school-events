@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-eaa29a41-2026-10-18@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261018T140000
+DTEND:20261018T163000
+SUMMARY:【合同/塾】ひかり塾主催「私立高校進学相談会
+ 」
+LOCATION:けいはんなプラザ
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 10月18日（日） 14:00〜16:30\n場所: けい
+ はんなプラザ\nメモ: 中高対象\n詳細: https://www.naragakuen
+ .ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

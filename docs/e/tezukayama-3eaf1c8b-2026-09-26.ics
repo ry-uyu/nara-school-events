@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tezukayama-3eaf1c8b-2026-09-26@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260926T100000
+DTEND:20260926T113000
+SUMMARY:【帝塚山】ミニ学校見学会
+LOCATION:帝塚山中学校・高等学校
+DESCRIPTION:種別: 学校見学会\n学校/主催: 帝塚山中学校\n
+ 日時: 2026年7月25日（土） 10:00〜11:30\n場所: 帝塚山中学
+ 校・高等学校\n予約: 事前申込必要。定員各回120名。\n
+ 申込開始: 2026-07-09\n申込締切: 2026-07-25\nメモ: 説明30分
+ 、校舎見学+個別相談60分\n詳細: https://www.tezukayama-h.ed.j
+ p/nyuushi/openschool.html
+URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-1e31516e-2026-09-20@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260920T123000
+DTEND:20260920T153000
+SUMMARY:【合同/塾】中和教育研究会主催「第21回私立中
+ 学・高校入試相談会」
+LOCATION:奈良県社会福祉総合センター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月20日（日） 12:30〜15:30\n場所: 奈良
+ 県社会福祉総合センター\nメモ: 中高対象\n詳細: https:/
+ /www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

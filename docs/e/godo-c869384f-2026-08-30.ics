@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-c869384f-2026-08-30@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260830T183000
+DTEND:20260830T210000
+SUMMARY:【合同/塾】ひのき塾主催「令和8年度個別相談会
+ 」
+LOCATION:奈良商工会議所
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 8月30日（日） 18:30〜21:00\n場所: 奈良
+ 商工会議所\nメモ: 中高対象\n詳細: https://www.naragakuen.ed
+ .jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

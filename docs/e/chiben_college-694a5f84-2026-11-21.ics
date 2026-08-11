@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:chiben_college-694a5f84-2026-11-21@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261121T093000
+DTEND:20261121T120000
+SUMMARY:【智辯奈良カレッジ】中学部オープンキャンパ
+ ス・中学入試直前対策講座
+LOCATION:智辯学園奈良カレッジ講堂と図書館など
+DESCRIPTION:種別: オープンキャンパス\n学校/主催: 智辯学
+ 園奈良カレッジ中学部\n日時: 令和８年１１月２１日
+ （土） 09:30〜12:00\n場所: 智辯学園奈良カレッジ講堂と
+ 図書館など\nメモ: 中学入試直前対策講座（小学6年生
+ 対象）、入試説明会開催。校内見学・個別相談も可能
+ 。関屋駅・上ノ太子駅・高井田駅からスクールバス運
+ 行。\n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation
+ /
+URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
+END:VEVENT
+END:VCALENDAR

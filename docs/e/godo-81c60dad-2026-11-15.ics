@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-81c60dad-2026-11-15@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261115T110000
+DTEND:20261115T153000
+SUMMARY:【合同/塾】産経アドス主催「私立中学校・高等
+ 学校進学相談会in梅田」
+LOCATION:グランフロント大阪
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 11月15日（日） 11:00〜15:30\n場所: グラ
+ ンフロント大阪\nメモ: 中高対象\n詳細: https://www.naragak
+ uen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

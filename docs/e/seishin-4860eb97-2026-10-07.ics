@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:seishin-4860eb97-2026-10-07@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261007T173000
+DTEND:20261007T183000
+SUMMARY:【聖心学園】聖心入試チャレンジ（国算）・入
+ 試説明会
+LOCATION:同校
+DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
+ 育学校\n日時: 2026年10月7日 17:30\n場所: 同校\n予約: Web\n
+ 詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seish
+ ingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+END:VCALENDAR

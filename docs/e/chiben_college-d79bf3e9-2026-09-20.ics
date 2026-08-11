@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:chiben_college-d79bf3e9-2026-09-20@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:【智辯奈良カレッジ】文化祭の見学
+LOCATION:智辯学園奈良カレッジ
+DESCRIPTION:種別: 文化祭（受験生見学可）\n学校/主催: 智
+ 辯学園奈良カレッジ中学部\n日時: 令和８年９月２０
+ 日（日）\n場所: 智辯学園奈良カレッジ\n予約: 小学生6
+ 0組・中学生20組およびその保護者をご招待\nメモ: 午
+ 前に予定。講堂での発表や教室等における発表・展示
+ を見学。駐車場を準備していないため各駅からのスク
+ ールバスもしくは関屋駅からの徒歩で来校。\n詳細: ht
+ tps://www.chiben.ac.jp/naracollege/futures/orientation/
+URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:chiben_college-dafe54b8-2026-12-22@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261222T100000
+DTEND:20261222T143000
+SUMMARY:【智辯奈良カレッジ】冬のプライベート見学会
+LOCATION:智辯学園奈良カレッジ
+DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
+ レッジ中学部\n日時: 令和８年１２月２２日（火）～
+ ２５日（金） 10:00〜14:30\n場所: 智辯学園奈良カレッジ
+ \n予約: 小学生・中学生それぞれ５組限定\nメモ: 12月22
+ 日・23日・24日・25日。スクールバスの配車がなし。\n
+ 詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
+URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
+END:VEVENT
+END:VCALENDAR

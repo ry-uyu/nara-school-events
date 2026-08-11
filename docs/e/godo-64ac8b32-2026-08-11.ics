@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-64ac8b32-2026-08-11@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260811T103000
+DTEND:20260811T161500
+SUMMARY:【合同/塾】奈良科学ファイア2026 -奈良科学のた
+ めの15校合同-
+LOCATION:奈良県 コンベンション・センター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 2026 8.11（火・祝） 10:30〜16:15\n場所: 
+ 奈良県 コンベンション・センター\n予約: 入場料は自
+ 由！気軽にご来場ください！\nメモ: 個別相談のみ予
+ 約予約制（先着順）。7.22（水）10:00から申し込みスタ
+ ート。\n詳細: https://www.nara-shigaku.net/naraken-shigaku-fair/
+URL:https://www.nara-shigaku.net/naraken-shigaku-fair/
+END:VEVENT
+END:VCALENDAR

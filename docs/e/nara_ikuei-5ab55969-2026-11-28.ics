@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara_ikuei-5ab55969-2026-11-28@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:【奈良育英】第3回入試説明会・トライアル②（
+ プレテスト）
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
+ \n日時: 11月28日(土)\n予約: 受付は10月中旬より\nメモ: 
+ 入試についてご説明します トライアルでは本番通り
+ の入試の練習ができます\n詳細: https://www.ikuei.ed.jp/ikuei
+ -jh/admission/ex-information/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+END:VCALENDAR

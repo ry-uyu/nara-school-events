@@ -1,4 +1,26 @@
 {
-  "_comment": "各ソースURL→前回取得時の内容ハッシュ。エージェントが自動更新。同一ハッシュのページはLLM処理をスキップしてトークンを節約する。",
-  "hashes": {}
+  "_comment": "各ソースURL→内容ハッシュ",
+  "hashes": {
+    "https://nwuss.nara-wu.ac.jp/admission/": "7a8042b43e71a89742c955c81d4d929d6810b59e82f78016b64b7df76a93a787",
+    "https://nwuss.nara-wu.ac.jp/admission/guide/requirement1/": "ac4778b82e826c806e49592d1393cadf8729234257539ef9a9866697ddb88521",
+    "https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1": "7a8042b43e71a89742c955c81d4d929d6810b59e82f78016b64b7df76a93a787",
+    "https://nwuss.nara-wu.ac.jp/info/": "aa316222894b56ff3086da0d6f279a080181a3dacfb466a0d51cd939385640b3",
+    "https://nwuss.nara-wu.ac.jp/event-schedule/": "9c6469c81440eac871aa69c1edba9ab93cb1583eb64f8405ccb173ecec4383a1",
+    "https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior": "1a46f9a2db05a3fb561b7edf706cb6822cf20b45779fcda6a096f37d5f1cf3e0",
+    "https://www.naragakuen.jp/open_campas/": "702827412cce96a7988f03673aba43688b3de31fa373631ed556c2aa3b42a57d",
+    "https://www.naragakuen.jp/tomigaoka/t_jun/": "8b4a25e17fe3c4a2b75e09f4f61fbf78fb1be9b0bbaa4b63896cbdbad4d1ff29",
+    "https://www.naragakuen.jp/tomigaoka/t_jun/test/": "d445133fc0fb223970a716dfb403ea552531f63a8ac3db90fdadb1ed91756cbc",
+    "https://www.naragakuen.ed.jp/exam/briefing/": "3219d060e6e9c1644cc1c8c1354a8f12e0dc3e3463cda8db6fcd076ce83f4712",
+    "https://www.naragakuen.ed.jp/exam/": "30b2ab1d31af00e5b95b771fd13fa69368b4d3f14ee93605309157f26b83fed9",
+    "https://www.nara-shigaku.net/naraken-shigaku-fair/": "7f9a36ca6e498c66234229a8af3588bcb24400d37aadd8d37459e4b72455af9b",
+    "https://www.osaka-shigaku.gr.jp/chugakufair/": "8bd79b5c3666132e48b839303107a52d73cd262767cdc75f675680a9a31ca531",
+    "https://www.tezukayama-h.ed.jp/nyuushi/openschool.html": "fa580db2c8be2273f7977e086448acb28a498097c62e8190edae566569f75039",
+    "https://www.chiben.ac.jp/naracollege/futures/orientation/": "7d0f9021bba1aef1ea8c50ddb05a5fb0f4b37e6a7af0669f32312c64c85508d6",
+    "https://www.seishingakuenchuto.ed.jp/": "ee035ada6a0100d02052f14a17b5dda28f3775501bd2e0316e5724e37c007389",
+    "https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchuto/": "7e366c231b99f286743700c0d040f3be5e2d5037cfc325f8ae7d53a99db0601c",
+    "https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/": "c60f951167ed580197502d7ce6baa2a15746f2a70db7eeae850d94851752af39",
+    "https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf": "cbc2fdbe297245f056efdeb6f491bb9ff1a812154ae8de8194849c2ba4871a34",
+    "https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/": "759402a3c97c9d39c8ff8af6e6df5694269f3b8770cc6a444f5df7acc66f6345",
+    "https://mirai-compass.net/usr/nikueij/event/evtIndex.jsf": "510842be9af58a2ce25a549894ce70a6cf2c6f5fffeb2b29a07b0cbe864224d2"
+  }
 }

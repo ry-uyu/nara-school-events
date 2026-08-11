@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-bf94d90c-2026-09-20@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260920T131500
+DTEND:20260920T151500
+SUMMARY:【合同/塾】カンセミAXY主催「入試説明会」
+LOCATION:奈良県コンベンションセンター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月20日（日） 13:15〜15:15\n場所: 奈良
+ 県コンベンションセンター\nメモ: 中高対象\n詳細: http
+ s://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

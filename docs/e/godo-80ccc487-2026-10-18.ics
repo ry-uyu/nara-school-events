@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-80ccc487-2026-10-18@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261018T140000
+DTEND:20261018T163000
+SUMMARY:【合同/塾】関西私塾の会主催「第17回京都山城
+ 進学個別相談会」
+LOCATION:文化パルク城陽
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 10月18日（日） 14:00〜16:30\n場所: 文化
+ パルク城陽\nメモ: 中高対象\n詳細: https://www.naragakuen.ed
+ .jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara_ikuei-9a96e65c-2026-09-12-apply@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:【申込開始】奈良育英 菫咲祭（文化祭）
+DESCRIPTION:奈良育英「菫咲祭（文化祭）」の申込開始日
+ です。\n本番: 2026/09/12（土）\n詳細: https://www.ikuei.ed.jp/
+ ikuei-jh/admission/ex-information/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+END:VCALENDAR

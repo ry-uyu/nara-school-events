@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tezukayama-a51cfbbe-2026-11-21@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261121T091500
+DTEND:20261121T101500
+SUMMARY:【帝塚山】第4回入試説明会「小6対象 帝塚山チ
+ ャレンジ」
+LOCATION:帝塚山学園講堂
+DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
+ 日時: 2026年11月21日（土） 09:15\n場所: 帝塚山学園講堂\
+ n予約: 事前申込必要。定員500名（保護者付添1名）\n申
+ 込開始: 2026-10-26\nメモ: 小6対象\n詳細: https://www.tezukayam
+ a-h.ed.jp/nyuushi/openschool.html
+URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+END:VEVENT
+END:VCALENDAR

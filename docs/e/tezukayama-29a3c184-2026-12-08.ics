@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tezukayama-29a3c184-2026-12-08@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261208T090000
+DTEND:20261208T235900
+SUMMARY:【帝塚山】中学校出願受付（1次A・1次B・2次A）
+LOCATION:WEB出願
+DESCRIPTION:種別: 願書受付\n学校/主催: 帝塚山中学校\n日
+ 時: 2026年12月8日～2027年1月8日 09:00〜23:59\n場所: WEB出願
+ \n申込開始: 2026-12-08\n申込締切: 2027-01-08\n詳細: https://ww
+ w.tezukayama-h.ed.jp/nyuushi/openschool.html
+URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:naragakuen-c91f56da-2026-10-31@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261031T093000
+DTEND:20261031T120000
+SUMMARY:【奈良学園】中学受験生対象 テスト体験会「奈
+ 良学チャレンジ」
+LOCATION:本校 昇降口
+DESCRIPTION:種別: テスト体験会\n学校/主催: 奈良学園中学
+ 校\n日時: 令和8年10月31日（土） 09:30〜12:00\n場所: 本校
+  昇降口\n予約: 予約開始: 9月1日 8:00～\n申込開始: 2026-0
+ 9-01\nメモ: 小学6年生及び保護者等ご家族の300組を定員
+ 。生徒ご本人1名に対し、保護者等ご家族の方は1名ま
+ でご参加いただけます。\n詳細: https://www.naragakuen.ed.jp/
+ exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

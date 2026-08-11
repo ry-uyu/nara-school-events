@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-75dbf6ce-2026-10-04@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261004T100000
+DTEND:20261004T150000
+SUMMARY:【合同/塾】五ツ木書房主催「中学・高校進学相
+ 談会」
+LOCATION:OMMビル
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 10月4日（日） 10:00〜15:00\n場所: OMMビ
+ ル\nメモ: 中高対象\n詳細: https://www.naragakuen.ed.jp/exam/bri
+ efing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

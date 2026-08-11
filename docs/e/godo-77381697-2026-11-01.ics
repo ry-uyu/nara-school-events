@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-77381697-2026-11-01@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20261101T120000
+DTEND:20261101T160000
+SUMMARY:【合同/塾】昇英塾主催「私立中高 公立高校 学
+ 校説明会」
+LOCATION:名張産業振興センター「アスピア」
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 11月1日（日） 12:00〜16:00\n場所: 名張
+ 産業振興センター「アスピア」\nメモ: 中高対象\n詳細
+ : https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

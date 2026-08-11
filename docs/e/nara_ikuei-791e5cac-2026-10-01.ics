@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara_ikuei-791e5cac-2026-10-01@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:【奈良育英】授業見学会・説明会
+DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良育英中学校
+ \n日時: 10月1日(木)\n予約: 受付は9月上旬より\nメモ: 保
+ 護者対象\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-info
+ rmation/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+END:VCALENDAR

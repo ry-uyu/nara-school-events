@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ikuei_nishi-f735a9ec-2026-09-06@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260906T090000
+DTEND:20260906T113000
+SUMMARY:【育英西】9/6オープンスクール
+DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
+ 学校\n日時: 2026/09/06（日） 09:00〜11:30\n申込開始: 2026-07
+ -15\n申込締切: 2026-09-04\nメモ: 育英西校の文化祭を見学
+ していただけます。各クラスが趣向を凝らした模擬店
+ や展示などをお楽しみください。フリータイム中に学
+ 校説明会も実施いたします。\n詳細: https://mirai-compass.n
+ et/usr/nrikeiwj/event/evtIndex.jsf
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+END:VCALENDAR

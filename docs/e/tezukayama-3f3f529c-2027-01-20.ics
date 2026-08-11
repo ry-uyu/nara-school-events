@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tezukayama-3f3f529c-2027-01-20@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20270120T100000
+DTEND:20270120T110000
+SUMMARY:【帝塚山】中学校2次B入試合格発表
+LOCATION:帝塚山中学校・高等学校
+DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
+ 時: 2027年1月20日（水） 10:00\n場所: 帝塚山中学校・高
+ 等学校\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.htm
+ l
+URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+END:VEVENT
+END:VCALENDAR

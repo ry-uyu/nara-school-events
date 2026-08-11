@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-bbfd7466-2026-08-11@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:【合同/塾】奈良私学フェア2026
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 8/11(火･祝)\n詳細: https://www.naragakuen.jp
+ /tomigaoka/t_jun/
+URL:https://www.naragakuen.jp/tomigaoka/t_jun/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ikuei_nishi-eedd30db-2026-09-26-apply@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:【申込開始】育英西 9/26授業・クラブ体験会
+DESCRIPTION:育英西「9/26授業・クラブ体験会」の申込開始
+ 日です。\n本番: 2026/09/26（土）\n詳細: https://mirai-compass
+ .net/usr/nrikeiwj/event/evtIndex.jsf
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+END:VCALENDAR

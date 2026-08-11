@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:naragakuen-7403d754-2026-08-29@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260829T135000
+DTEND:20260829T154000
+SUMMARY:【奈良学園】中学受験生対象 学校見学会 第10回
+LOCATION:本校 NGプラザ2階 大教室前
+DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
+ \n日時: 令和8年8月29日（土） 13:50〜15:40\n場所: 本校 NG
+ プラザ2階 大教室前\nメモ: 児童ご本人と保護者等の約
+ 50組を定員。児童ご本人1名に対し、保護者等ご家族の
+ 方は2名までご参加いただけます。\n詳細: https://www.nara
+ gakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

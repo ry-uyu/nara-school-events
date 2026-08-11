@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-befeb793-2026-09-23@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260923T100000
+DTEND:20260923T160000
+SUMMARY:【合同/塾】馬渕教室 EXPO'26 学校説明会・個別相
+ 談会
+LOCATION:グランフロント大阪
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月23日（水・祝） 10:00〜16:00\n場所: 
+ グランフロント大阪\nメモ: 中学受験生対象\n詳細: http
+ s://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

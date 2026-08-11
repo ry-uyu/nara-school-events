@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:godo-eb11d530-2026-09-27@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART:20260927T130000
+DTEND:20260927T163000
+SUMMARY:【合同/塾】香芝教育研究会主催「第30回私立中
+ 学・高校入試相談会」
+LOCATION:香芝市ふたかみ文化センター
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+ 学相談会\n日時: 9月27日（日） 13:00〜16:30\n場所: 香芝
+ 市ふたかみ文化センター\nメモ: 高校受験生対象\n詳細
+ : https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

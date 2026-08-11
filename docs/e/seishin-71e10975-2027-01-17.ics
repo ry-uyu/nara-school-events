@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:seishin-71e10975-2027-01-17@nara-school-events
+DTSTAMP:20260811T120459Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:【聖心学園】B日程（午後）入試
+LOCATION:同校
+DESCRIPTION:種別: 受験日程\n学校/主催: 聖心学園中等教育
+ 学校\n日時: 1/17PM\n場所: 同校\nメモ: 受験料20\,000円\n詳
+ 細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishing
+ akuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+END:VCALENDAR
