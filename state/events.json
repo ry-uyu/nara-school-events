@@ -52,14 +52,53 @@
         "https://www.osaka-shigaku.gr.jp/chugakufair/"
       ]
     },
-    "nara_private": {
-      "name": "奈良県内 その他私立中学校",
-      "short": "県内私立",
-      "color": "#556070",
+    "tezukayama": {
+      "name": "帝塚山中学校",
+      "short": "帝塚山",
+      "color": "#7b2d8b",
       "tier": "weekly",
       "sources": [
-        "https://www.nara-shigaku.net/",
-        "https://www.study1.jp/kansai/area/nara/"
+        "https://www.tezukayama-h.ed.jp/nyuushi/setsumeikai.html",
+        "https://www.tezukayama-h.ed.jp/nyuushi/openschool.html"
+      ]
+    },
+    "chiben_college": {
+      "name": "智辯学園奈良カレッジ中学部",
+      "short": "智辯奈良カレッジ",
+      "color": "#00695c",
+      "tier": "weekly",
+      "sources": [
+        "https://www.chiben.ac.jp/naracollege/futures/orientation/"
+      ]
+    },
+    "seishin": {
+      "name": "聖心学園中等教育学校",
+      "short": "聖心学園",
+      "color": "#d84315",
+      "tier": "weekly",
+      "sources": [
+        "https://www.seishingakuenchuto.ed.jp/",
+        "https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchuto/"
+      ]
+    },
+    "ikuei_nishi": {
+      "name": "育英西中学校",
+      "short": "育英西",
+      "color": "#ad1457",
+      "tier": "weekly",
+      "sources": [
+        "https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/",
+        "https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf"
+      ]
+    },
+    "nara_ikuei": {
+      "name": "奈良育英中学校",
+      "short": "奈良育英",
+      "color": "#33691e",
+      "tier": "weekly",
+      "sources": [
+        "https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/",
+        "https://mirai-compass.net/usr/nikueij/event/evtIndex.jsf"
       ]
     }
   },

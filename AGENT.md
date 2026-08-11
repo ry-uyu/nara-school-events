@@ -51,14 +51,22 @@ HASH=$(printf '%s' "$BODY" | python3 -c "import sys,re,hashlib; t=sys.stdin.read
 - **新規**＝基準にidが無い。**変更**＝既存idの `date`/`start_time`/`location`/`apply_start`/`apply_deadline` のいずれかが変化。
 - `first_seen`/`last_updated` を設定。過去日・`date:null` も保持（履歴）。`meta.last_run`=`TODAY`。
 
-### 5. 配信物生成 → コミット
+### 5. 配信物生成 → 必ずコミット（毎回。pushの動作確認を兼ねる）
 ```
 export PAGES_BASE_URL="https://ry-uyu.github.io/nara-school-events"
 python3 build.py
-# 差分がある時のみ:
-git add -A && git commit -m "update: $TODAY 新規N/変更M" && git push origin HEAD:main
+
+# ★毎回ハートビートを追記（新規/変更が無くても必ずコミットする＝実行履歴＆push確認）
+printf '%s 種別=%s 巡回=%s スキップ=%s 新規=%s 変更=%s 即時通知=%s 週次通知=%s\n' \
+  "$TODAY $(TZ=Asia/Tokyo date +%H:%M)" "$KIND" "$N_CRAWL" "$N_SKIP" "$N_NEW" "$N_CHG" "$N_PUSH" "$WEEKLY" \
+  >> state/last_run.txt
+
+git add -A
+git commit -m "run: $TODAY $(TZ=Asia/Tokyo date +%H:%M) 新規${N_NEW}/変更${N_CHG}" || echo "nothing to commit"
+# push が拒否されたら pull --rebase してから再push（同時実行対策）
+git push origin HEAD:main || (git pull --rebase origin main && git push origin HEAD:main)
 ```
-認証情報は絶対にコミットしない。
+認証情報は絶対にコミットしない。**もし push が認証エラーで失敗する場合は、その旨を `state/last_run.txt` に記録し、実行サマリにも明記すること**（原因切り分けのため）。
 
 ### 6. 通知
 

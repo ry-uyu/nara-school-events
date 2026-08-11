@@ -7,7 +7,7 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:nara-shigaku-fair-2026@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260811T103000
 DTEND:20260811T161500
 SUMMARY:【合同/塾】奈良県私学フェア2026
@@ -22,7 +22,7 @@ URL:https://www.nara-shigaku.net/naraken-shigaku-fair/
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-shoshisai-2026-day1@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:【登美ヶ丘】尚志祭（文化祭）1日目
@@ -36,7 +36,7 @@ URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/view/junior/3119
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-shoshisai-2026-day2@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:【登美ヶ丘】尚志祭（文化祭）2日目
@@ -50,7 +50,7 @@ URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/view/junior/3120
 END:VEVENT
 BEGIN:VEVENT
 UID:hinoki-soudan-2026-08-30@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260830T183000
 DTEND:20260830T210000
 SUMMARY:【合同/塾】ひのき塾 令和8年度個別相談会
@@ -63,7 +63,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-bunkasai-2026-09-12@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260912T100000
 DTEND:20260912T150000
 SUMMARY:【奈良学園】奈良学園 文化祭（個別相談ブース
@@ -79,7 +79,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:chuwa-kyoiku-2026-09-20@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260920T123000
 DTEND:20260920T153000
 SUMMARY:【合同/塾】中和教育研究会 第21回私立中学・高
@@ -93,7 +93,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansemi-axy-2026-09-20@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260920T131500
 DTEND:20260920T151500
 SUMMARY:【合同/塾】カンセミAXY 入試説明会
@@ -106,7 +106,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:mabuchi-expo-2026-09-23@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260923T100000
 DTEND:20260923T160000
 SUMMARY:【合同/塾】馬渕教室 EXPO'26
@@ -120,7 +120,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:kansai-kyoiku-festa-2026-09-27@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260927T100000
 DTEND:20260927T160000
 SUMMARY:【合同/塾】関西教育機構 私立中学フェスタ
@@ -133,7 +133,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara-shingakuhaku-30-2026-09-27@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260927T100000
 DTEND:20260927T160000
 SUMMARY:【合同/塾】第30回 奈良県進学博
@@ -147,7 +147,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:sankei-ados-tennoji-2026-09-27@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20260927T110000
 DTEND:20260927T153000
 SUMMARY:【合同/塾】産経アドス 進学相談会 in 天王寺
@@ -160,7 +160,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:itsuki-2026-10-04@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20261004T100000
 DTEND:20261004T150000
 SUMMARY:【合同/塾】五ツ木書房 中学・高校進学相談会
@@ -173,7 +173,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:shoei-2026-11-01@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20261101T120000
 DTEND:20261101T160000
 SUMMARY:【合同/塾】昇英塾 私立中高・公立高校 学校説
@@ -187,7 +187,7 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:sankei-ados-umeda-2026-11-15@nara-school-events
-DTSTAMP:20260811T073732Z
+DTSTAMP:20260811T075348Z
 DTSTART:20261115T110000
 DTEND:20261115T153000
 SUMMARY:【合同/塾】産経アドス 進学相談会 in 梅田
