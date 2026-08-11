@@ -3,6 +3,8 @@ __pycache__/
 .DS_Store
 # ローカル専用ランナー（絶対パス/端末依存のため公開しない）
 run_local.py
+# launchd/実行ログ
+*.log
 # 認証情報は絶対にコミットしない
 *.secret
 .env
