@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:naragakuen-b37d1d0c-2026-11-07-apply@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】奈良学園 奈良学園中学校入試説明
+ 会 第2回
+LOCATION:本校 第一体育館
+DESCRIPTION:奈良学園「奈良学園中学校入試説明会 第2回
+ 」の申込開始日です。\n本番: 令和8年11月7日（土）\n
+ 詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR

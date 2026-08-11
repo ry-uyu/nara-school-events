@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:seishin-d2ee3108-2027-01-20-apply@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:【申込開始】聖心学園 Ｄ日程（午後）入試
+LOCATION:同校
+DESCRIPTION:聖心学園「Ｄ日程（午後）入試」の申込開始
+ 日です。\n本番: 1/20PM\n詳細: https://www.schoolnetwork.jp/kansa
+ i/jhs/school_list/school/seishingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:chiben_college-5d7837e7-2026-08-24@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART:20260824T100000
+DTEND:20260824T113000
+SUMMARY:【智辯奈良カレッジ】夏のプライベート見学会
+ （３期）
+LOCATION:智辯学園奈良カレッジ
+DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
+ レッジ中学部\n日時: 令和８年８月２４日（月）と８
+ 月２７日（木） 10:00〜11:30\n場所: 智辯学園奈良カレッ
+ ジ\n予約: 小学生・中学生それぞれ５組限定\nメモ: 午
+ 前の部（１０：００～１１：３０）・午後の部（１３
+ ：００～１４：３０）。スクールバスの配車はなし。
+ \n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
+URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
+END:VEVENT
+END:VCALENDAR

@@ -7,14 +7,13 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:tezukayama-65ee4734-2027-01-23@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:【帝塚山】中学校入試併願合格者登校日
-LOCATION:帝塚山中学校・高等学校
 DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
- 時: 2027年1月23日（土）\n場所: 帝塚山中学校・高等学
- 校\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+ 時: 2027年1月23日（土）\n詳細: https://www.tezukayama-h.ed.jp/n
+ yuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 END:VCALENDAR

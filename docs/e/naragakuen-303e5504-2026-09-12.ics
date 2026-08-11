@@ -7,15 +7,15 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:naragakuen-303e5504-2026-09-12@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260912T100000
 DTEND:20260912T150000
 SUMMARY:【奈良学園】奈良学園文化祭 個別相談ブース
 LOCATION:本校 コミュニティスペース
 DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園中学校\n日
  時: 9月12日（土） 10:00〜15:00\n場所: 本校 コミュニティ
- スペース\nメモ: 中高対象\n詳細: https://www.naragakuen.ed.jp
- /exam/briefing/
+ スペース\nメモ: ブース説明会\n詳細: https://www.naragakuen
+ .ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 END:VCALENDAR

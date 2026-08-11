@@ -7,18 +7,18 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:nara_ikuei-9a96e65c-2026-09-12@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260912T090000
 DTEND:20260912T150000
 SUMMARY:【奈良育英】菫咲祭（文化祭）
 DESCRIPTION:種別: 文化祭\n学校/主催: 奈良育英中学校\n日
  時: 2026/09/12（土） 09:00〜15:00\n予約: 小学生以外のお申
- 込みはお断り。入場者制限30組。受験生1名、保護者等
- ご家族2名まで。保護者のみの参加は可能。\n申込開始
- : 2026-08-12\n申込締切: 2026-09-11\nメモ: 09:10～10:00 中学ス
- テージ、10:30～11:00 中学説明会、12:30～13:00 高校説明
- 会。08:30～11:00 受付。\n詳細: https://www.ikuei.ed.jp/ikuei-jh/
- admission/ex-information/
+ 込みはお断りしております。入場者制限は30組。申込
+ み人数は受験生1名、保護者等ご家族2名まで。保護者
+ のみの参加は可能。\n申込開始: 2026-08-12\n申込締切: 202
+ 6-09-11\nメモ: 08:30～11:00 受付、09:10～10:00 中学ステージ
+ 、10:30～11:00 中学説明会、12:30～13:00 高校説明会\n詳細
+ : https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 END:VCALENDAR

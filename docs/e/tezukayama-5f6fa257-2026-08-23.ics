@@ -7,18 +7,17 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:tezukayama-5f6fa257-2026-08-23@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260823T090000
+DTSTAMP:20260811T125355Z
+DTSTART:20260823T084500
 DTEND:20260823T120000
 SUMMARY:【帝塚山】オープンスクール
 LOCATION:帝塚山中学校・高等学校
 DESCRIPTION:種別: オープンスクール\n学校/主催: 帝塚山中
- 学校\n日時: 2026年8月23日（日） 09:00〜12:00\n場所: 帝塚
- 山中学校・高等学校\n予約: 事前申込必要。定員なし
- 。申込期間：2026年7月13日（月）9:00～2026年8月16日（日
- ）23:59\n申込開始: 2026-07-13\n申込締切: 2026-08-16\nメモ: 
- 受付8:45～10:30、9:00～12:00に校舎見学・クラブ活動体験
- または見学、VTR視聴\n詳細: https://www.tezukayama-h.ed.jp/nyuu
+ 学校\n日時: 2026年8月23日（日） 08:45〜12:00\n場所: 帝塚
+ 山中学校・高等学校\n予約: 事前申込必須、定員なし\n
+ 申込開始: 2026-07-13\n申込締切: 2026-08-16\nメモ: 校舎見学
+ ・クラブ活動体験または見学、VTR視聴。受付8:45～10:30
+ 、活動内容9:00～12:00\n詳細: https://www.tezukayama-h.ed.jp/nyuu
  shi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT

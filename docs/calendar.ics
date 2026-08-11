@@ -6,182 +6,114 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:godo-bbfd7466-2026-08-11@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:【合同/塾】奈良私学フェア2026
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 8/11(火･祝)\n詳細: https://www.naragakuen.jp
- /tomigaoka/t_jun/
-URL:https://www.naragakuen.jp/tomigaoka/t_jun/
-END:VEVENT
-BEGIN:VEVENT
 UID:godo-e863fa0d-2026-08-11@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260811T090000
 DTEND:20260811T170000
 SUMMARY:【合同/塾】奈良県私学フェア
 LOCATION:奈良県コンベンションセンター
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+DESCRIPTION:種別: 合同相談会\n学校/主催: 合同説明会・進
  学相談会\n日時: 8月11日(火・祝) 09:00〜17:00\n場所: 奈良
- 県コンベンションセンター\nメモ: 中高対象\n詳細: http
- s://www.naragakuen.ed.jp/exam/briefing/
+ 県コンベンションセンター\nメモ: ブース説明会\n詳細
+ : https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
-UID:godo-64ac8b32-2026-08-11@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260811T103000
-DTEND:20260811T161500
-SUMMARY:【合同/塾】奈良科学ファイア2026 -奈良科学のた
- めの15校合同-
-LOCATION:奈良県 コンベンション・センター
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 2026 8.11（火・祝） 10:30〜16:15\n場所: 
- 奈良県 コンベンション・センター\n予約: 入場料は自
- 由！気軽にご来場ください！\nメモ: 個別相談のみ予
- 約予約制（先着順）。7.22（水）10:00から申し込みスタ
- ート。\n詳細: https://www.nara-shigaku.net/naraken-shigaku-fair/
-URL:https://www.nara-shigaku.net/naraken-shigaku-fair/
-END:VEVENT
-BEGIN:VEVENT
 UID:naragakuen-d2ad0d5b-2026-08-22@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260822T135000
 DTEND:20260822T154000
 SUMMARY:【奈良学園】中学受験生対象 学校見学会 第9回
 LOCATION:本校 NGプラザ2階 大教室前
 DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年8月22日（土） 13:50〜15:40\n場所: 本校 NG
- プラザ2階 大教室前\nメモ: 児童ご本人と保護者等の約
- 50組を定員。児童ご本人1名に対し、保護者等ご家族の
- 方は2名までご参加いただけます。\n詳細: https://www.nara
- gakuen.ed.jp/exam/briefing/
+ プラザ2階 大教室前\n予約: 定員約50組\nメモ: 児童1名
+ に保護者2名までご参加可\n詳細: https://www.naragakuen.ed.jp
+ /exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-5f6fa257-2026-08-23@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260823T090000
+DTSTAMP:20260811T125355Z
+DTSTART:20260823T084500
 DTEND:20260823T120000
 SUMMARY:【帝塚山】オープンスクール
 LOCATION:帝塚山中学校・高等学校
 DESCRIPTION:種別: オープンスクール\n学校/主催: 帝塚山中
- 学校\n日時: 2026年8月23日（日） 09:00〜12:00\n場所: 帝塚
- 山中学校・高等学校\n予約: 事前申込必要。定員なし
- 。申込期間：2026年7月13日（月）9:00～2026年8月16日（日
- ）23:59\n申込開始: 2026-07-13\n申込締切: 2026-08-16\nメモ: 
- 受付8:45～10:30、9:00～12:00に校舎見学・クラブ活動体験
- または見学、VTR視聴\n詳細: https://www.tezukayama-h.ed.jp/nyuu
+ 学校\n日時: 2026年8月23日（日） 08:45〜12:00\n場所: 帝塚
+ 山中学校・高等学校\n予約: 事前申込必須、定員なし\n
+ 申込開始: 2026-07-13\n申込締切: 2026-08-16\nメモ: 校舎見学
+ ・クラブ活動体験または見学、VTR視聴。受付8:45～10:30
+ 、活動内容9:00～12:00\n詳細: https://www.tezukayama-h.ed.jp/nyuu
  shi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tomigaoka-b686046e-2026-08-29@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:【登美ヶ丘】尚志祭
-DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園登美ヶ丘中
- 学校\n日時: 8/29(土)・30(日)\n予約: 申込受付開始：8/3（
- 月）10：00～\nメモ: 参加対象:小学生６年生およびその
- 保護者の方\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka
- /list/junior
-URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+UID:chiben_college-5d7837e7-2026-08-24@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART:20260824T100000
+DTEND:20260824T113000
+SUMMARY:【智辯奈良カレッジ】夏のプライベート見学会
+ （３期）
+LOCATION:智辯学園奈良カレッジ
+DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
+ レッジ中学部\n日時: 令和８年８月２４日（月）と８
+ 月２７日（木） 10:00〜11:30\n場所: 智辯学園奈良カレッ
+ ジ\n予約: 小学生・中学生それぞれ５組限定\nメモ: 午
+ 前の部（１０：００～１１：３０）・午後の部（１３
+ ：００～１４：３０）。スクールバスの配車はなし。
+ \n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
+URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-7403d754-2026-08-29@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260829T135000
 DTEND:20260829T154000
 SUMMARY:【奈良学園】中学受験生対象 学校見学会 第10回
 LOCATION:本校 NGプラザ2階 大教室前
 DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年8月29日（土） 13:50〜15:40\n場所: 本校 NG
- プラザ2階 大教室前\nメモ: 児童ご本人と保護者等の約
- 50組を定員。児童ご本人1名に対し、保護者等ご家族の
- 方は2名までご参加いただけます。\n詳細: https://www.nara
- gakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
-UID:tomigaoka-02a76df4-2026-08-30@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:【登美ヶ丘】尚志祭2日目
-DESCRIPTION:種別: 文化祭(受験生見学可)\n学校/主催: 奈良
- 学園登美ヶ丘中学校\n日時: 8/30(日)\n予約: 申込受付開
- 始：8/3（月）10：00～\n申込開始: 2026-08-03\nメモ: 参加
- 対象:小学生６年生およびその保護者の方\n詳細: https:/
- /reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
-URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
-END:VEVENT
-BEGIN:VEVENT
-UID:godo-c869384f-2026-08-30@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260830T183000
-DTEND:20260830T210000
-SUMMARY:【合同/塾】ひのき塾主催「令和8年度個別相談会
- 」
-LOCATION:奈良商工会議所
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 8月30日（日） 18:30〜21:00\n場所: 奈良
- 商工会議所\nメモ: 中高対象\n詳細: https://www.naragakuen.ed
- .jp/exam/briefing/
+ プラザ2階 大教室前\n予約: 定員約50組\nメモ: 児童1名
+ に保護者2名までご参加可\n詳細: https://www.naragakuen.ed.jp
+ /exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-09-05@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260905T100000
-DTEND:20260905T143000
+DTEND:20260905T113000
 SUMMARY:【智辯奈良カレッジ】サタデー学校ツアー
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
- レッジ中学部\n日時: 令和８年９月５日（土） 10:00〜14
- :30\n場所: 智辯学園奈良カレッジ\n予約: 午前・午後そ
- れぞれ小学生10組・中学生5組限定\nメモ: 個別相談も
- 可能。関屋駅のみスクールバス運行（駅前ロータリー
- を9:30発と12:30発）。\n詳細: https://www.chiben.ac.jp/naracolleg
- e/futures/orientation/
+ レッジ中学部\n日時: 令和８年９月５日（土） 10:00〜11
+ :30\n場所: 智辯学園奈良カレッジ\n予約: 午前･午後そ
+ れぞれ小学生１０組・中学生５組限定\nメモ: 午前の
+ 部（１０：００～１１：３０）・午後の部（１３：０
+ ０～１４：３０）。関屋駅のみスクールバス運行。\n
+ 詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
-UID:ikuei_nishi-f735a9ec-2026-09-06@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260906T090000
-DTEND:20260906T113000
-SUMMARY:【育英西】9/6オープンスクール
-DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
- 学校\n日時: 2026/09/06（日） 09:00〜11:30\n申込開始: 2026-07
- -15\n申込締切: 2026-09-04\nメモ: 育英西校の文化祭を見学
- していただけます。各クラスが趣向を凝らした模擬店
- や展示などをお楽しみください。フリータイム中に学
- 校説明会も実施いたします。\n詳細: https://mirai-compass.n
- et/usr/nrikeiwj/event/evtIndex.jsf
-URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
-END:VEVENT
-BEGIN:VEVENT
 UID:nara_ikuei-9a96e65c-2026-09-12@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260912T090000
 DTEND:20260912T150000
 SUMMARY:【奈良育英】菫咲祭（文化祭）
 DESCRIPTION:種別: 文化祭\n学校/主催: 奈良育英中学校\n日
  時: 2026/09/12（土） 09:00〜15:00\n予約: 小学生以外のお申
- 込みはお断り。入場者制限30組。受験生1名、保護者等
- ご家族2名まで。保護者のみの参加は可能。\n申込開始
- : 2026-08-12\n申込締切: 2026-09-11\nメモ: 09:10～10:00 中学ス
- テージ、10:30～11:00 中学説明会、12:30～13:00 高校説明
- 会。08:30～11:00 受付。\n詳細: https://www.ikuei.ed.jp/ikuei-jh/
- admission/ex-information/
+ 込みはお断りしております。入場者制限は30組。申込
+ み人数は受験生1名、保護者等ご家族2名まで。保護者
+ のみの参加は可能。\n申込開始: 2026-08-12\n申込締切: 202
+ 6-09-11\nメモ: 08:30～11:00 受付、09:10～10:00 中学ステージ
+ 、10:30～11:00 中学説明会、12:30～13:00 高校説明会\n詳細
+ : https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-9a96e65c-2026-09-12-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:【申込開始】奈良育英 菫咲祭（文化祭）
@@ -192,50 +124,53 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-303e5504-2026-09-12@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260912T100000
 DTEND:20260912T150000
 SUMMARY:【奈良学園】奈良学園文化祭 個別相談ブース
 LOCATION:本校 コミュニティスペース
 DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園中学校\n日
  時: 9月12日（土） 10:00〜15:00\n場所: 本校 コミュニティ
- スペース\nメモ: 中高対象\n詳細: https://www.naragakuen.ed.jp
- /exam/briefing/
+ スペース\nメモ: ブース説明会\n詳細: https://www.naragakuen
+ .ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-a1e73248-2026-09-19@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:【聖心学園】オープンスクール・入試説明会
 LOCATION:同校
 DESCRIPTION:種別: オープンスクール\n学校/主催: 聖心学園
  中等教育学校\n日時: 2026年9月19日\n場所: 同校\n予約: We
- b\nメモ: 午後開催\n詳細: https://www.schoolnetwork.jp/kansai/jhs
- /school_list/school/seishingakuenchuto/
+ b予約要\nメモ: 保護者・小学生対象、午後開催\n詳細: 
+ https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuen
+ chuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5f6fa257-2026-09-19@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260919T091500
 DTEND:20260919T130000
 SUMMARY:【奈良育英】中学校オープンスクール
 DESCRIPTION:種別: オープンスクール\n学校/主催: 奈良育英
- 中学校\n日時: 2026/09/19（土） 09:15〜13:00\n予約: 受付は8
- 月下旬より\n申込開始: 2026-08-19\n申込締切: 2026-09-18\nメ
- モ: 08:45～受付。09:15-10:05 全体会・学校説明、10:15-11:00
-  授業体験、11:15-12:00 部活体験（１）等、12:15-13:00 部
- 活体験（２）等。全体会・学校説明・授業体験は必須
- 、部活体験・食堂体験・個別相談から選択可能。\n詳
- 細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+ 中学校\n日時: 2026/09/19（土） 09:15〜13:00\n予約: 全体会
+ ･学校説明･授業体験のみの選択可能。部活体験希望
+ の場合は、それぞれの活動に適した服装・靴･もしあ
+ れば用具（ラケット･グローブ･防具等）もご準備く
+ ださい。\n申込開始: 2026-08-19\n申込締切: 2026-09-18\nメモ
+ : 08:45～ 受付、09:15-10:05 全体会・学校説明、10:15-11:00 
+ 授業体験、11:15-12:00 部活体験（１）等、12:15-13:00 部活
+ 体験（２）等\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/e
+ x-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5f6fa257-2026-09-19-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:【申込開始】奈良育英 中学校オープンスクール
@@ -246,109 +181,65 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-d79bf3e9-2026-09-20@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:【智辯奈良カレッジ】文化祭の見学
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 文化祭（受験生見学可）\n学校/主催: 智
  辯学園奈良カレッジ中学部\n日時: 令和８年９月２０
- 日（日）\n場所: 智辯学園奈良カレッジ\n予約: 小学生6
- 0組・中学生20組およびその保護者をご招待\nメモ: 午
- 前に予定。講堂での発表や教室等における発表・展示
- を見学。駐車場を準備していないため各駅からのスク
- ールバスもしくは関屋駅からの徒歩で来校。\n詳細: ht
- tps://www.chiben.ac.jp/naracollege/futures/orientation/
+ 日（日）\n場所: 智辯学園奈良カレッジ\n予約: 小学生
+ （60組）・中学生（20組）およびその保護者を招待\nメ
+ モ: 午前に予定。講堂での発表や教室等における発表
+ ・展示を見学。駐車場なし。\n詳細: https://www.chiben.ac.j
+ p/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
-UID:godo-1e31516e-2026-09-20@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260920T123000
-DTEND:20260920T153000
-SUMMARY:【合同/塾】中和教育研究会主催「第21回私立中
- 学・高校入試相談会」
-LOCATION:奈良県社会福祉総合センター
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 9月20日（日） 12:30〜15:30\n場所: 奈良
- 県社会福祉総合センター\nメモ: 中高対象\n詳細: https:/
- /www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
-UID:godo-bf94d90c-2026-09-20@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260920T131500
-DTEND:20260920T151500
-SUMMARY:【合同/塾】カンセミAXY主催「入試説明会」
-LOCATION:奈良県コンベンションセンター
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 9月20日（日） 13:15〜15:15\n場所: 奈良
- 県コンベンションセンター\nメモ: 中高対象\n詳細: http
- s://www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
 UID:godo-befeb793-2026-09-23@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260923T100000
 DTEND:20260923T160000
 SUMMARY:【合同/塾】馬渕教室 EXPO'26 学校説明会・個別相
  談会
 LOCATION:グランフロント大阪
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+DESCRIPTION:種別: 合同相談会\n学校/主催: 合同説明会・進
  学相談会\n日時: 9月23日（水・祝） 10:00〜16:00\n場所: 
- グランフロント大阪\nメモ: 中学受験生対象\n詳細: http
- s://www.naragakuen.ed.jp/exam/briefing/
+ グランフロント大阪\nメモ: 中学受験生対象、ブース
+ 説明会\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:ikuei_nishi-eedd30db-2026-09-26@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260926T093000
 DTEND:20260926T120000
 SUMMARY:【育英西】9/26授業・クラブ体験会
 DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
- 学校\n日時: 2026/09/26（土） 09:30〜12:00\n申込開始: 2026-07
- -02\n申込締切: 2026-09-24\nメモ: 育英西の授業とクラブ活
- 動に参加しましょう！【当日のプログラム】9:00 受付 
- 9:30 開会 9:40 生徒による学校紹介 10:00 授業体験 10:55 
- クラブ体験 12:00頃 解散\n詳細: https://mirai-compass.net/usr/n
- rikeiwj/event/evtIndex.jsf
+ 学校\n日時: 9/26（土） 09:30〜12:00\n申込開始: 2026-07-02\n
+ 申込締切: 2026-09-24\nメモ: 育英西の授業とクラブ活動
+ に参加しましょう！【当日のプログラム】9:00 受付 9:3
+ 0 開会 9:40 生徒による学校紹介 10:00 授業体験 10:55 ク
+ ラブ体験 12:00頃 解散\n詳細: https://mirai-compass.net/usr/nrik
+ eiwj/event/evtIndex.jsf
 URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
 BEGIN:VEVENT
-UID:tezukayama-3eaf1c8b-2026-09-26@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260926T100000
-DTEND:20260926T113000
-SUMMARY:【帝塚山】ミニ学校見学会
-LOCATION:帝塚山中学校・高等学校
-DESCRIPTION:種別: 学校見学会\n学校/主催: 帝塚山中学校\n
- 日時: 2026年7月25日（土） 10:00〜11:30\n場所: 帝塚山中学
- 校・高等学校\n予約: 事前申込必要。定員各回120名。\n
- 申込開始: 2026-07-09\n申込締切: 2026-07-25\nメモ: 説明30分
- 、校舎見学+個別相談60分\n詳細: https://www.tezukayama-h.ed.j
- p/nyuushi/openschool.html
-URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-END:VEVENT
-BEGIN:VEVENT
 UID:tezukayama-b8e661e1-2026-09-27@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260927T093000
 DTEND:20260927T103000
 SUMMARY:【帝塚山】第1回入試説明会
 LOCATION:帝塚山学園講堂
 DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
  日時: 2026年9月27日（日） 09:30\n場所: 帝塚山学園講堂\n
- 予約: 事前申込必要。定員500名（1家庭2名以内）\n申込
- 開始: 2026-08-24\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/opens
- chool.html
+ 予約: 定員500名（1家庭2名以内）\n申込開始: 2026-08-24\n
+ 詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-b8e661e1-2026-09-27-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:【申込開始】帝塚山 第1回入試説明会
@@ -359,67 +250,25 @@ DESCRIPTION:帝塚山「第1回入試説明会」の申込開始日です
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
-UID:godo-338c5970-2026-09-27@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260927T100000
-DTEND:20260927T160000
-SUMMARY:【合同/塾】関西教育機構主催「私立中学フェス
- タ」
-LOCATION:梅田サウスホール
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 9月27日（日） 10:00〜16:00\n場所: 梅田
- サウスホール\nメモ: 中学受験生対象\n詳細: https://www.n
- aragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
 UID:godo-d01d3281-2026-09-27@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20260927T100000
 DTEND:20260927T160000
 SUMMARY:【合同/塾】第30回奈良県進学博
 LOCATION:奈良県コンベンションセンター
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
+DESCRIPTION:種別: 合同相談会\n学校/主催: 合同説明会・進
  学相談会\n日時: 9月27日（日） 10:00〜16:00\n場所: 奈良
- 県コンベンションセンター\nメモ: 中高対象\n詳細: http
- s://www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
-UID:godo-5909f782-2026-09-27@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260927T110000
-DTEND:20260927T153000
-SUMMARY:【合同/塾】産経アドス主催「私立中学校・高等
- 学校進学相談会in天王寺」
-LOCATION:あべのハルカス
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 9月27日（日） 11:00〜15:30\n場所: あべ
- のハルカス\nメモ: 中高対象（資料参加）\n詳細: https:/
- /www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
-UID:godo-eb11d530-2026-09-27@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20260927T130000
-DTEND:20260927T163000
-SUMMARY:【合同/塾】香芝教育研究会主催「第30回私立中
- 学・高校入試相談会」
-LOCATION:香芝市ふたかみ文化センター
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 9月27日（日） 13:00〜16:30\n場所: 香芝
- 市ふたかみ文化センター\nメモ: 高校受験生対象\n詳細
+ 県コンベンションセンター\nメモ: ブース説明会\n詳細
  : https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-791e5cac-2026-10-01@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:【奈良育英】授業見学会・説明会
-DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良育英中学校
+DESCRIPTION:種別: 学校説明会\n学校/主催: 奈良育英中学校
  \n日時: 10月1日(木)\n予約: 受付は9月上旬より\nメモ: 保
  護者対象\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-info
  rmation/
@@ -427,7 +276,7 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-4860eb97-2026-10-03@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261003T100000
 DTEND:20261003T123000
 SUMMARY:【聖心学園】聖心入試チャレンジ（国算）・入
@@ -435,56 +284,55 @@ SUMMARY:【聖心学園】聖心入試チャレンジ（国算）・入
 LOCATION:同校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
  育学校\n日時: 2026年10月3日 10:00〜12:30\n場所: 同校\n予
- 約: Web\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/sc
- hool/seishingakuenchuto/
+ 約: Web予約要\nメモ: 保護者・小学6年生対象\n詳細: http
+ s://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchut
+ o/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
-UID:naragakuen-83cec0f5-2026-10-03@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:naragakuen-555b9277-2026-10-03@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART:20261003T140000
 DTEND:20261003T153000
-SUMMARY:【奈良学園】令和9年度 奈良学園中学校入試説明
- 会 第1回
+SUMMARY:【奈良学園】奈良学園中学校入試説明会 第1回
 LOCATION:本校 第一体育館
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年10月3日（土） 14:00〜15:30\n場所: 本校 第
- 一体育館\n予約: 予約開始: 9月1日 8:00～\n申込開始: 2026
+ 一体育館\n予約: 9月1日8:00より予約開始\n申込開始: 2026
  -09-01\nメモ: 第1回と第2回は同じ内容\n詳細: https://www.na
  ragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
-UID:naragakuen-83cec0f5-2026-10-03-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:naragakuen-555b9277-2026-10-03-apply@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:【申込開始】奈良学園 令和9年度 奈良学園中学
- 校入試説明会 第1回
+SUMMARY:【申込開始】奈良学園 奈良学園中学校入試説明
+ 会 第1回
 LOCATION:本校 第一体育館
-DESCRIPTION:奈良学園「令和9年度 奈良学園中学校入試説
- 明会 第1回」の申込開始日です。\n本番: 令和8年10月3
- 日（土）\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+DESCRIPTION:奈良学園「奈良学園中学校入試説明会 第1回
+ 」の申込開始日です。\n本番: 令和8年10月3日（土）\n
+ 詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8dd3b62c-2026-10-03@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261003T143000
 DTEND:20261003T153000
 SUMMARY:【帝塚山】第2回入試説明会
 LOCATION:帝塚山学園講堂
 DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
  日時: 2026年10月3日（土） 14:30\n場所: 帝塚山学園講堂\n
- 予約: 事前申込必要。定員500名（1家庭2名以内）\n申込
- 開始: 2026-09-04\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/opens
- chool.html
+ 予約: 定員500名（1家庭2名以内）\n申込開始: 2026-09-04\n
+ 詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8dd3b62c-2026-10-03-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:【申込開始】帝塚山 第2回入試説明会
@@ -495,49 +343,37 @@ DESCRIPTION:帝塚山「第2回入試説明会」の申込開始日です
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
-UID:godo-75dbf6ce-2026-10-04@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20261004T100000
-DTEND:20261004T150000
-SUMMARY:【合同/塾】五ツ木書房主催「中学・高校進学相
- 談会」
-LOCATION:OMMビル
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 10月4日（日） 10:00〜15:00\n場所: OMMビ
- ル\nメモ: 中高対象\n詳細: https://www.naragakuen.ed.jp/exam/bri
- efing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
 UID:seishin-4860eb97-2026-10-07@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261007T173000
 DTEND:20261007T183000
 SUMMARY:【聖心学園】聖心入試チャレンジ（国算）・入
  試説明会
 LOCATION:同校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
- 育学校\n日時: 2026年10月7日 17:30\n場所: 同校\n予約: Web\n
- 詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seish
- ingakuenchuto/
+ 育学校\n日時: 2026年10月7日 17:30\n場所: 同校\n予約: Web
+ 予約要\nメモ: 保護者・小学6年生対象\n詳細: https://www.
+ schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-09f375f4-2026-10-10@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:【智辯奈良カレッジ】中学入試プレテスト
-DESCRIPTION:種別: 受験日程\n学校/主催: 智辯学園奈良カレ
+LOCATION:智辯学園奈良カレッジ
+DESCRIPTION:種別: 入試日程\n学校/主催: 智辯学園奈良カレ
  ッジ中学部\n日時: 令和９年度中学入試プレテストは
- １０月１０日（土）を予定\nメモ: 予定\n詳細: https://ww
- w.chiben.ac.jp/naracollege/futures/orientation/
+ １０月１０日（土）\n場所: 智辯学園奈良カレッジ\nメ
+ モ: 令和９年度中学入試プレテスト\n詳細: https://www.chi
+ ben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-b8e661e1-2026-10-17@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:【奈良育英】第1回入試説明会
@@ -548,50 +384,21 @@ DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
-UID:godo-eaa29a41-2026-10-18@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20261018T140000
-DTEND:20261018T163000
-SUMMARY:【合同/塾】ひかり塾主催「私立高校進学相談会
- 」
-LOCATION:けいはんなプラザ
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 10月18日（日） 14:00〜16:30\n場所: けい
- はんなプラザ\nメモ: 中高対象\n詳細: https://www.naragakuen
- .ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
-UID:godo-80ccc487-2026-10-18@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20261018T140000
-DTEND:20261018T163000
-SUMMARY:【合同/塾】関西私塾の会主催「第17回京都山城
- 進学個別相談会」
-LOCATION:文化パルク城陽
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 10月18日（日） 14:00〜16:30\n場所: 文化
- パルク城陽\nメモ: 中高対象\n詳細: https://www.naragakuen.ed
- .jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
 UID:tezukayama-f33c357d-2026-10-25@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261025T093000
 DTEND:20261025T103000
 SUMMARY:【帝塚山】第3回入試説明会
 LOCATION:帝塚山学園講堂
 DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
  日時: 2026年10月25日（日） 09:30\n場所: 帝塚山学園講堂\
- n予約: 事前申込必要。定員500名（1家庭2名以内）\n申
- 込開始: 2026-09-25\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/op
- enschool.html
+ n予約: 定員500名（1家庭2名以内）\n申込開始: 2026-09-25\n
+ 詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-f33c357d-2026-10-25-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:【申込開始】帝塚山 第3回入試説明会
@@ -603,52 +410,50 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5c3d4220-2026-10-31@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:【奈良育英】第2回入試説明会・トライアル①（
  プレテスト）
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
  \n日時: 10月31日(土)\n予約: 受付は9月下旬より\nメモ: 
- 入試についてご説明します トライアルでは本番通り
+ 入試についてご説明します。トライアルでは本番通り
  の入試の練習ができます\n詳細: https://www.ikuei.ed.jp/ikuei
  -jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
-UID:naragakuen-c91f56da-2026-10-31@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:naragakuen-55827e31-2026-10-31@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART:20261031T093000
 DTEND:20261031T120000
-SUMMARY:【奈良学園】中学受験生対象 テスト体験会「奈
- 良学チャレンジ」
+SUMMARY:【奈良学園】テスト体験会「奈良学チャレンジ
+ 」
 LOCATION:本校 昇降口
 DESCRIPTION:種別: テスト体験会\n学校/主催: 奈良学園中学
  校\n日時: 令和8年10月31日（土） 09:30〜12:00\n場所: 本校
-  昇降口\n予約: 予約開始: 9月1日 8:00～\n申込開始: 2026-0
- 9-01\nメモ: 小学6年生及び保護者等ご家族の300組を定員
- 。生徒ご本人1名に対し、保護者等ご家族の方は1名ま
- でご参加いただけます。\n詳細: https://www.naragakuen.ed.jp/
- exam/briefing/
+  昇降口\n予約: 定員300組、9月1日8:00より予約開始\n申
+ 込開始: 2026-09-01\nメモ: 小学6年生対象、受験生1名に対
+ し保護者1名まで。受付9:00～\n詳細: https://www.naragakuen.e
+ d.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
-UID:naragakuen-c91f56da-2026-10-31-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:naragakuen-55827e31-2026-10-31-apply@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:【申込開始】奈良学園 中学受験生対象 テスト体
- 験会「奈良学チャレンジ」
+SUMMARY:【申込開始】奈良学園 テスト体験会「奈良学チ
+ ャレンジ」
 LOCATION:本校 昇降口
-DESCRIPTION:奈良学園「中学受験生対象 テスト体験会「奈
- 良学チャレンジ」」の申込開始日です。\n本番: 令和8
- 年10月31日（土）\n詳細: https://www.naragakuen.ed.jp/exam/briefi
- ng/
+DESCRIPTION:奈良学園「テスト体験会「奈良学チャレンジ
+ 」」の申込開始日です。\n本番: 令和8年10月31日（土）
+ \n詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:seishin-e6f2ab1a-2026-10-31@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261031T100000
 DTEND:20261031T123000
 SUMMARY:【聖心学園】合格勝ち取りセミナー（国算）・
@@ -656,97 +461,70 @@ SUMMARY:【聖心学園】合格勝ち取りセミナー（国算）・
 LOCATION:同校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
  育学校\n日時: 2026年10月31日 10:00〜12:30\n場所: 同校\n予
- 約: Web\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/sc
- hool/seishingakuenchuto/
+ 約: Web予約要\nメモ: 保護者・小学6年生対象\n詳細: http
+ s://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchut
+ o/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
-UID:godo-77381697-2026-11-01@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20261101T120000
-DTEND:20261101T160000
-SUMMARY:【合同/塾】昇英塾主催「私立中高 公立高校 学
- 校説明会」
-LOCATION:名張産業振興センター「アスピア」
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 11月1日（日） 12:00〜16:00\n場所: 名張
- 産業振興センター「アスピア」\nメモ: 中高対象\n詳細
- : https://www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
-UID:naragakuen-60d31832-2026-11-07@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:naragakuen-b37d1d0c-2026-11-07@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART:20261107T140000
 DTEND:20261107T153000
-SUMMARY:【奈良学園】令和9年度 奈良学園中学校入試説明
- 会 第2回
+SUMMARY:【奈良学園】奈良学園中学校入試説明会 第2回
 LOCATION:本校 第一体育館
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年11月7日（土） 14:00〜15:30\n場所: 本校 第
- 一体育館\n予約: 予約開始: 9月1日 8:00～\n申込開始: 2026
+ 一体育館\n予約: 9月1日8:00より予約開始\n申込開始: 2026
  -09-01\nメモ: 第1回と第2回は同じ内容\n詳細: https://www.na
  ragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
-UID:naragakuen-60d31832-2026-11-07-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:naragakuen-b37d1d0c-2026-11-07-apply@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:【申込開始】奈良学園 令和9年度 奈良学園中学
- 校入試説明会 第2回
+SUMMARY:【申込開始】奈良学園 奈良学園中学校入試説明
+ 会 第2回
 LOCATION:本校 第一体育館
-DESCRIPTION:奈良学園「令和9年度 奈良学園中学校入試説
- 明会 第2回」の申込開始日です。\n本番: 令和8年11月7
- 日（土）\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
-UID:godo-81c60dad-2026-11-15@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20261115T110000
-DTEND:20261115T153000
-SUMMARY:【合同/塾】産経アドス主催「私立中学校・高等
- 学校進学相談会in梅田」
-LOCATION:グランフロント大阪
-DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
- 学相談会\n日時: 11月15日（日） 11:00〜15:30\n場所: グラ
- ンフロント大阪\nメモ: 中高対象\n詳細: https://www.naragak
- uen.ed.jp/exam/briefing/
+DESCRIPTION:奈良学園「奈良学園中学校入試説明会 第2回
+ 」の申込開始日です。\n本番: 令和8年11月7日（土）\n
+ 詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-6496e021-2026-11-21@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:【奈良育英】専願者集会
-DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
+DESCRIPTION:種別: 学校説明会\n学校/主催: 奈良育英中学校
  \n日時: 11月21日(土)\n予約: 受付は10月下旬より\nメモ: 
  専願受験の方向けの説明会です\n詳細: https://www.ikuei.ed
  .jp/ikuei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
-UID:seishin-7eb20a76-2026-11-21@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:seishin-1bd58115-2026-11-21@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART:20261121T090000
 DTEND:20261121T130000
-SUMMARY:【聖心学園】聖心入試チャレンジ（国算理社）
- ・入試説明会
+SUMMARY:【聖心学園】聖心入試チャレンジ（国算理社 ※
+ 理社は希望制）・入試説明会
 LOCATION:同校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
  育学校\n日時: 2026年11月21日 09:00〜13:00\n場所: 同校\n予
- 約: Web\nメモ: 理社は希望制\n詳細: https://www.schoolnetwork.
- jp/kansai/jhs/school_list/school/seishingakuenchuto/
+ 約: Web予約要\nメモ: 保護者・小学6年生対象\n詳細: http
+ s://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchut
+ o/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a51cfbbe-2026-11-21@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261121T091500
 DTEND:20261121T101500
 SUMMARY:【帝塚山】第4回入試説明会「小6対象 帝塚山チ
@@ -754,14 +532,13 @@ SUMMARY:【帝塚山】第4回入試説明会「小6対象 帝塚山チ
 LOCATION:帝塚山学園講堂
 DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
  日時: 2026年11月21日（土） 09:15\n場所: 帝塚山学園講堂\
- n予約: 事前申込必要。定員500名（保護者付添1名）\n申
- 込開始: 2026-10-26\nメモ: 小6対象\n詳細: https://www.tezukayam
- a-h.ed.jp/nyuushi/openschool.html
+ n予約: 定員500名（保護者付添1名）\n申込開始: 2026-10-26
+ \n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a51cfbbe-2026-11-21-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:【申込開始】帝塚山 第4回入試説明会「小6対象 
@@ -775,7 +552,7 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-694a5f84-2026-11-21@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261121T093000
 DTEND:20261121T120000
 SUMMARY:【智辯奈良カレッジ】中学部オープンキャンパ
@@ -784,59 +561,58 @@ LOCATION:智辯学園奈良カレッジ講堂と図書館など
 DESCRIPTION:種別: オープンキャンパス\n学校/主催: 智辯学
  園奈良カレッジ中学部\n日時: 令和８年１１月２１日
  （土） 09:30〜12:00\n場所: 智辯学園奈良カレッジ講堂と
- 図書館など\nメモ: 中学入試直前対策講座（小学6年生
- 対象）、入試説明会開催。校内見学・個別相談も可能
- 。関屋駅・上ノ太子駅・高井田駅からスクールバス運
- 行。\n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation
- /
+ 図書館など\n予約: 小学６年生対象の中学入試直前対
+ 策講座を開講\nメモ: 入試説明会も開催。校内見学・
+ 個別相談も可能。関屋駅・上ノ太子駅・高井田駅から
+ スクールバス運行。\n詳細: https://www.chiben.ac.jp/naracolleg
+ e/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
-UID:seishin-7eb20a76-2026-11-25@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:seishin-1bd58115-2026-11-25@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART:20261125T173000
 DTEND:20261125T183000
-SUMMARY:【聖心学園】聖心入試チャレンジ（国算理社）
- ・入試説明会
+SUMMARY:【聖心学園】聖心入試チャレンジ（国算理社 ※
+ 理社は希望制）・入試説明会
 LOCATION:同校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
- 育学校\n日時: 2026年11月25日 17:30\n場所: 同校\n予約: Web\
- nメモ: 理社は希望制\n詳細: https://www.schoolnetwork.jp/kansai
- /jhs/school_list/school/seishingakuenchuto/
+ 育学校\n日時: 2026年11月25日 17:30\n場所: 同校\n予約: Web
+ 予約要\nメモ: 保護者・小学6年生対象\n詳細: https://www.
+ schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-5ab55969-2026-11-28@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:【奈良育英】第3回入試説明会・トライアル②（
  プレテスト）
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
  \n日時: 11月28日(土)\n予約: 受付は10月中旬より\nメモ: 
- 入試についてご説明します トライアルでは本番通り
+ 入試についてご説明します。トライアルでは本番通り
  の入試の練習ができます\n詳細: https://www.ikuei.ed.jp/ikuei
  -jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a44d5d69-2026-11-29@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261129T093000
 DTEND:20261129T103000
 SUMMARY:【帝塚山】第5回入試説明会
 LOCATION:帝塚山学園講堂
 DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
  日時: 2026年11月29日（日） 09:30\n場所: 帝塚山学園講堂\
- n予約: 事前申込必要。定員500名（1家庭2名以内）\n申
- 込開始: 2026-10-30\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/op
- enschool.html
+ n予約: 定員500名（1家庭2名以内）\n申込開始: 2026-10-30\n
+ 詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-a44d5d69-2026-11-29-apply@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:【申込開始】帝塚山 第5回入試説明会
@@ -848,74 +624,24 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-12-05@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261205T100000
-DTEND:20261205T143000
+DTEND:20261205T113000
 SUMMARY:【智辯奈良カレッジ】サタデー学校ツアー
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
  レッジ中学部\n日時: 令和８年１２月５日（土） 10:00
- 〜14:30\n場所: 智辯学園奈良カレッジ\n予約: 午前・午
- 後それぞれ小学生10組・中学生10組限定\nメモ: 個別相
- 談も可能。関屋駅のみスクールバス運行（駅前ロータ
- リーを9:30発と12:30発）。\n詳細: https://www.chiben.ac.jp/nara
- college/futures/orientation/
+ 〜11:30\n場所: 智辯学園奈良カレッジ\n予約: 午前･午
+ 後それぞれ小学生１０組・中学生１０組限定\nメモ: 
+ 午前の部（１０：００～１１：３０）・午後の部（１
+ ３：００～１４：３０）。関屋駅のみスクールバス運
+ 行。\n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation
+ /
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
-UID:tezukayama-29a3c184-2026-12-08@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20261208T090000
-DTEND:20261208T235900
-SUMMARY:【帝塚山】中学校出願受付（1次A・1次B・2次A）
-LOCATION:WEB出願
-DESCRIPTION:種別: 願書受付\n学校/主催: 帝塚山中学校\n日
- 時: 2026年12月8日～2027年1月8日 09:00〜23:59\n場所: WEB出願
- \n申込開始: 2026-12-08\n申込締切: 2027-01-08\n詳細: https://ww
- w.tezukayama-h.ed.jp/nyuushi/openschool.html
-URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-END:VEVENT
-BEGIN:VEVENT
-UID:tezukayama-29a3c184-2026-12-08-apply@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:【申込開始】帝塚山 中学校出願受付（1次A・1次B
- ・2次A）
-LOCATION:WEB出願
-DESCRIPTION:帝塚山「中学校出願受付（1次A・1次B・2次A）
- 」の申込開始日です。\n本番: 2026年12月8日～2027年1月8
- 日\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-END:VEVENT
-BEGIN:VEVENT
-UID:tezukayama-8d3dd78a-2026-12-08@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART:20261208T090000
-DTEND:20261208T110000
-SUMMARY:【帝塚山】中学校出願受付（2次B）
-LOCATION:WEB出願
-DESCRIPTION:種別: 願書受付\n学校/主催: 帝塚山中学校\n日
- 時: 2026年12月8日～2027年1月18日（11:00まで） 09:00〜11:00\
- n場所: WEB出願\n申込開始: 2026-12-08\n申込締切: 2027-01-18\n
- 詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-END:VEVENT
-BEGIN:VEVENT
-UID:tezukayama-8d3dd78a-2026-12-08-apply@nara-school-events
-DTSTAMP:20260811T120842Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:【申込開始】帝塚山 中学校出願受付（2次B）
-LOCATION:WEB出願
-DESCRIPTION:帝塚山「中学校出願受付（2次B）」の申込開
- 始日です。\n本番: 2026年12月8日～2027年1月18日（11:00ま
- で）\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-END:VEVENT
-BEGIN:VEVENT
 UID:seishin-e6f2ab1a-2026-12-12@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261212T100000
 DTEND:20261212T123000
 SUMMARY:【聖心学園】合格勝ち取りセミナー（国算）・
@@ -923,145 +649,212 @@ SUMMARY:【聖心学園】合格勝ち取りセミナー（国算）・
 LOCATION:同校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
  育学校\n日時: 2026年12月12日 10:00〜12:30\n場所: 同校\n予
- 約: Web\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/sc
- hool/seishingakuenchuto/
+ 約: Web予約要\nメモ: 保護者・小学6年生対象\n詳細: http
+ s://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchut
+ o/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-dafe54b8-2026-12-22@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261222T100000
-DTEND:20261222T143000
+DTEND:20261222T113000
 SUMMARY:【智辯奈良カレッジ】冬のプライベート見学会
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
  レッジ中学部\n日時: 令和８年１２月２２日（火）～
- ２５日（金） 10:00〜14:30\n場所: 智辯学園奈良カレッジ
- \n予約: 小学生・中学生それぞれ５組限定\nメモ: 12月22
- 日・23日・24日・25日。スクールバスの配車がなし。\n
- 詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
+ ２５日（金） 10:00〜11:30\n場所: 智辯学園奈良カレッジ
+ \n予約: 小学生・中学生それぞれ５組限定\nメモ: 午前
+ の部（１０：００～１１：３０）・午後の部（１３：
+ ００～１４：３０）。スクールバスの配車なし。\n詳
+ 細: https://www.chiben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-8ab157e1-2027-01-16@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:【帝塚山】中学校1次A入試、中学校1次B入試
-LOCATION:帝塚山中学校・高等学校
 DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
- 時: 2027年1月16日（土）\n場所: 帝塚山中学校・高等学
- 校\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+ 時: 2027年1月16日（土）\n詳細: https://www.tezukayama-h.ed.jp/n
+ yuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seishin-a730f135-2027-01-17@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:seishin-b12d1930-2027-01-17@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:【聖心学園】A日程 入試
+SUMMARY:【聖心学園】Ａ日程入試
 LOCATION:同校
 DESCRIPTION:種別: 受験日程\n学校/主催: 聖心学園中等教育
- 学校\n日時: 1/17\n場所: 同校\nメモ: 受験料20\,000円\n詳
- 細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishing
- akuenchuto/
+ 学校\n日時: 1/17\n場所: 同校\n申込開始: 2026-12-02\n申込
+ 締切: 2027-01-14\nメモ: 英数Ⅰ類/英数Ⅱ類（男女）、募
+ 集人数各40名、試験科目：国算理社or国算理又は作文
+ 型（専願のみ）/算＋作文、合格発表日：1/17 web20:00\n
+ 詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seish
+ ingakuenchuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
-UID:seishin-71e10975-2027-01-17@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:seishin-b12d1930-2027-01-17-apply@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:【申込開始】聖心学園 Ａ日程入試
+LOCATION:同校
+DESCRIPTION:聖心学園「Ａ日程入試」の申込開始日です。\
+ n本番: 1/17\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_li
+ st/school/seishingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+BEGIN:VEVENT
+UID:seishin-89085eca-2027-01-17@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:【聖心学園】B日程（午後）入試
+SUMMARY:【聖心学園】Ｂ日程（午後）入試
 LOCATION:同校
 DESCRIPTION:種別: 受験日程\n学校/主催: 聖心学園中等教育
- 学校\n日時: 1/17PM\n場所: 同校\nメモ: 受験料20\,000円\n詳
- 細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishing
- akuenchuto/
+ 学校\n日時: 1/17PM\n場所: 同校\n申込開始: 2026-12-02\n申込
+ 締切: 2027-01-14\nメモ: 英数Ⅰ類/英数Ⅱ類（男女）、募
+ 集人数各40名、試験科目：国算、合格発表日：1/18 web14
+ :00\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/
+ seishingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+BEGIN:VEVENT
+UID:seishin-89085eca-2027-01-17-apply@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:【申込開始】聖心学園 Ｂ日程（午後）入試
+LOCATION:同校
+DESCRIPTION:聖心学園「Ｂ日程（午後）入試」の申込開始
+ 日です。\n本番: 1/17PM\n詳細: https://www.schoolnetwork.jp/kansa
+ i/jhs/school_list/school/seishingakuenchuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-e7a8c317-2027-01-17@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20270117T160000
 DTEND:20270117T170000
 SUMMARY:【帝塚山】中学校2次A入試、中学校1次A入試・1次
  B入試合格発表
-LOCATION:帝塚山中学校・高等学校
 DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
- 時: 2027年1月17日（日） 16:00\n場所: 帝塚山中学校・高
- 等学校\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.htm
- l
+ 時: 2027年1月17日（日） 16:00\nメモ: 合否発表16:00～\n詳
+ 細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
-UID:tezukayama-45d0e8bb-2027-01-18@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:tezukayama-77b78f18-2027-01-18@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART:20270118T160000
 DTEND:20270118T170000
-SUMMARY:【帝塚山】中学校2次B入試、中学校入試専願合格
- 者登校日、中学校2次A入試合格発表
-LOCATION:帝塚山中学校・高等学校
+SUMMARY:【帝塚山】中学校2次B入試、中学校2次A入試合格
+ 発表
 DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
- 時: 2027年1月18日（月） 16:00\n場所: 帝塚山中学校・高
- 等学校\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.htm
- l
+ 時: 2027年1月18日（月） 16:00\nメモ: 合否発表16:00～、専
+ 願合格者登校日\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/op
+ enschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
-UID:seishin-ead84694-2027-01-19@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:seishin-429cc675-2027-01-19@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:【聖心学園】C日程 入試
+SUMMARY:【聖心学園】Ｃ日程入試
 LOCATION:同校
 DESCRIPTION:種別: 受験日程\n学校/主催: 聖心学園中等教育
- 学校\n日時: 1/19\n場所: 同校\nメモ: 受験料20\,000円\n詳
- 細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishing
- akuenchuto/
+ 学校\n日時: 1/19\n場所: 同校\n申込開始: 2026-12-02\n申込
+ 締切: 2027-01-14\nメモ: 英数Ⅰ類/英数Ⅱ類（男女）、募
+ 集人数各40名、試験科目：国算社or国算理、合格発表
+ 日：1/20 web14:00\n詳細: https://www.schoolnetwork.jp/kansai/jhs/sch
+ ool_list/school/seishingakuenchuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
-UID:seishin-5816df12-2027-01-20@nara-school-events
-DTSTAMP:20260811T120842Z
+UID:seishin-429cc675-2027-01-19-apply@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:【申込開始】聖心学園 Ｃ日程入試
+LOCATION:同校
+DESCRIPTION:聖心学園「Ｃ日程入試」の申込開始日です。\
+ n本番: 1/19\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_li
+ st/school/seishingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+BEGIN:VEVENT
+UID:seishin-d2ee3108-2027-01-20@nara-school-events
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:【聖心学園】D日程（午後）入試
+SUMMARY:【聖心学園】Ｄ日程（午後）入試
 LOCATION:同校
 DESCRIPTION:種別: 受験日程\n学校/主催: 聖心学園中等教育
- 学校\n日時: 1/20PM\n場所: 同校\nメモ: 受験料20\,000円\n詳
- 細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishing
- akuenchuto/
+ 学校\n日時: 1/20PM\n場所: 同校\n申込開始: 2026-12-02\n申込
+ 締切: 2027-01-20\nメモ: 英数Ⅰ類/英数Ⅱ類（男女）、募
+ 集人数各40名、試験科目：国算、合格発表日：1/21 web14
+ :00\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/
+ seishingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+BEGIN:VEVENT
+UID:seishin-d2ee3108-2027-01-20-apply@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:【申込開始】聖心学園 Ｄ日程（午後）入試
+LOCATION:同校
+DESCRIPTION:聖心学園「Ｄ日程（午後）入試」の申込開始
+ 日です。\n本番: 1/20PM\n詳細: https://www.schoolnetwork.jp/kansa
+ i/jhs/school_list/school/seishingakuenchuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-3f3f529c-2027-01-20@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20270120T100000
 DTEND:20270120T110000
 SUMMARY:【帝塚山】中学校2次B入試合格発表
-LOCATION:帝塚山中学校・高等学校
 DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
- 時: 2027年1月20日（水） 10:00\n場所: 帝塚山中学校・高
- 等学校\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.htm
- l
+ 時: 2027年1月20日（水） 10:00\nメモ: 合否発表10:00～\n詳
+ 細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-65ee4734-2027-01-23@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:【帝塚山】中学校入試併願合格者登校日
-LOCATION:帝塚山中学校・高等学校
 DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
- 時: 2027年1月23日（土）\n場所: 帝塚山中学校・高等学
- 校\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+ 時: 2027年1月23日（土）\n詳細: https://www.tezukayama-h.ed.jp/n
+ yuushi/openschool.html
+URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tezukayama-1770ee1b-2027-03-21@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART:20270321T093000
+DTEND:20270321T103000
+SUMMARY:【帝塚山】中学校新入生登校日
+DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
+ 時: 2027年3月21日（金・祝） 09:30\nメモ: 保護者同伴\n詳
+ 細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 END:VCALENDAR

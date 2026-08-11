@@ -26,6 +26,24 @@ def today_jst():
     return datetime.now(JST).date()
 
 
+CLOSED_MARKS = ("満席", "受付終了", "受付を終了", "募集終了", "締切", "終了しました")
+
+
+def is_closed(ev, today):
+    """満席・受付終了・申込締切超過なら True（ダッシュボード掲載対象外）。"""
+    st = ev.get("status") or ""
+    if any(k in st for k in CLOSED_MARKS):
+        return True
+    dl = ev.get("apply_deadline")
+    if dl:
+        try:
+            if datetime.strptime(dl, "%Y-%m-%d").date() < today:
+                return True
+        except ValueError:
+            pass
+    return False
+
+
 def ics_escape(s):
     if s is None:
         return ""
@@ -243,7 +261,7 @@ def main():
             d = datetime.strptime(ev["date"], "%Y-%m-%d").date()
         except ValueError:
             continue
-        if d >= today:
+        if d >= today and not is_closed(ev, today):
             upcoming.append((d, ev))
     upcoming.sort(key=lambda x: (x[0], x[1].get("start_time") or "00:00"))
     ordered = [ev for _, ev in upcoming]

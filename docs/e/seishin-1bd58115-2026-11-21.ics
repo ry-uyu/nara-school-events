@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:seishin-e6f2ab1a-2026-10-31@nara-school-events
+UID:seishin-1bd58115-2026-11-21@nara-school-events
 DTSTAMP:20260811T125355Z
-DTSTART:20261031T100000
-DTEND:20261031T123000
-SUMMARY:【聖心学園】合格勝ち取りセミナー（国算）・
- 入試説明会
+DTSTART:20261121T090000
+DTEND:20261121T130000
+SUMMARY:【聖心学園】聖心入試チャレンジ（国算理社 ※
+ 理社は希望制）・入試説明会
 LOCATION:同校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
- 育学校\n日時: 2026年10月31日 10:00〜12:30\n場所: 同校\n予
+ 育学校\n日時: 2026年11月21日 09:00〜13:00\n場所: 同校\n予
  約: Web予約要\nメモ: 保護者・小学6年生対象\n詳細: http
  s://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuenchut
  o/

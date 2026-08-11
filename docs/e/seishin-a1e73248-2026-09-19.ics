@@ -7,15 +7,16 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:seishin-a1e73248-2026-09-19@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:【聖心学園】オープンスクール・入試説明会
 LOCATION:同校
 DESCRIPTION:種別: オープンスクール\n学校/主催: 聖心学園
  中等教育学校\n日時: 2026年9月19日\n場所: 同校\n予約: We
- b\nメモ: 午後開催\n詳細: https://www.schoolnetwork.jp/kansai/jhs
- /school_list/school/seishingakuenchuto/
+ b予約要\nメモ: 保護者・小学生対象、午後開催\n詳細: 
+ https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingakuen
+ chuto/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT

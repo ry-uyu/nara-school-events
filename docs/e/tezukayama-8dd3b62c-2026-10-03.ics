@@ -7,16 +7,15 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:tezukayama-8dd3b62c-2026-10-03@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART:20261003T143000
 DTEND:20261003T153000
 SUMMARY:【帝塚山】第2回入試説明会
 LOCATION:帝塚山学園講堂
 DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
  日時: 2026年10月3日（土） 14:30\n場所: 帝塚山学園講堂\n
- 予約: 事前申込必要。定員500名（1家庭2名以内）\n申込
- 開始: 2026-09-04\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/opens
- chool.html
+ 予約: 定員500名（1家庭2名以内）\n申込開始: 2026-09-04\n
+ 詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 END:VCALENDAR

@@ -7,14 +7,16 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:chiben_college-09f375f4-2026-10-10@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T125355Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:【智辯奈良カレッジ】中学入試プレテスト
-DESCRIPTION:種別: 受験日程\n学校/主催: 智辯学園奈良カレ
+LOCATION:智辯学園奈良カレッジ
+DESCRIPTION:種別: 入試日程\n学校/主催: 智辯学園奈良カレ
  ッジ中学部\n日時: 令和９年度中学入試プレテストは
- １０月１０日（土）を予定\nメモ: 予定\n詳細: https://ww
- w.chiben.ac.jp/naracollege/futures/orientation/
+ １０月１０日（土）\n場所: 智辯学園奈良カレッジ\nメ
+ モ: 令和９年度中学入試プレテスト\n詳細: https://www.chi
+ ben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 END:VCALENDAR

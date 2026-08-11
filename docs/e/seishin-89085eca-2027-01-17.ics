@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:seishin-89085eca-2027-01-17@nara-school-events
+DTSTAMP:20260811T125355Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:【聖心学園】Ｂ日程（午後）入試
+LOCATION:同校
+DESCRIPTION:種別: 受験日程\n学校/主催: 聖心学園中等教育
+ 学校\n日時: 1/17PM\n場所: 同校\n申込開始: 2026-12-02\n申込
+ 締切: 2027-01-14\nメモ: 英数Ⅰ類/英数Ⅱ類（男女）、募
+ 集人数各40名、試験科目：国算、合格発表日：1/18 web14
+ :00\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_list/school/
+ seishingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+END:VCALENDAR
