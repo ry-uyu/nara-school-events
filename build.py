@@ -68,8 +68,14 @@ def fold(line):
     return "\r\n".join(out)
 
 
-def dtstamp():
-    return datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+def dtstamp_from(ev):
+    """DTSTAMP はイベントの last_updated 基準（内容が変わらない限り .ics も不変＝毎回の差分を防ぐ）。"""
+    lu = ev.get("last_updated") or ev.get("first_seen") or "2026-01-01"
+    try:
+        y, m, d = lu.split("-")
+        return f"{y}{m}{d}T000000Z"
+    except ValueError:
+        return "20260101T000000Z"
 
 
 def school(schools, key):
@@ -101,10 +107,10 @@ def event_description(ev, sc):
 
 
 def vevent(uid, summary, date_str, all_day, start_time, end_time,
-           location, description, url):
+           location, description, url, dtstamp_val):
     """1件の VEVENT 文字列を返す。date_str は YYYY-MM-DD。"""
     y, m, d = date_str.split("-")
-    lines = ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{dtstamp()}"]
+    lines = ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{dtstamp_val}"]
     if all_day or not start_time:
         lines.append(f"DTSTART;VALUE=DATE:{y}{m}{d}")
         end = (datetime(int(y), int(m), int(d)) + timedelta(days=1))
@@ -144,7 +150,8 @@ def build_event_vevent(ev, sc):
         date_str=ev["date"], all_day=ev.get("all_day", False),
         start_time=ev.get("start_time"), end_time=ev.get("end_time"),
         location=ev.get("location", ""),
-        description=event_description(ev, sc), url=ev.get("url", ""))
+        description=event_description(ev, sc), url=ev.get("url", ""),
+        dtstamp_val=dtstamp_from(ev))
 
 
 def build_apply_vevent(ev, sc):
@@ -156,7 +163,7 @@ def build_apply_vevent(ev, sc):
         summary=f"【申込開始】{sc['short']} {ev['title']}",
         date_str=ev["apply_start"], all_day=True, start_time=None,
         end_time=None, location=ev.get("location", ""),
-        description=desc, url=ev.get("url", ""))
+        description=desc, url=ev.get("url", ""), dtstamp_val=dtstamp_from(ev))
 
 
 def html_dashboard(events, schools, base):
