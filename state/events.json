@@ -2,7 +2,7 @@
   "meta": {
     "description": "娘の中学受験イベント監視データ（志望校：奈良女子大附属中等 / 奈良学園登美ヶ丘中 / 奈良学園中）",
     "target_exam_year": "2028年度入試（2028年1-2月実施）",
-    "last_run": "2026-08-14",
+    "last_run": "2026-08-15",
     "timezone": "Asia/Tokyo",
     "last_weekly_date": "2026-08-11"
   },
