@@ -2,9 +2,9 @@
   "meta": {
     "description": "娘の中学受験イベント監視データ（志望校：奈良女子大附属中等 / 奈良学園登美ヶ丘中 / 奈良学園中）",
     "target_exam_year": "2028年度入試（2028年1-2月実施）",
-    "last_run": "2026-08-15",
+    "last_run": "2026-08-16",
     "timezone": "Asia/Tokyo",
-    "last_weekly_date": "2026-08-11"
+    "last_weekly_date": "2026-08-16"
   },
   "priority_event_types": [
     "学校見学会",
@@ -1518,8 +1518,8 @@
     },
     {
       "school_key": "nara_ikuei",
-      "title": "菫咲祭（文化祭）",
-      "type": "文化祭",
+      "title": "公開行事：菫咲祭（文化祭）",
+      "type": "文化祭（受験生見学可）",
       "date": "2026-09-12",
       "date_raw": "2026/09/12（土）",
       "start_time": "09:00",
@@ -1530,7 +1530,7 @@
       "reservation_note": "小学生以外のお申込みはお断りしております。入場者制限は30組。申込み人数は受験生1名、保護者等ご家族2名まで。保護者のみの参加は可能。",
       "apply_start": "2026-08-12",
       "apply_deadline": "2026-09-11",
-      "status": "受付前",
+      "status": "満席",
       "note": "08:30～11:00 受付、09:10～10:00 中学ステージ、10:30～11:00 中学説明会、12:30～13:00 高校説明会",
       "id": "nara_ikuei-9a96e65c-2026-09-12",
       "url": "https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/",
@@ -1549,7 +1549,7 @@
       "all_day": false,
       "location": "",
       "reservation_required": true,
-      "reservation_note": "全体会･学校説明･授業体験のみの選択可能。部活体験希望の場合は、それぞれの活動に適した服装・靴･もしあれば用具（ラケット･グローブ･防具等）もご準備ください。",
+      "reservation_note": "全体会・学校説明・授業体験（選択必須）、部活体験・食堂体験・個別相談から希望のプログラムを選択。全体会・学校説明・授業体験のみの選択可能。部活体験希望の場合は適した服装・靴・用具をご準備ください。",
       "apply_start": "2026-08-19",
       "apply_deadline": "2026-09-18",
       "status": "受付前",

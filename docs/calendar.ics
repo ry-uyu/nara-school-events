@@ -83,22 +83,6 @@ DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
-UID:nara_ikuei-9a96e65c-2026-09-12@nara-school-events
-DTSTAMP:20260811T000000Z
-DTSTART:20260912T090000
-DTEND:20260912T150000
-SUMMARY:【奈良育英】菫咲祭（文化祭）
-DESCRIPTION:種別: 文化祭\n学校/主催: 奈良育英中学校\n日
- 時: 2026/09/12（土） 09:00〜15:00\n予約: 小学生以外のお申
- 込みはお断りしております。入場者制限は30組。申込
- み人数は受験生1名、保護者等ご家族2名まで。保護者
- のみの参加は可能。\n申込開始: 2026-08-12\n申込締切: 202
- 6-09-11\nメモ: 08:30～11:00 受付、09:10～10:00 中学ステージ
- 、10:30～11:00 中学説明会、12:30～13:00 高校説明会\n詳細
- : https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
-URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
-END:VEVENT
-BEGIN:VEVENT
 UID:naragakuen-303e5504-2026-09-12@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20260912T100000
@@ -134,14 +118,14 @@ DTEND:20260919T130000
 SUMMARY:【奈良育英】中学校オープンスクール
 DESCRIPTION:種別: オープンスクール\n学校/主催: 奈良育英
  中学校\n日時: 2026/09/19（土） 09:15〜13:00\n予約: 全体会
- ･学校説明･授業体験のみの選択可能。部活体験希望
- の場合は、それぞれの活動に適した服装・靴･もしあ
- れば用具（ラケット･グローブ･防具等）もご準備く
- ださい。\n申込開始: 2026-08-19\n申込締切: 2026-09-18\nメモ
- : 08:45～ 受付、09:15-10:05 全体会・学校説明、10:15-11:00 
- 授業体験、11:15-12:00 部活体験（１）等、12:15-13:00 部活
- 体験（２）等\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/e
- x-information/
+ ・学校説明・授業体験（選択必須）、部活体験・食堂
+ 体験・個別相談から希望のプログラムを選択。全体会
+ ・学校説明・授業体験のみの選択可能。部活体験希望
+ の場合は適した服装・靴・用具をご準備ください。\n
+ 申込開始: 2026-08-19\n申込締切: 2026-09-18\nメモ: 08:45～ 受
+ 付、09:15-10:05 全体会・学校説明、10:15-11:00 授業体験、
+ 11:15-12:00 部活体験（１）等、12:15-13:00 部活体験（２）
+ 等\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
