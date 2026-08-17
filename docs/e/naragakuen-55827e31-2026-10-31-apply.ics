@@ -7,15 +7,14 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:naragakuen-55827e31-2026-10-31-apply@nara-school-events
-DTSTAMP:20260811T000000Z
+DTSTAMP:20260817T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:【申込開始】奈良学園 テスト体験会「奈良学チ
- ャレンジ」
-LOCATION:本校 昇降口
-DESCRIPTION:奈良学園「テスト体験会「奈良学チャレンジ
- 」」の申込開始日です。\n本番: 令和8年10月31日（土）
- \n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+SUMMARY:【申込開始】奈良学園 奈良学チャレンジ
+LOCATION:本校
+DESCRIPTION:奈良学園「奈良学チャレンジ」の申込開始日
+ です。\n本番: 令和8年10月31日（土）\n詳細: https://www.na
+ ragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 END:VCALENDAR

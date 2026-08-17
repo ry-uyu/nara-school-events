@@ -14,9 +14,11 @@ SUMMARY:【奈良学園】中学受験生対象 学校見学会 第9回
 LOCATION:本校 NGプラザ2階 大教室前
 DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年8月22日（土） 13:50〜15:40\n場所: 本校 NG
- プラザ2階 大教室前\n予約: 定員約50組\nメモ: 児童1名
- に保護者2名までご参加可\n詳細: https://www.naragakuen.ed.jp
- /exam/briefing/
+ プラザ2階 大教室前\n予約: 申し込み必須\nメモ: 定員
+ 約50組。児童1名に対し保護者は2名まで参加可。学年
+ 不問。学校生活等の説明、施設・里山見学、理科実験
+ ・クラブ体験など。\n詳細: https://www.naragakuen.ed.jp/exam/b
+ riefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -45,9 +47,11 @@ SUMMARY:【奈良学園】中学受験生対象 学校見学会 第10回
 LOCATION:本校 NGプラザ2階 大教室前
 DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年8月29日（土） 13:50〜15:40\n場所: 本校 NG
- プラザ2階 大教室前\n予約: 定員約50組\nメモ: 児童1名
- に保護者2名までご参加可\n詳細: https://www.naragakuen.ed.jp
- /exam/briefing/
+ プラザ2階 大教室前\n予約: 申し込み必須\nメモ: 定員
+ 約50組。児童1名に対し保護者は2名まで参加可。学年
+ 不問。学校生活等の説明、施設・里山見学、理科実験
+ ・クラブ体験など。\n詳細: https://www.naragakuen.ed.jp/exam/b
+ riefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -75,8 +79,8 @@ SUMMARY:【奈良学園】奈良学園文化祭 個別相談ブース
 LOCATION:本校 コミュニティスペース
 DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園中学校\n日
  時: 9月12日（土） 10:00〜15:00\n場所: 本校 コミュニティ
- スペース\nメモ: ブース説明会\n詳細: https://www.naragakuen
- .ed.jp/exam/briefing/
+ スペース\nメモ: 中高対象。ブース説明会。\n詳細: http
+ s://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -147,10 +151,10 @@ DTEND:20260923T160000
 SUMMARY:【合同/塾】馬渕教室 EXPO'26 学校説明会・個別相
  談会
 LOCATION:グランフロント大阪
-DESCRIPTION:種別: 合同相談会\n学校/主催: 合同説明会・進
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
  学相談会\n日時: 9月23日（水・祝） 10:00〜16:00\n場所: 
- グランフロント大阪\nメモ: 中学受験生対象、ブース
- 説明会\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+ グランフロント大阪\nメモ: 中学受験生対象。ブース
+ 説明会。\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -167,6 +171,37 @@ DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
  ラブ体験 12:00頃 解散\n詳細: https://mirai-compass.net/usr/nrik
  eiwj/event/evtIndex.jsf
 URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+BEGIN:VEVENT
+UID:naragakuen-825f96ce-2026-09-26@nara-school-events
+DTSTAMP:20260817T000000Z
+DTSTART:20260926T100000
+DTEND:20260926T113000
+SUMMARY:【奈良学園】高等学校受験生対象 学校見学会 第
+ 1回
+LOCATION:本校 NGプラザ2階 大教室前
+DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
+ \n日時: 令和8年9月26日（土） 10:00〜11:30\n場所: 本校 NG
+ プラザ2階 大教室前\n予約: 申し込み必須。8/21 8:00～予
+ 約開始\n申込開始: 2026-08-21\nメモ: 中学3年生及び保護
+ 者対象。定員60組。生徒1名に対し保護者は1名まで参
+ 加可。学校生活等の説明、学校施設の見学、模擬授業
+ 等の体験予定。\n詳細: https://www.naragakuen.ed.jp/exam/briefin
+ g/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:naragakuen-825f96ce-2026-09-26-apply@nara-school-events
+DTSTAMP:20260817T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:【申込開始】奈良学園 高等学校受験生対象 学校
+ 見学会 第1回
+LOCATION:本校 NGプラザ2階 大教室前
+DESCRIPTION:奈良学園「高等学校受験生対象 学校見学会 
+ 第1回」の申込開始日です。\n本番: 令和8年9月26日（土
+ ）\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tezukayama-b8e661e1-2026-09-27@nara-school-events
@@ -200,10 +235,10 @@ DTSTART:20260927T100000
 DTEND:20260927T160000
 SUMMARY:【合同/塾】第30回奈良県進学博
 LOCATION:奈良県コンベンションセンター
-DESCRIPTION:種別: 合同相談会\n学校/主催: 合同説明会・進
+DESCRIPTION:種別: 合同説明会\n学校/主催: 合同説明会・進
  学相談会\n日時: 9月27日（日） 10:00〜16:00\n場所: 奈良
- 県コンベンションセンター\nメモ: ブース説明会\n詳細
- : https://www.naragakuen.ed.jp/exam/briefing/
+ 県コンベンションセンター\nメモ: 中高対象。ブース
+ 説明会。\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -239,13 +274,16 @@ UID:naragakuen-555b9277-2026-10-03@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20261003T140000
 DTEND:20261003T153000
-SUMMARY:【奈良学園】奈良学園中学校入試説明会 第1回
+SUMMARY:【奈良学園】令和9年度 奈良学園中学校入試説明
+ 会 第1回
 LOCATION:本校 第一体育館
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年10月3日（土） 14:00〜15:30\n場所: 本校 第
- 一体育館\n予約: 9月1日8:00より予約開始\n申込開始: 2026
- -09-01\nメモ: 第1回と第2回は同じ内容\n詳細: https://www.na
- ragakuen.ed.jp/exam/briefing/
+ 一体育館\n予約: 申し込み必須。9/1 8:00～予約開始\n申
+ 込開始: 2026-09-01\nメモ: 第1回と第2回は同じ内容。令和
+ 9年度中学校入試実施要項・入試各科目の出題方針等
+ について説明。\n詳細: https://www.naragakuen.ed.jp/exam/briefin
+ g/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -253,12 +291,12 @@ UID:naragakuen-555b9277-2026-10-03-apply@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:【申込開始】奈良学園 奈良学園中学校入試説明
- 会 第1回
+SUMMARY:【申込開始】奈良学園 令和9年度 奈良学園中学
+ 校入試説明会 第1回
 LOCATION:本校 第一体育館
-DESCRIPTION:奈良学園「奈良学園中学校入試説明会 第1回
- 」の申込開始日です。\n本番: 令和8年10月3日（土）\n
- 詳細: https://www.naragakuen.ed.jp/exam/briefing/
+DESCRIPTION:奈良学園「令和9年度 奈良学園中学校入試説
+ 明会 第1回」の申込開始日です。\n本番: 令和8年10月3
+ 日（土）\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -316,6 +354,23 @@ DESCRIPTION:種別: 入試日程\n学校/主催: 智辯学園奈良カレ
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
+UID:naragakuen-44ec2db1-2026-10-10@nara-school-events
+DTSTAMP:20260817T000000Z
+DTSTART:20261010T100000
+DTEND:20261010T113000
+SUMMARY:【奈良学園】高等学校受験生対象 学校見学会 第
+ 2回
+LOCATION:本校 NGプラザ2階 大教室前
+DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
+ \n日時: 令和8年10月10日（土） 10:00〜11:30\n場所: 本校 NG
+ プラザ2階 大教室前\n予約: 申し込み必須\nメモ: 中学3
+ 年生及び保護者対象。定員60組。生徒1名に対し保護者
+ は1名まで参加可。学校生活等の説明、学校施設の見
+ 学、模擬授業等の体験予定。\n詳細: https://www.naragakuen.
+ ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
 UID:nara_ikuei-b8e661e1-2026-10-17@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20261017
@@ -368,31 +423,29 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-55827e31-2026-10-31@nara-school-events
-DTSTAMP:20260811T000000Z
+DTSTAMP:20260817T000000Z
 DTSTART:20261031T093000
 DTEND:20261031T120000
-SUMMARY:【奈良学園】テスト体験会「奈良学チャレンジ
- 」
-LOCATION:本校 昇降口
+SUMMARY:【奈良学園】奈良学チャレンジ
+LOCATION:本校
 DESCRIPTION:種別: テスト体験会\n学校/主催: 奈良学園中学
  校\n日時: 令和8年10月31日（土） 09:30〜12:00\n場所: 本校
-  昇降口\n予約: 定員300組、9月1日8:00より予約開始\n申
- 込開始: 2026-09-01\nメモ: 小学6年生対象、受験生1名に対
- し保護者1名まで。受付9:00～\n詳細: https://www.naragakuen.e
- d.jp/exam/briefing/
+ \n予約: 申し込み必須。9/1 8:00～予約開始\n申込開始: 20
+ 26-09-01\nメモ: 小学6年生及び保護者対象。定員300組。
+ 国語・算数のテスト体験。\n詳細: https://www.naragakuen.ed.
+ jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-55827e31-2026-10-31-apply@nara-school-events
-DTSTAMP:20260811T000000Z
+DTSTAMP:20260817T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:【申込開始】奈良学園 テスト体験会「奈良学チ
- ャレンジ」
-LOCATION:本校 昇降口
-DESCRIPTION:奈良学園「テスト体験会「奈良学チャレンジ
- 」」の申込開始日です。\n本番: 令和8年10月31日（土）
- \n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+SUMMARY:【申込開始】奈良学園 奈良学チャレンジ
+LOCATION:本校
+DESCRIPTION:奈良学園「奈良学チャレンジ」の申込開始日
+ です。\n本番: 令和8年10月31日（土）\n詳細: https://www.na
+ ragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -416,13 +469,16 @@ UID:naragakuen-b37d1d0c-2026-11-07@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20261107T140000
 DTEND:20261107T153000
-SUMMARY:【奈良学園】奈良学園中学校入試説明会 第2回
+SUMMARY:【奈良学園】令和9年度 奈良学園中学校入試説明
+ 会 第2回
 LOCATION:本校 第一体育館
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園中学校
  \n日時: 令和8年11月7日（土） 14:00〜15:30\n場所: 本校 第
- 一体育館\n予約: 9月1日8:00より予約開始\n申込開始: 2026
- -09-01\nメモ: 第1回と第2回は同じ内容\n詳細: https://www.na
- ragakuen.ed.jp/exam/briefing/
+ 一体育館\n予約: 申し込み必須。9/1 8:00～予約開始\n申
+ 込開始: 2026-09-01\nメモ: 第1回と第2回は同じ内容。令和
+ 9年度中学校入試実施要項・入試各科目の出題方針等
+ について説明。\n詳細: https://www.naragakuen.ed.jp/exam/briefin
+ g/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
@@ -430,12 +486,41 @@ UID:naragakuen-b37d1d0c-2026-11-07-apply@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:【申込開始】奈良学園 奈良学園中学校入試説明
- 会 第2回
+SUMMARY:【申込開始】奈良学園 令和9年度 奈良学園中学
+ 校入試説明会 第2回
 LOCATION:本校 第一体育館
-DESCRIPTION:奈良学園「奈良学園中学校入試説明会 第2回
- 」の申込開始日です。\n本番: 令和8年11月7日（土）\n
- 詳細: https://www.naragakuen.ed.jp/exam/briefing/
+DESCRIPTION:奈良学園「令和9年度 奈良学園中学校入試説
+ 明会 第2回」の申込開始日です。\n本番: 令和8年11月7
+ 日（土）\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:naragakuen-d214a184-2026-11-14@nara-school-events
+DTSTAMP:20260817T000000Z
+DTSTART:20261114T140000
+DTEND:20261114T153000
+SUMMARY:【奈良学園】令和9年度 奈良学園高等学校入試説
+ 明会
+LOCATION:本校 第一体育館
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園中学校
+ \n日時: 令和8年11月14日（土） 14:00〜15:30\n場所: 本校 
+ 第一体育館\n予約: 申し込み必須。9/1 8:00～予約開始\n
+ 申込開始: 2026-09-01\nメモ: 高校受験生対象。令和9年度
+ 高等学校入試実施要項・入試各科目の出題方針等につ
+ いて説明。\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:naragakuen-d214a184-2026-11-14-apply@nara-school-events
+DTSTAMP:20260817T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】奈良学園 令和9年度 奈良学園高等
+ 学校入試説明会
+LOCATION:本校 第一体育館
+DESCRIPTION:奈良学園「令和9年度 奈良学園高等学校入試
+ 説明会」の申込開始日です。\n本番: 令和8年11月14日（
+ 土）\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT

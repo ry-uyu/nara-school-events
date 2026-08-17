@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:naragakuen-d214a184-2026-11-14@nara-school-events
+DTSTAMP:20260817T000000Z
+DTSTART:20261114T140000
+DTEND:20261114T153000
+SUMMARY:【奈良学園】令和9年度 奈良学園高等学校入試説
+ 明会
+LOCATION:本校 第一体育館
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園中学校
+ \n日時: 令和8年11月14日（土） 14:00〜15:30\n場所: 本校 
+ 第一体育館\n予約: 申し込み必須。9/1 8:00～予約開始\n
+ 申込開始: 2026-09-01\nメモ: 高校受験生対象。令和9年度
+ 高等学校入試実施要項・入試各科目の出題方針等につ
+ いて説明。\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
+URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+END:VCALENDAR
