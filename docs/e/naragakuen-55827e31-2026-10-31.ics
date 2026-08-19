@@ -7,17 +7,21 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:naragakuen-55827e31-2026-10-31@nara-school-events
-DTSTAMP:20260817T000000Z
+DTSTAMP:20260819T000000Z
 DTSTART:20261031T093000
 DTEND:20261031T120000
-SUMMARY:【奈良学園】奈良学チャレンジ
-LOCATION:本校
+SUMMARY:【奈良学園】奈良学チャレンジ（テスト体験会
+ ）
+LOCATION:本校 昇降口
 DESCRIPTION:種別: テスト体験会\n学校/主催: 奈良学園中学
  校\n日時: 令和8年10月31日（土） 09:30〜12:00\n場所: 本校
- \n予約: 申し込み必須。9/1 8:00～予約開始\n申込開始: 20
- 26-09-01\nメモ: 小学6年生及び保護者対象。定員300組。
- 国語・算数のテスト体験。\n詳細: https://www.naragakuen.ed.
- jp/exam/briefing/
+  昇降口\n予約: 小学6年生及び保護者等ご家族の300組を
+ 定員。生徒ご本人1名に対し、保護者等ご家族の方は1
+ 名までご参加いただけます。\n申込開始: 2026-09-01\nメ
+ モ: 9/1 8:00～予約開始。国語・算数のテスト体験、学
+ 校説明・卒業生による講話、施設・授業見学。テスト
+ 体験会後は食堂利用可。\n詳細: https://www.naragakuen.ed.jp/
+ exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 END:VCALENDAR
