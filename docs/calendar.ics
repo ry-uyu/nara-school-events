@@ -181,19 +181,6 @@ DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
-UID:naragakuen-825f96ce-2026-09-26-apply@nara-school-events
-DTSTAMP:20260819T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:【申込開始】奈良学園 高等学校受験生対象 学校
- 見学会 第1回
-LOCATION:本校 NGプザ2階 大教室前
-DESCRIPTION:奈良学園「高等学校受験生対象 学校見学会 
- 第1回」の申込開始日です。\n本番: 令和8年9月26日（土
- ）\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
 UID:tezukayama-b8e661e1-2026-09-27@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20260927T093000
