@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara_ikuei-7b8cd7cc-2026-09-19-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:【申込開始】奈良育英 中学 オープンスクール
+DESCRIPTION:奈良育英「中学 オープンスクール」の申込開
+ 始日です。\n本番: 9月19日(土)\n詳細: https://www.ikuei.ed.jp
+ /ikuei-jh/admission/ex-information/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+END:VCALENDAR

@@ -6,22 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:naragakuen-d2ad0d5b-2026-08-22@nara-school-events
-DTSTAMP:20260819T000000Z
-DTSTART:20260822T135000
-DTEND:20260822T154000
-SUMMARY:【奈良学園】中学受験生対象 学校見学会 第9回
-LOCATION:本校 NGプザ2階 大教室前
-DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
- \n日時: 令和8年8月22日（土） 13:50〜15:40\n場所: 本校 NG
- プザ2階 大教室前\n予約: 各回とも、児童ご本人と保護
- 者等の約50組を定員。児童ご本人1名に対し、保護者等
- ご家族の方は2名までご参加いただけます。\nメモ: 学
- 校生活等の説明、施設・里山見学、理科実験・クラブ
- 体験など。\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
 UID:chiben_college-5d7837e7-2026-08-24@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20260824T100000
@@ -37,6 +21,51 @@ DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
  ：００～１４：３０）。スクールバスの配車はなし。
  \n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-0c32497d-2026-08-25@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20260825T134500
+DTEND:20260825T144500
+SUMMARY:【育英西】中学 OPEN DAY
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
+ 学校\n日時: 2026年8月25日（火） 13:45〜14:45\n場所: 育英
+ 西中学校・高等学校\n予約: 定員5組、申込制\nメモ: 小
+ 学校4・5・6年生、保護者対象。夏休みの校内見学、補
+ 習やクラブ活動、文化祭準備の様子を見学。\n詳細: ht
+ tps://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-0c32497d-2026-08-27@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20260827T134500
+DTEND:20260827T144500
+SUMMARY:【育英西】中学 OPEN DAY
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
+ 学校\n日時: 2026年8月27日（木） 13:45〜14:45\n場所: 育英
+ 西中学校・高等学校\n予約: 定員5組、申込制\nメモ: 小
+ 学校4・5・6年生、保護者対象。夏休みの校内見学、補
+ 習やクラブ活動、文化祭準備の様子を見学。\n詳細: ht
+ tps://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-0c32497d-2026-08-28@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20260828T134500
+DTEND:20260828T144500
+SUMMARY:【育英西】中学 OPEN DAY
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
+ 学校\n日時: 2026年8月28日（金） 13:45〜14:45\n場所: 育英
+ 西中学校・高等学校\n予約: 定員5組、申込制\nメモ: 小
+ 学校4・5・6年生、保護者対象。夏休みの校内見学、補
+ 習やクラブ活動、文化祭準備の様子を見学。\n詳細: ht
+ tps://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
 END:VEVENT
 BEGIN:VEVENT
 UID:naragakuen-7403d754-2026-08-29@nara-school-events
@@ -71,6 +100,50 @@ DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
+UID:ikuei_nishi-87c78b80-2026-09-06@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20260906T090000
+DTEND:20260906T113000
+SUMMARY:【育英西】オープンスクール～文化祭を体験し
+ よう！～
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 文化祭(受験生見学可)\n学校/主催: 育英
+ 西中学校\n日時: 2026年9月6日（日） 09:00〜11:30\n場所: 
+ 育英西中学校・高等学校\n予約: 定員50組限定、1組2名
+ までの参加、申込制\n申込開始: 2026-07-15\nメモ: 小学4
+ ・5・6年生、保護者対象。育英西の文化祭を見学。各
+ クラスの模擬店や展示。事前申込が必要。\n詳細: https
+ ://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:nara_ikuei-9a96e65c-2026-09-12@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20260912T090000
+DTEND:20260912T150000
+SUMMARY:【奈良育英】菫咲祭（文化祭）
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良育英中学校\n日
+ 時: 2026/09/12（土） 09:00〜15:00\n予約: 小学生以外のお申
+ 込みはお断りしております。入場者制限は30組＋追加1
+ 0組。申込み人数は受験生1名、保護者等ご家族2名まで
+ 。保護者のみの参加は可能。\n申込開始: 2026-08-25\n申
+ 込締切: 2026-09-11\nメモ: ※満席となりましたが、8/25（
+ 火）16:00より追加募集を行います。（10組限定）\n詳細
+ : https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+BEGIN:VEVENT
+UID:nara_ikuei-9a96e65c-2026-09-12-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:【申込開始】奈良育英 菫咲祭（文化祭）
+DESCRIPTION:奈良育英「菫咲祭（文化祭）」の申込開始日
+ です。\n本番: 2026/09/12（土）\n詳細: https://www.ikuei.ed.jp/
+ ikuei-jh/admission/ex-information/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+BEGIN:VEVENT
 UID:naragakuen-303e5504-2026-09-12@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20260912T100000
@@ -99,6 +172,19 @@ URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
 END:VEVENT
 BEGIN:VEVENT
+UID:nara_ikuei-7b8cd7cc-2026-09-19@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:【奈良育英】中学 オープンスクール
+DESCRIPTION:種別: オープンスクール\n学校/主催: 奈良育英
+ 中学校\n日時: 9月19日(土)\n予約: 受付は8月19日より\n申
+ 込開始: 2026-08-19\nメモ: 奈良育英の授業やクラブを体
+ 験！\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-informatio
+ n/
+URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+END:VEVENT
+BEGIN:VEVENT
 UID:nara_ikuei-5f6fa257-2026-09-19@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20260919T091500
@@ -106,14 +192,16 @@ DTEND:20260919T130000
 SUMMARY:【奈良育英】中学校オープンスクール
 DESCRIPTION:種別: オープンスクール\n学校/主催: 奈良育英
  中学校\n日時: 2026/09/19（土） 09:15〜13:00\n予約: 全体会
- ・学校説明・授業体験（選択必須）、部活体験・食堂
- 体験・個別相談から希望のプログラムを選択。全体会
- ・学校説明・授業体験のみの選択可能。部活体験希望
- の場合は適した服装・靴・用具をご準備ください。\n
- 申込開始: 2026-08-19\n申込締切: 2026-09-18\nメモ: 08:45～ 受
- 付、09:15-10:05 全体会・学校説明、10:15-11:00 授業体験、
- 11:15-12:00 部活体験（１）等、12:15-13:00 部活体験（２）
- 等\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+ ･学校説明･授業体験（選択必須）、部活体験･食堂
+ 体験･個別相談からご希望のプログラムを選択してく
+ ださい。全体会・学校説明・授業体験のみの選択可能
+ 。部活体験希望の場合は、それぞれの活動に適した服
+ 装・靴･もしあれば用具（ラケット･グローブ･防具
+ 等）もご準備ください。\n申込開始: 2026-08-19\n申込締
+ 切: 2026-09-18\nメモ: 08:45～ 受付、09:15-10:05 全体会・学
+ 校説明、10:15-11:00 授業体験、11:15-12:00 部活体験（１）
+ 等、12:15-13:00 部活体験（２）等\n詳細: https://www.ikuei.ed
+ .jp/ikuei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
@@ -149,17 +237,18 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:ikuei_nishi-eedd30db-2026-09-26@nara-school-events
-DTSTAMP:20260811T000000Z
+DTSTAMP:20260823T000000Z
 DTSTART:20260926T093000
 DTEND:20260926T120000
 SUMMARY:【育英西】9/26授業・クラブ体験会
 DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
- 学校\n日時: 9/26（土） 09:30〜12:00\n申込開始: 2026-07-02\n
- 申込締切: 2026-09-24\nメモ: 育英西の授業とクラブ活動
- に参加しましょう！【当日のプログラム】9:00 受付 9:3
- 0 開会 9:40 生徒による学校紹介 10:00 授業体験 10:55 ク
- ラブ体験 12:00頃 解散\n詳細: https://mirai-compass.net/usr/nrik
- eiwj/event/evtIndex.jsf
+ 学校\n日時: 2026/09/26（土） 09:30〜12:00\n予約: 定員50組
+ 、申込制\n申込開始: 2026-07-02\n申込締切: 2026-09-24\nメモ
+ : 育英西の授業とクラブ活動に参加。生徒による学校
+ 紹介、授業体験、クラブ体験。9:00受付、9:30開会、9:40
+ 生徒による学校紹介、10:00授業体験、10:55クラブ体験
+ 、12:00頃解散。\n詳細: https://mirai-compass.net/usr/nrikeiwj/eve
+ nt/evtIndex.jsf
 URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
 BEGIN:VEVENT
@@ -223,11 +312,11 @@ UID:nara_ikuei-791e5cac-2026-10-01@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:【奈良育英】授業見学会・説明会
-DESCRIPTION:種別: 学校説明会\n学校/主催: 奈良育英中学校
- \n日時: 10月1日(木)\n予約: 受付は9月上旬より\nメモ: 保
- 護者対象\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-info
- rmation/
+SUMMARY:【奈良育英】中学 授業見学会・説明会
+DESCRIPTION:種別: 説明会\n学校/主催: 奈良育英中学校\n日
+ 時: 10月1日(木)\n予約: 受付は9月上旬より\nメモ: 保護
+ 者対象\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-informa
+ tion/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
@@ -331,6 +420,86 @@ DESCRIPTION:種別: 入試日程\n学校/主催: 智辯学園奈良カレ
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
+UID:ikuei_nishi-09f375f4-2026-10-10@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261010T093000
+DTEND:20261010T120000
+SUMMARY:【育英西】中学入試プレテスト
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026年10月10日（土） 09:30〜12:00\n場所: 育英西中
+ 学校・高等学校\n予約: 申込制\n申込開始: 2026-09-01\nメ
+ モ: 小学校6年生対象。\n詳細: https://www.ikuei.ed.jp/ikunishi
+ /admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-09f375f4-2026-10-10-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 中学入試プレテスト
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:育英西「中学入試プレテスト」の申込開始日
+ です。\n本番: 2026年10月10日（土）\n詳細: https://www.ikuei
+ .ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8f8c3b92-2026-10-10@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261010T093000
+DTEND:20261010T120000
+SUMMARY:【育英西】中学入試説明会
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026年10月10日（土） 09:30〜12:00\n場所: 育英西中
+ 学校・高等学校\n予約: 定員各回200名、申込制\n申込開
+ 始: 2026-09-01\nメモ: 4年生・5年生・6年生、保護者対象
+ 。在校生による学校紹介、各コース説明、入試説明、
+ 校舎見学等。初めての方も気軽に参加可能。\n詳細: ht
+ tps://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8f8c3b92-2026-10-10-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 中学入試説明会
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:育英西「中学入試説明会」の申込開始日です
+ 。\n本番: 2026年10月10日（土）\n詳細: https://www.ikuei.ed.jp
+ /ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-b8e661e1-2026-10-10@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261010T093000
+DTEND:20261010T120000
+SUMMARY:【育英西】第1回入試説明会
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026/10/10（土） 09:30〜12:00\n申込開始: 2026-09-01\n申
+ 込締切: 2026-10-09\nメモ: 生徒たちによる学校紹介、校
+ 舎見学、各コースの特徴と進路指導について、2027年
+ 度入試について、個別相談など。プレテストと同時開
+ 催。\n詳細: https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.js
+ f
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-b8e661e1-2026-10-10-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 第1回入試説明会
+DESCRIPTION:育英西「第1回入試説明会」の申込開始日です
+ 。\n本番: 2026/10/10（土）\n詳細: https://mirai-compass.net/usr/
+ nrikeiwj/event/evtIndex.jsf
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+BEGIN:VEVENT
 UID:naragakuen-44ec2db1-2026-10-10@nara-school-events
 DTSTAMP:20260819T000000Z
 DTSTART:20261010T100000
@@ -353,7 +522,7 @@ UID:nara_ikuei-b8e661e1-2026-10-17@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:【奈良育英】第1回入試説明会
+SUMMARY:【奈良育英】中学 第1回入試説明会
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
  \n日時: 10月17日(土)\n予約: 受付は9月中旬より\nメモ: 
  入試についてご説明します\n詳細: https://www.ikuei.ed.jp/ik
@@ -390,8 +559,8 @@ UID:nara_ikuei-5c3d4220-2026-10-31@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:【奈良育英】第2回入試説明会・トライアル①（
- プレテスト）
+SUMMARY:【奈良育英】中学 第2回入試説明会・トライアル
+ ①（プレテスト）
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
  \n日時: 10月31日(土)\n予約: 受付は9月下旬より\nメモ: 
  入試についてご説明します。トライアルでは本番通り
@@ -478,6 +647,86 @@ DESCRIPTION:奈良学園「令和9年度 奈良学園中学校入試説
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
+UID:ikuei_nishi-09f375f4-2026-11-14@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261114T093000
+DTEND:20261114T120000
+SUMMARY:【育英西】中学入試プレテスト
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026年11月14日（土） 09:30〜12:00\n場所: 育英西中
+ 学校・高等学校\n予約: 申込制\n申込開始: 2026-09-01\nメ
+ モ: 小学校6年生対象。\n詳細: https://www.ikuei.ed.jp/ikunishi
+ /admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-09f375f4-2026-11-14-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 中学入試プレテスト
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:育英西「中学入試プレテスト」の申込開始日
+ です。\n本番: 2026年11月14日（土）\n詳細: https://www.ikuei
+ .ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8f8c3b92-2026-11-14@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261114T093000
+DTEND:20261114T120000
+SUMMARY:【育英西】中学入試説明会
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026年11月14日（土） 09:30〜12:00\n場所: 育英西中
+ 学校・高等学校\n予約: 定員各回200名、申込制\n申込開
+ 始: 2026-09-01\nメモ: 4年生・5年生・6年生、保護者対象
+ 。在校生による学校紹介、各コース説明、入試説明、
+ 校舎見学等。初めての方も気軽に参加可能。\n詳細: ht
+ tps://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8f8c3b92-2026-11-14-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 中学入試説明会
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:育英西「中学入試説明会」の申込開始日です
+ 。\n本番: 2026年11月14日（土）\n詳細: https://www.ikuei.ed.jp
+ /ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8dd3b62c-2026-11-14@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261114T093000
+DTEND:20261114T120000
+SUMMARY:【育英西】第2回入試説明会
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026/11/14（土） 09:30〜12:00\n申込開始: 2026-09-01\n申
+ 込締切: 2026-11-13\nメモ: 生徒たちによる学校紹介、校
+ 舎見学、各コースの特徴と進路指導について、2027年
+ 度入試について、個別相談など。プレテストと同時開
+ 催。\n詳細: https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.js
+ f
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8dd3b62c-2026-11-14-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 第2回入試説明会
+DESCRIPTION:育英西「第2回入試説明会」の申込開始日です
+ 。\n本番: 2026/11/14（土）\n詳細: https://mirai-compass.net/usr/
+ nrikeiwj/event/evtIndex.jsf
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+BEGIN:VEVENT
 UID:naragakuen-d214a184-2026-11-14@nara-school-events
 DTSTAMP:20260817T000000Z
 DTSTART:20261114T140000
@@ -511,11 +760,11 @@ UID:nara_ikuei-6496e021-2026-11-21@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:【奈良育英】専願者集会
-DESCRIPTION:種別: 学校説明会\n学校/主催: 奈良育英中学校
- \n日時: 11月21日(土)\n予約: 受付は10月下旬より\nメモ: 
- 専願受験の方向けの説明会です\n詳細: https://www.ikuei.ed
- .jp/ikuei-jh/admission/ex-information/
+SUMMARY:【奈良育英】中学 専願者集会
+DESCRIPTION:種別: 説明会\n学校/主催: 奈良育英中学校\n日
+ 時: 11月21日(土)\n予約: 受付は10月下旬より\nメモ: 専願
+ 受験の方向けの説明会です\n詳細: https://www.ikuei.ed.jp/ik
+ uei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
@@ -600,8 +849,8 @@ UID:nara_ikuei-5ab55969-2026-11-28@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:【奈良育英】第3回入試説明会・トライアル②（
- プレテスト）
+SUMMARY:【奈良育英】中学 第3回入試説明会・トライアル
+ ②（プレテスト）
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
  \n日時: 11月28日(土)\n予約: 受付は10月中旬より\nメモ: 
  入試についてご説明します。トライアルでは本番通り
@@ -666,6 +915,60 @@ DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
  o/
 URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
  uenchuto/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8f8c3b92-2026-12-13@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261213T093000
+DTEND:20261213T120000
+SUMMARY:【育英西】中学入試説明会
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026年12月13日（日） 09:30〜12:00\n場所: 育英西中
+ 学校・高等学校\n予約: 定員各回200名、申込制\n申込開
+ 始: 2026-09-01\nメモ: 4年生・5年生・6年生、保護者対象
+ 。在校生による学校紹介、各コース説明、入試説明、
+ 校舎見学等。食堂メニューを体験。\n詳細: https://www.ik
+ uei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-8f8c3b92-2026-12-13-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 中学入試説明会
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:育英西「中学入試説明会」の申込開始日です
+ 。\n本番: 2026年12月13日（日）\n詳細: https://www.ikuei.ed.jp
+ /ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-f33c357d-2026-12-13@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261213T093000
+DTEND:20261213T120000
+SUMMARY:【育英西】第3回入試説明会
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026/12/13（日） 09:30〜12:00\n申込開始: 2026-09-01\n申
+ 込締切: 2026-12-11\nメモ: 生徒たちによる学校紹介、校
+ 舎見学、各コースの特徴と進路指導について、2027年
+ 度入試について、個別相談など。プレテストと同時開
+ 催。\n詳細: https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.js
+ f
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+BEGIN:VEVENT
+UID:ikuei_nishi-f33c357d-2026-12-13-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 第3回入試説明会
+DESCRIPTION:育英西「第3回入試説明会」の申込開始日です
+ 。\n本番: 2026/12/13（日）\n詳細: https://mirai-compass.net/usr/
+ nrikeiwj/event/evtIndex.jsf
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-dafe54b8-2026-12-22@nara-school-events

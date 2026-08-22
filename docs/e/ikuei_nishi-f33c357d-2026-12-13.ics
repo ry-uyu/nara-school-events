@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ikuei_nishi-f33c357d-2026-12-13@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261213T093000
+DTEND:20261213T120000
+SUMMARY:【育英西】第3回入試説明会
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026/12/13（日） 09:30〜12:00\n申込開始: 2026-09-01\n申
+ 込締切: 2026-12-11\nメモ: 生徒たちによる学校紹介、校
+ 舎見学、各コースの特徴と進路指導について、2027年
+ 度入試について、個別相談など。プレテストと同時開
+ 催。\n詳細: https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.js
+ f
+URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+END:VCALENDAR

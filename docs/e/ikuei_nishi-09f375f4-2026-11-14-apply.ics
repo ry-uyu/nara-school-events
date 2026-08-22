@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ikuei_nishi-09f375f4-2026-11-14-apply@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【申込開始】育英西 中学入試プレテスト
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:育英西「中学入試プレテスト」の申込開始日
+ です。\n本番: 2026年11月14日（土）\n詳細: https://www.ikuei
+ .ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+END:VCALENDAR

@@ -7,17 +7,18 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:ikuei_nishi-eedd30db-2026-09-26@nara-school-events
-DTSTAMP:20260811T000000Z
+DTSTAMP:20260823T000000Z
 DTSTART:20260926T093000
 DTEND:20260926T120000
 SUMMARY:【育英西】9/26授業・クラブ体験会
 DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
- 学校\n日時: 9/26（土） 09:30〜12:00\n申込開始: 2026-07-02\n
- 申込締切: 2026-09-24\nメモ: 育英西の授業とクラブ活動
- に参加しましょう！【当日のプログラム】9:00 受付 9:3
- 0 開会 9:40 生徒による学校紹介 10:00 授業体験 10:55 ク
- ラブ体験 12:00頃 解散\n詳細: https://mirai-compass.net/usr/nrik
- eiwj/event/evtIndex.jsf
+ 学校\n日時: 2026/09/26（土） 09:30〜12:00\n予約: 定員50組
+ 、申込制\n申込開始: 2026-07-02\n申込締切: 2026-09-24\nメモ
+ : 育英西の授業とクラブ活動に参加。生徒による学校
+ 紹介、授業体験、クラブ体験。9:00受付、9:30開会、9:40
+ 生徒による学校紹介、10:00授業体験、10:55クラブ体験
+ 、12:00頃解散。\n詳細: https://mirai-compass.net/usr/nrikeiwj/eve
+ nt/evtIndex.jsf
 URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
 END:VCALENDAR

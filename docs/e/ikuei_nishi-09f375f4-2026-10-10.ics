@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ikuei_nishi-09f375f4-2026-10-10@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20261010T093000
+DTEND:20261010T120000
+SUMMARY:【育英西】中学入試プレテスト
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
+ 日時: 2026年10月10日（土） 09:30〜12:00\n場所: 育英西中
+ 学校・高等学校\n予約: 申込制\n申込開始: 2026-09-01\nメ
+ モ: 小学校6年生対象。\n詳細: https://www.ikuei.ed.jp/ikunishi
+ /admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+END:VCALENDAR

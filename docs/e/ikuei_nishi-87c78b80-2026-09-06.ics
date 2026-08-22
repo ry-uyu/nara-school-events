@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ikuei_nishi-87c78b80-2026-09-06@nara-school-events
+DTSTAMP:20260823T000000Z
+DTSTART:20260906T090000
+DTEND:20260906T113000
+SUMMARY:【育英西】オープンスクール～文化祭を体験し
+ よう！～
+LOCATION:育英西中学校・高等学校
+DESCRIPTION:種別: 文化祭(受験生見学可)\n学校/主催: 育英
+ 西中学校\n日時: 2026年9月6日（日） 09:00〜11:30\n場所: 
+ 育英西中学校・高等学校\n予約: 定員50組限定、1組2名
+ までの参加、申込制\n申込開始: 2026-07-15\nメモ: 小学4
+ ・5・6年生、保護者対象。育英西の文化祭を見学。各
+ クラスの模擬店や展示。事前申込が必要。\n詳細: https
+ ://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
+END:VEVENT
+END:VCALENDAR
