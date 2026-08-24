@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tomigaoka-693d7287-2026-09-26@nara-school-events
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:【登美ヶ丘】入試説明会・学校見学会1
+DESCRIPTION:種別: 入試説明会・学校見学会\n学校/主催: 奈
+ 良学園登美ヶ丘中学校\n日時: 9/26（土）\n詳細: https://r
+ eserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+END:VEVENT
+END:VCALENDAR
