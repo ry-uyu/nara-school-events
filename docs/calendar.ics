@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:ikuei_nishi-0c32497d-2026-08-25@nara-school-events
-DTSTAMP:20260823T000000Z
-DTSTART:20260825T134500
-DTEND:20260825T144500
-SUMMARY:【育英西】中学 OPEN DAY
-LOCATION:育英西中学校・高等学校
-DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
- 学校\n日時: 2026年8月25日（火） 13:45〜14:45\n場所: 育英
- 西中学校・高等学校\n予約: 定員5組、申込制\nメモ: 小
- 学校4・5・6年生、保護者対象。夏休みの校内見学、補
- 習やクラブ活動、文化祭準備の様子を見学。\n詳細: ht
- tps://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
-URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
-END:VEVENT
-BEGIN:VEVENT
 UID:ikuei_nishi-0c32497d-2026-08-27@nara-school-events
 DTSTAMP:20260823T000000Z
 DTSTART:20260827T134500
@@ -113,17 +98,6 @@ DESCRIPTION:種別: 文化祭\n学校/主催: 奈良育英中学校\n日
  込締切: 2026-09-11\nメモ: ※満席となりましたが、8/25（
  火）16:00より追加募集を行います。（10組限定）\n詳細
  : https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
-URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
-END:VEVENT
-BEGIN:VEVENT
-UID:nara_ikuei-9a96e65c-2026-09-12-apply@nara-school-events
-DTSTAMP:20260823T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:【申込開始】奈良育英 菫咲祭（文化祭）
-DESCRIPTION:奈良育英「菫咲祭（文化祭）」の申込開始日
- です。\n本番: 2026/09/12（土）\n詳細: https://www.ikuei.ed.jp/
- ikuei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
