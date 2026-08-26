@@ -233,12 +233,12 @@
       "apply_start": null,
       "apply_deadline": null,
       "status": "満席",
-      "note": "受験生見学可否は明記されていないため確認が必要",
+      "note": "受験生見学可否は不明",
       "id": "tomigaoka-b686046e-2026-08-29",
       "url": "https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior",
       "source": "登美ヶ丘",
       "first_seen": "2026-08-11",
-      "last_updated": "2026-08-24"
+      "last_updated": "2026-08-26"
     },
     {
       "school_key": "tomigaoka",
@@ -2212,13 +2212,13 @@
       "reservation_note": "",
       "apply_start": null,
       "apply_deadline": null,
-      "status": "受付前",
+      "status": "受付中",
       "note": "",
       "id": "tomigaoka-693d7287-2026-09-26",
       "url": "https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior",
       "source": "登美ヶ丘",
       "first_seen": "2026-08-24",
-      "last_updated": "2026-08-24"
+      "last_updated": "2026-08-26"
     }
   ]
 }
