@@ -7,15 +7,15 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:tomigaoka-02a76df4-2026-08-30@nara-school-events
-DTSTAMP:20260811T120842Z
+DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:【登美ヶ丘】尚志祭2日目
-DESCRIPTION:種別: 文化祭(受験生見学可)\n学校/主催: 奈良
- 学園登美ヶ丘中学校\n日時: 8/30(日)\n予約: 申込受付開
- 始：8/3（月）10：00～\n申込開始: 2026-08-03\nメモ: 参加
- 対象:小学生６年生およびその保護者の方\n詳細: https:/
- /reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園登美ヶ丘中
+ 学校\n日時: 8/30(日)\n予約: 予約が必要です\n申込開始: 
+ 2026-08-03\nメモ: 参加対象:小学生6年生およびその保護
+ 者の方\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka/list/
+ junior
 URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 END:VCALENDAR

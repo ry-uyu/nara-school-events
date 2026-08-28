@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tomigaoka-693d7287-2026-09-26-apply@nara-school-events
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:【申込開始】登美ヶ丘 入試説明会/学校見学会1
+DESCRIPTION:登美ヶ丘「入試説明会/学校見学会1」の申込
+ 開始日です。\n本番: 9/26(土)\n詳細: https://reserve.candy-s.j
+ p/naragakuen_tomigaoka/list/junior
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+END:VEVENT
+END:VCALENDAR

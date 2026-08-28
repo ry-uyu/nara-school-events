@@ -37,6 +37,19 @@ DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
 URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
+UID:tomigaoka-02a76df4-2026-08-30@nara-school-events
+DTSTAMP:20260811T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:【登美ヶ丘】尚志祭2日目
+DESCRIPTION:種別: 文化祭\n学校/主催: 奈良学園登美ヶ丘中
+ 学校\n日時: 8/30(日)\n予約: 予約が必要です\n申込開始: 
+ 2026-08-03\nメモ: 参加対象:小学生6年生およびその保護
+ 者の方\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka/list/
+ junior
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+END:VEVENT
+BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-09-05@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20260905T100000
@@ -179,13 +192,14 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-693d7287-2026-09-26@nara-school-events
-DTSTAMP:20260826T000000Z
+DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:【登美ヶ丘】入試説明会・学校見学会1
+SUMMARY:【登美ヶ丘】入試説明会/学校見学会1
 DESCRIPTION:種別: 入試説明会・学校見学会\n学校/主催: 奈
- 良学園登美ヶ丘中学校\n日時: 9/26（土）\n詳細: https://r
- eserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+ 良学園登美ヶ丘中学校\n日時: 9/26(土)\n予約: 予約が必
+ 要です\n申込開始: 2026-08-26\n申込締切: 2026-08-30\n詳細: h
+ ttps://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 BEGIN:VEVENT
