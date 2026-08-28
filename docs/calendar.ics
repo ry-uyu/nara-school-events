@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:ikuei_nishi-0c32497d-2026-08-28@nara-school-events
-DTSTAMP:20260823T000000Z
-DTSTART:20260828T134500
-DTEND:20260828T144500
-SUMMARY:【育英西】中学 OPEN DAY
-LOCATION:育英西中学校・高等学校
-DESCRIPTION:種別: オープンスクール\n学校/主催: 育英西中
- 学校\n日時: 2026年8月28日（金） 13:45〜14:45\n場所: 育英
- 西中学校・高等学校\n予約: 定員5組、申込制\nメモ: 小
- 学校4・5・6年生、保護者対象。夏休みの校内見学、補
- 習やクラブ活動、文化祭準備の様子を見学。\n詳細: ht
- tps://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
-URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
-END:VEVENT
-BEGIN:VEVENT
 UID:naragakuen-7403d754-2026-08-29@nara-school-events
 DTSTAMP:20260819T000000Z
 DTSTART:20260829T135000
