@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara_ikuei-fe6fb6b1-2026-10-01@nara-school-events
+DTSTAMP:20260906T000000Z
+DTSTART:20261001T141000
+DTEND:20261001T161000
+SUMMARY:【奈良育英】保護者対象授業見学会
+DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良育英中学校
+ \n日時: 2026/10/01（木） 14:10〜16:10\n申込開始: 2026-09-01\n
+ 申込締切: 2026-09-30\n詳細: https://mirai-compass.net/usr/nikueij/
+ event/evtIndex.jsf
+URL:https://mirai-compass.net/usr/nikueij/event/evtIndex.jsf
+END:VEVENT
+END:VCALENDAR

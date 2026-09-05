@@ -7,13 +7,14 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:tezukayama-8ab157e1-2027-01-16@nara-school-events
-DTSTAMP:20260811T000000Z
+DTSTAMP:20260906T000000Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:【帝塚山】中学校1次A入試、中学校1次B入試
-DESCRIPTION:種別: 受験日程\n学校/主催: 帝塚山中学校\n日
- 時: 2027年1月16日（土）\n詳細: https://www.tezukayama-h.ed.jp/n
- yuushi/openschool.html
+LOCATION:帝塚山中学校・高等学校
+DESCRIPTION:種別: 入試\n学校/主催: 帝塚山中学校\n日時: 20
+ 27年1月16日（土）\n場所: 帝塚山中学校・高等学校\n詳
+ 細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 END:VCALENDAR

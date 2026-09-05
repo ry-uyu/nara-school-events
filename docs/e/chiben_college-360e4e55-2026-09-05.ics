@@ -7,18 +7,17 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-09-05@nara-school-events
-DTSTAMP:20260811T000000Z
+DTSTAMP:20260830T000000Z
 DTSTART:20260905T100000
-DTEND:20260905T113000
+DTEND:20260905T143000
 SUMMARY:【智辯奈良カレッジ】サタデー学校ツアー
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
- レッジ中学部\n日時: 令和８年９月５日（土） 10:00〜11
- :30\n場所: 智辯学園奈良カレッジ\n予約: 午前･午後そ
- れぞれ小学生１０組・中学生５組限定\nメモ: 午前の
- 部（１０：００～１１：３０）・午後の部（１３：０
- ０～１４：３０）。関屋駅のみスクールバス運行。\n
- 詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
+ レッジ中学部\n日時: 令和８年９月５日（土） 10:00〜14
+ :30\n場所: 智辯学園奈良カレッジ\n予約: 午前・午後そ
+ れぞれ小学生10組・中学生5組限定\nメモ: 関屋駅のみ
+ スクールバス運行。個別相談可能。\n詳細: https://www.ch
+ iben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 END:VCALENDAR

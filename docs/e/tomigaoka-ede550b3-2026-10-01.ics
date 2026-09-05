@@ -6,13 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:tomigaoka-693d7287-2026-09-26@nara-school-events
+UID:tomigaoka-ede550b3-2026-10-01@nara-school-events
 DTSTAMP:20260901T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:【登美ヶ丘】入試説明会・学校見学会1
-DESCRIPTION:種別: 入試説明会・学校見学会\n学校/主催: 奈
- 良学園登美ヶ丘中学校\n日時: 9/26（土）\n予約: 予約が
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:【登美ヶ丘】校外入試説明会（難波）
+LOCATION:難波
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園登美ヶ
+ 丘中学校\n日時: 10/1（木）\n場所: 難波\n予約: 予約が
  必要です\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka/li
  st/junior
 URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
