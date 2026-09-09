@@ -7,15 +7,15 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:tomigaoka-ede550b3-2026-10-01@nara-school-events
-DTSTAMP:20260901T000000Z
+DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:【登美ヶ丘】校外入試説明会（難波）
 LOCATION:難波
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園登美ヶ
  丘中学校\n日時: 10/1（木）\n場所: 難波\n予約: 予約が
- 必要です\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka/li
- st/junior
+ 必要です\nメモ: 申込受付開始 9/1（火）10：00\n詳細: ht
+ tps://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 END:VCALENDAR

@@ -97,14 +97,14 @@ URL:https://www.naragakuen.ed.jp/exam/briefing/
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-693d7287-2026-09-26@nara-school-events
-DTSTAMP:20260901T000000Z
+DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:【登美ヶ丘】入試説明会・学校見学会1
 DESCRIPTION:種別: 入試説明会・学校見学会\n学校/主催: 奈
  良学園登美ヶ丘中学校\n日時: 9/26（土）\n予約: 予約が
- 必要です\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka/li
- st/junior
+ 必要です\nメモ: 申込受付開始 8/26（水）10:00\n詳細: htt
+ ps://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 BEGIN:VEVENT
@@ -180,15 +180,15 @@ URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-ede550b3-2026-10-01@nara-school-events
-DTSTAMP:20260901T000000Z
+DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:【登美ヶ丘】校外入試説明会（難波）
 LOCATION:難波
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園登美ヶ
  丘中学校\n日時: 10/1（木）\n場所: 難波\n予約: 予約が
- 必要です\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka/li
- st/junior
+ 必要です\nメモ: 申込受付開始 9/1（火）10：00\n詳細: ht
+ tps://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 BEGIN:VEVENT
@@ -339,6 +339,33 @@ DESCRIPTION:種別: 学校見学会\n学校/主催: 奈良学園中学校
  の方は1名までご参加いただけます。\n詳細: https://www.n
  aragakuen.ed.jp/exam/briefing/
 URL:https://www.naragakuen.ed.jp/exam/briefing/
+END:VEVENT
+BEGIN:VEVENT
+UID:tomigaoka-0c7c90e1-2026-10-14@nara-school-events
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:【登美ヶ丘】校外入試説明会（京田辺）
+LOCATION:京田辺
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園登美ヶ
+ 丘中学校\n日時: 10/14(水)\n場所: 京田辺\n予約: 予約が
+ 必要です\n申込開始: 2026-09-14\nメモ: 申込受付開始 9/14
+ （月）10：00\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaok
+ a/list/junior
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+END:VEVENT
+BEGIN:VEVENT
+UID:tomigaoka-0c7c90e1-2026-10-14-apply@nara-school-events
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:【申込開始】登美ヶ丘 校外入試説明会（京田辺
+ ）
+LOCATION:京田辺
+DESCRIPTION:登美ヶ丘「校外入試説明会（京田辺）」の申
+ 込開始日です。\n本番: 10/14(水)\n詳細: https://reserve.candy
+ -s.jp/naragakuen_tomigaoka/list/junior
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 BEGIN:VEVENT
 UID:nara_ikuei-b8e661e1-2026-10-17@nara-school-events

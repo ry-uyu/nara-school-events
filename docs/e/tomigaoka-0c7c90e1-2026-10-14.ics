@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:tomigaoka-0c7c90e1-2026-10-14@nara-school-events
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:【登美ヶ丘】校外入試説明会（京田辺）
+LOCATION:京田辺
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園登美ヶ
+ 丘中学校\n日時: 10/14(水)\n場所: 京田辺\n予約: 予約が
+ 必要です\n申込開始: 2026-09-14\nメモ: 申込受付開始 9/14
+ （月）10：00\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaok
+ a/list/junior
+URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
+END:VEVENT
+END:VCALENDAR
