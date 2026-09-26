@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nara_ikuei-a91adfd5-2026-10-17@nara-school-events
+DTSTAMP:20260920T000000Z
+DTSTART:20261017T124000
+DTEND:20261017T140000
+SUMMARY:【奈良育英】第１回入試説明会
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
+ \n日時: 2026/10/17（土） 12:40〜14:00\n申込開始: 2026-09-17\n
+ 申込締切: 2026-10-16\nメモ: 学校説明、進路について、
+ 入試概要、入試問題ポイント、トライアル案内 ※小
+ 学５･６年生対象\n詳細: https://mirai-compass.net/usr/nikueij/
+ event/evtIndex.jsf
+URL:https://mirai-compass.net/usr/nikueij/event/evtIndex.jsf
+END:VEVENT
+END:VCALENDAR

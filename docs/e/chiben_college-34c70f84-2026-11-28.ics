@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:chiben_college-34c70f84-2026-11-28@nara-school-events
+DTSTAMP:20260913T000000Z
+DTSTART:20261128T100000
+DTEND:20261128T113000
+SUMMARY:【智辯奈良カレッジ】高等部入試説明会
+LOCATION:智辯学園奈良カレッジ
+DESCRIPTION:種別: 入試説明会\n学校/主催: 智辯学園奈良カ
+ レッジ中学部\n日時: 令和８年１１月２８日（土） 10:0
+ 0〜11:30\n場所: 智辯学園奈良カレッジ\n予約: 中学生お
+ よびその保護者\nメモ: 高等部の教育実践や、令和９
+ 年度高等部入試の生徒募集と入試についてお話ししま
+ す。参加された方全員に昨年度の高等部入試の問題と
+ 解答例を配布します。関屋駅・上ノ太子駅・高井田駅
+ からスクールバス運行。対象：中学生およびその保護
+ 者\n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
+URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
+END:VEVENT
+END:VCALENDAR
