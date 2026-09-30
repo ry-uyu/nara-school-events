@@ -2552,7 +2552,7 @@
     },
     {
       "school_key": "tomigaoka",
-      "title": "校外入試説明会（京田辺）",
+      "title": "10月14日（水）校外入試説明会（京田辺）",
       "type": "入試説明会",
       "date": "2026-10-14",
       "date_raw": "10/14(水)",
@@ -2570,7 +2570,7 @@
       "url": "https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior",
       "source": "登美ヶ丘",
       "first_seen": "2026-09-09",
-      "last_updated": "2026-09-28"
+      "last_updated": "2026-09-30"
     },
     {
       "school_key": "tezukayama",
@@ -2706,7 +2706,7 @@
     },
     {
       "school_key": "tomigaoka",
-      "title": "入試説明会・学校見学会2",
+      "title": "10月31日（土）入試説明会・学校見学会2",
       "type": "入試説明会・学校見学会",
       "date": "2026-10-31",
       "date_raw": "10/31（土）",
@@ -2718,13 +2718,13 @@
       "reservation_note": "予約が必要です",
       "apply_start": null,
       "apply_deadline": null,
-      "status": "受付前",
+      "status": "受付中",
       "note": "",
       "id": "tomigaoka-31cd617f-2026-10-31",
       "url": "https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior",
       "source": "登美ヶ丘",
       "first_seen": "2026-09-18",
-      "last_updated": "2026-09-28"
+      "last_updated": "2026-09-30"
     },
     {
       "school_key": "nara_ikuei",
@@ -2879,6 +2879,28 @@
       "source": "智辯奈良カレッジ",
       "first_seen": "2026-09-27",
       "last_updated": "2026-09-27"
+    },
+    {
+      "school_key": "tomigaoka",
+      "title": "オンライン個別相談・個別学校見学",
+      "type": "学校見学会",
+      "date": null,
+      "date_raw": "月末更新予定",
+      "start_time": null,
+      "end_time": null,
+      "all_day": false,
+      "location": "オンライン",
+      "reservation_required": true,
+      "reservation_note": "募集中",
+      "apply_start": null,
+      "apply_deadline": null,
+      "status": "受付中",
+      "note": "",
+      "id": "tomigaoka-02d79f45-tbd",
+      "url": "https://www.naragakuen.jp/tomigaoka/t_jun/",
+      "source": "登美ヶ丘",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30"
     }
   ]
 }
