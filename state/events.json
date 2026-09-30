@@ -2,7 +2,7 @@
   "meta": {
     "description": "娘の中学受験イベント監視データ（志望校：奈良女子大附属中等 / 奈良学園登美ヶ丘中 / 奈良学園中）",
     "target_exam_year": "2028年度入試（2028年1-2月実施）",
-    "last_run": "2026-09-30",
+    "last_run": "2026-10-01",
     "timezone": "Asia/Tokyo",
     "last_weekly_date": "2026-09-27"
   },
@@ -2901,6 +2901,28 @@
       "source": "登美ヶ丘",
       "first_seen": "2026-09-30",
       "last_updated": "2026-09-30"
+    },
+    {
+      "school_key": "nwu",
+      "title": "2025年度公開研究会・SSH研究成果発表会",
+      "type": "その他",
+      "date": null,
+      "date_raw": "2026年2月13日(金)・14日(土)",
+      "start_time": null,
+      "end_time": null,
+      "all_day": false,
+      "location": "",
+      "reservation_required": false,
+      "reservation_note": "",
+      "apply_start": null,
+      "apply_deadline": null,
+      "status": "",
+      "note": "1次案内掲載済み",
+      "id": "nwu-014e54ac-tbd",
+      "url": "https://nwuss.nara-wu.ac.jp/info/",
+      "source": "奈良女子大附属",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01"
     }
   ]
 }
