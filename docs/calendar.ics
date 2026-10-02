@@ -175,8 +175,7 @@ UID:tomigaoka-0c7c90e1-2026-10-14@nara-school-events
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:【登美ヶ丘】10月14日（水）校外入試説明会（京
- 田辺）
+SUMMARY:【登美ヶ丘】校外入試説明会（京田辺）
 LOCATION:京田辺
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園登美ヶ
  丘中学校\n日時: 10/14(水)\n場所: 京田辺\n予約: 予約が
@@ -257,12 +256,10 @@ UID:tomigaoka-31cd617f-2026-10-31@nara-school-events
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:【登美ヶ丘】10月31日（土）入試説明会・学校見
- 学会2
-DESCRIPTION:種別: 入試説明会・学校見学会\n学校/主催: 奈
- 良学園登美ヶ丘中学校\n日時: 10/31（土）\n予約: 予約
- が必要です\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka
- /list/junior
+SUMMARY:【登美ヶ丘】入試説明会・学校見学会2
+DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園登美ヶ
+ 丘中学校\n日時: 10/31（土）\n予約: 予約が必要です\n詳
+ 細: https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
 END:VEVENT
 BEGIN:VEVENT
