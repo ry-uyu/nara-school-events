@@ -7,20 +7,17 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:ikuei_nishi-8f8c3b92-2026-11-14@nara-school-events
-DTSTAMP:20260823T000000Z
+DTSTAMP:20261004T000000Z
 DTSTART:20261114T093000
 DTEND:20261114T120000
 SUMMARY:【育英西】中学入試説明会
 LOCATION:育英西中学校・高等学校
 DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
  日時: 2026年11月14日（土） 09:30〜12:00\n場所: 育英西中
- 学校・高等学校\n予約: 定員各回200名\n申込開始: 2026-09
- -01\nメモ: 対象：4年生・5年生・6年生、保護者。第2回
- 。9:00受付開始。在校生による学校紹介、各コース説
- 明、2027年度入試説明、入試問題傾向解説動画、校舎
- 見学、在校生保護者への質問コーナーなど。プレテス
- トと同時開催。公共交通機関を利用。\n詳細: https://www
- .ikuei.ed.jp/ikunishi/admission/ex-jh/
+ 学校・高等学校\n予約: 定員各回200名。\nメモ: 第2回。
+ 4年生・5年生・6年生、保護者対象。在校生による学校
+ 紹介、各コース説明、入試説明など。プレテストと同
+ 時開催。\n詳細: https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
 URL:https://www.ikuei.ed.jp/ikunishi/admission/ex-jh/
 END:VEVENT
 END:VCALENDAR
