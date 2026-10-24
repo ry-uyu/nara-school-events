@@ -7,15 +7,15 @@ X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:nara_ikuei-6496e021-2026-11-21@nara-school-events
-DTSTAMP:20261011T000000Z
+DTSTAMP:20261025T000000Z
 DTSTART:20261121T093000
 DTEND:20261121T114000
 SUMMARY:【奈良育英】中学専願者集会
-DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
- \n日時: 2026/11/21（土） 09:30〜11:40\n予約: 受付は10月下
- 旬より\n申込開始: 2026-10-21\n申込締切: 2026-11-20\nメモ: 
- 専願で受験をお考えの保護者の為の説明会です。\n詳
- 細: https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
+DESCRIPTION:種別: 専願者集会\n学校/主催: 奈良育英中学校
+ \n日時: 2026/11/21（土） 09:30〜11:40\n予約: 受付はこちら\
+ n申込開始: 2026-10-21\n申込締切: 2026-11-20\nメモ: 専願で
+ 受験をお考えの保護者の為の説明会です。\n詳細: https
+ ://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
 END:VEVENT
 END:VCALENDAR

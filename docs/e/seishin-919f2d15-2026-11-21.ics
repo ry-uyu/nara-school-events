@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:seishin-919f2d15-2026-11-21@nara-school-events
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:【聖心学園】第２回 聖心入試チャレンジ
+DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
+ 育学校\n日時: 2026年11月21日\n予約: 受験をお考えのか
+ たはぜひ、ご参加ください\n詳細: https://www.seishingakuenc
+ huto.ed.jp/
+URL:https://www.seishingakuenchuto.ed.jp/
+END:VEVENT
+END:VCALENDAR

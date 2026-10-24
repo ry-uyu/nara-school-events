@@ -10,13 +10,11 @@ UID:tezukayama-a51cfbbe-2026-11-21-apply@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:【申込開始】帝塚山 第4回入試説明会「小6対象 
- 帝塚山チャレンジ」
+SUMMARY:【申込開始】帝塚山 入試説明会
 LOCATION:帝塚山学園講堂
-DESCRIPTION:帝塚山「第4回入試説明会「小6対象 帝塚山チ
- ャレンジ」」の申込開始日です。\n本番: 2026年11月21日
- （土）\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.htm
- l
+DESCRIPTION:帝塚山「入試説明会」の申込開始日です。\n
+ 本番: 2026年11月21日（土）\n詳細: https://www.tezukayama-h.ed.
+ jp/nyuushi/openschool.html
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 END:VCALENDAR
