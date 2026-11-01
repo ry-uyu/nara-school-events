@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:seishin-a730f135-2027-01-16@nara-school-events
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:【聖心学園】A日程 入試
+LOCATION:同校
+DESCRIPTION:種別: 受験日程\n学校/主催: 聖心学園中等教育
+ 学校\n日時: 1/16\n場所: 同校\n申込開始: 2026-12-14\n申込
+ 締切: 2027-01-13\nメモ: 試験科目：[3教科型]国算理 or [4
+ 教科アラカルト型]国算理社 or [作文型(専願のみ)]算＋
+ 作文＋面接\n詳細: https://www.schoolnetwork.jp/kansai/jhs/school_
+ list/school/seishingakuenchuto/
+URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
+ uenchuto/
+END:VEVENT
+END:VCALENDAR
