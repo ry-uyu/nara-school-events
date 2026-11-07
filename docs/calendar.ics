@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:naragakuen-b37d1d0c-2026-11-07@nara-school-events
-DTSTAMP:20260811T000000Z
-DTSTART:20261107T140000
-DTEND:20261107T153000
-SUMMARY:【奈良学園】令和9年度 奈良学園中学校入試説明
- 会 第2回
-LOCATION:本校 第一体育館
-DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良学園中学校
- \n日時: 令和8年11月7日（土） 14:00〜15:30\n場所: 本校 第
- 一体育館\n予約: 予約開始日：9/1 8:00～。第1回と第2回
- は同じ内容\n申込開始: 2026-09-01\nメモ: 第1回と第2回は
- 同じ内容\n詳細: https://www.naragakuen.ed.jp/exam/briefing/
-URL:https://www.naragakuen.ed.jp/exam/briefing/
-END:VEVENT
-BEGIN:VEVENT
 UID:ikuei_nishi-09f375f4-2026-11-14@nara-school-events
 DTSTAMP:20261004T000000Z
 DTSTART:20261114T093000
@@ -187,11 +172,11 @@ LOCATION:智辯学園奈良カレッジ講堂と図書館など
 DESCRIPTION:種別: オープンキャンパス\n学校/主催: 智辯学
  園奈良カレッジ中学部\n日時: 令和８年１１月２１日
  （土） 09:30〜12:00\n場所: 智辯学園奈良カレッジ講堂と
- 図書館など\n予約: インターネット予約申込が必要\nメ
- モ: 中学入試直前対策講座〔小学６年生対象〕、入試
- 説明会、校内見学・個別相談も可能。関屋駅・上ノ太
- 子駅・高井田駅からスクールバス運行\n詳細: https://www
- .chiben.ac.jp/naracollege/futures/orientation/
+ 図書館など\n予約: インターネットによる予約申込が
+ 必要\nメモ: 中学入試直前対策講座（小学６年生対象
+ ）、入試説明会、校内見学・個別相談も可能。スクー
+ ルバス運行あり。\n詳細: https://www.chiben.ac.jp/naracollege/f
+ utures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
@@ -246,12 +231,10 @@ LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 入試説明会\n学校/主催: 智辯学園奈良カ
  レッジ中学部\n日時: 令和８年１１月２８日（土） 10:0
  0〜11:30\n場所: 智辯学園奈良カレッジ\n予約: インター
- ネット予約申込が必要\nメモ: 高等部の教育実践や、
- 令和９年度高等部入試の生徒募集と入試についてのお
- 話し。昨年度の高等部入試の問題と解答例を全員に配
- 布。関屋駅・上ノ太子駅・高井田駅からスクールバス
- 運行\n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation
- /
+ ネットによる予約申込が必要\nメモ: 高等部の教育実
+ 践、令和９年度高等部入試について。昨年度の入試問
+ 題と解答例を配布。スクールバス運行あり。\n詳細: ht
+ tps://www.chiben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
@@ -283,19 +266,19 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-12-05@nara-school-events
-DTSTAMP:20260830T000000Z
-DTSTART:20261205T100000
-DTEND:20261205T143000
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
 SUMMARY:【智辯奈良カレッジ】サタデー学校ツアー
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
- レッジ中学部\n日時: 令和８年１２月５日（土） 10:00
- 〜14:30\n場所: 智辯学園奈良カレッジ\n予約: インター
- ネット予約申込が必要。午前の部（10:00～11:30）・午
- 後の部（13:00～14:30）。小学生10組・中学生10組限定\n
- メモ: 校内案内と個別相談が可能。関屋駅のみスクー
- ルバス運行（駅前ロータリーを9:30発と12:30発）\n詳細:
-  https://www.chiben.ac.jp/naracollege/futures/orientation/
+ レッジ中学部\n日時: 令和８年１２月５日（土）\n場所
+ : 智辯学園奈良カレッジ\n予約: インターネットによる
+ 予約申込が必要。午前の部（10:00～11:30）・午後の部
+ （13:00～14:30）、各部小学生10組・中学生10組限定\nメ
+ モ: 校内案内、個別相談も可能。スクールバス運行あ
+ り（関屋駅のみ）。\n詳細: https://www.chiben.ac.jp/naracolleg
+ e/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
@@ -370,20 +353,20 @@ URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-dafe54b8-2026-12-22@nara-school-events
-DTSTAMP:20260913T000000Z
-DTSTART:20261222T100000
-DTEND:20261222T143000
+DTSTAMP:20261108T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
 SUMMARY:【智辯奈良カレッジ】冬のプライベート見学会
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
  レッジ中学部\n日時: 令和８年１２月２２日（火）～
- ２５日（金） 10:00〜14:30\n場所: 智辯学園奈良カレッジ
- \n予約: インターネット予約申込が必要。12/22（火）、
- 12/23（水）、12/24（木）、12/25（金）。午前の部（10:00
- ～11:30）・午後の部（13:00～14:30）。小学生・中学生そ
- れぞれ５組限定\nメモ: スクールバスの配車はなし。
- お車等での来校\n詳細: https://www.chiben.ac.jp/naracollege/futu
- res/orientation/
+ ２５日（金）\n場所: 智辯学園奈良カレッジ\n予約: イ
+ ンターネットによる予約申込が必要。午前の部（10:00
+ ～11:30）・午後の部（13:00～14:30）、各学年5組限定\nメ
+ モ: 12/22（火）、12/23（水）、12/24（木）、12/25（金）
+ に実施。スクールバス配車なし。お車でお越しくださ
+ い。\n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation
+ /
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
