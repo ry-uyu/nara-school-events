@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nara-school-events//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:中学受験イベント
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:nwu-a0d07eb1-2026-11-20@nara-school-events
+DTSTAMP:20261120T000000Z
+DTSTART:20261120T090000
+DTEND:20261120T100000
+SUMMARY:【奈良女子大附属】令和9年度入学適性検査（連
+ 絡進学）出願
+DESCRIPTION:種別: 願書受付（出願）\n学校/主催: 奈良女子
+ 大学附属中等教育学校\n日時: 11月20日（金） 09:00\n申
+ 込開始: 2026-11-20\n申込締切: 2026-11-27\nメモ: インターネ
+ ット出願のみ。奈良女子大学附属小学校卒業見込み対
+ 象。\n詳細: https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1
+URL:https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1
+END:VEVENT
+END:VCALENDAR

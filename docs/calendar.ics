@@ -6,6 +6,58 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
+UID:nwu-ba9f3d65-2026-11-20@nara-school-events
+DTSTAMP:20261120T000000Z
+DTSTART:20261120T090000
+DTEND:20261120T100000
+SUMMARY:【奈良女子大附属】令和9年度 連絡進学検査 出
+ 願
+DESCRIPTION:種別: 願書受付(出願)\n学校/主催: 奈良女子大
+ 学附属中等教育学校\n日時: 11月20日（金） 09:00\n申込
+ 開始: 2026-11-20\n申込締切: 2026-11-27\nメモ: 奈良女子大学
+ 附属小学校卒業見込者対象。インターネット出願のみ
+ 。\n詳細: https://nwuss.nara-wu.ac.jp/admission/
+URL:https://nwuss.nara-wu.ac.jp/admission/
+END:VEVENT
+BEGIN:VEVENT
+UID:nwu-ba9f3d65-2026-11-20-apply@nara-school-events
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:【申込開始】奈良女子大附属 令和9年度 連絡進
+ 学検査 出願
+DESCRIPTION:奈良女子大附属「令和9年度 連絡進学検査 出
+ 願」の申込開始日です。\n本番: 11月20日（金）\n詳細: 
+ https://nwuss.nara-wu.ac.jp/admission/
+URL:https://nwuss.nara-wu.ac.jp/admission/
+END:VEVENT
+BEGIN:VEVENT
+UID:nwu-a0d07eb1-2026-11-20@nara-school-events
+DTSTAMP:20261120T000000Z
+DTSTART:20261120T090000
+DTEND:20261120T100000
+SUMMARY:【奈良女子大附属】令和9年度入学適性検査（連
+ 絡進学）出願
+DESCRIPTION:種別: 願書受付（出願）\n学校/主催: 奈良女子
+ 大学附属中等教育学校\n日時: 11月20日（金） 09:00\n申
+ 込開始: 2026-11-20\n申込締切: 2026-11-27\nメモ: インターネ
+ ット出願のみ。奈良女子大学附属小学校卒業見込み対
+ 象。\n詳細: https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1
+URL:https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1
+END:VEVENT
+BEGIN:VEVENT
+UID:nwu-a0d07eb1-2026-11-20-apply@nara-school-events
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:【申込開始】奈良女子大附属 令和9年度入学適性
+ 検査（連絡進学）出願
+DESCRIPTION:奈良女子大附属「令和9年度入学適性検査（連
+ 絡進学）出願」の申込開始日です。\n本番: 11月20日（
+ 金）\n詳細: https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1
+URL:https://nwuss.nara-wu.ac.jp/admission/schedule/schedule1
+END:VEVENT
+BEGIN:VEVENT
 UID:ikuei_nishi-e4ca8cb2-2026-11-20@nara-school-events
 DTSTAMP:20261011T000000Z
 DTSTART:20261120T163000
@@ -280,6 +332,31 @@ DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
  メニューが体験ができます！\n詳細: https://mirai-compass.n
  et/usr/nrikeiwj/event/evtIndex.jsf
 URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
+END:VEVENT
+BEGIN:VEVENT
+UID:nwu-dc204252-2026-12-18@nara-school-events
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:【奈良女子大附属】令和9年度入学適性検査出願
+DESCRIPTION:種別: 願書受付（出願）\n学校/主催: 奈良女子
+ 大学附属中等教育学校\n日時: 12月18日（金）\n申込開
+ 始: 2026-12-18\n申込締切: 2027-01-05\nメモ: インターネット
+ 出願期間。郵送書類の締切は2027年1月4日（月）消印有
+ 効。\n詳細: https://nwuss.nara-wu.ac.jp/admission/
+URL:https://nwuss.nara-wu.ac.jp/admission/
+END:VEVENT
+BEGIN:VEVENT
+UID:nwu-dc204252-2026-12-18-apply@nara-school-events
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:【申込開始】奈良女子大附属 令和9年度入学適性
+ 検査出願
+DESCRIPTION:奈良女子大附属「令和9年度入学適性検査出願
+ 」の申込開始日です。\n本番: 12月18日（金）\n詳細: htt
+ ps://nwuss.nara-wu.ac.jp/admission/
+URL:https://nwuss.nara-wu.ac.jp/admission/
 END:VEVENT
 BEGIN:VEVENT
 UID:chiben_college-dafe54b8-2026-12-22@nara-school-events
