@@ -6,93 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:中学受験イベント
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:tomigaoka-cd3985ab-2026-11-21@nara-school-events
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:【登美ヶ丘】入試説明会・学校見学会3
-DESCRIPTION:種別: 入試説明会・学校見学会\n学校/主催: 奈
- 良学園登美ヶ丘中学校\n日時: 11/21（土）\n予約: 予約
- が必要です\n詳細: https://reserve.candy-s.jp/naragakuen_tomigaoka
- /list/junior
-URL:https://reserve.candy-s.jp/naragakuen_tomigaoka/list/junior
-END:VEVENT
-BEGIN:VEVENT
-UID:seishin-919f2d15-2026-11-21@nara-school-events
-DTSTAMP:20261025T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:【聖心学園】第２回 聖心入試チャレンジ
-DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
- 育学校\n日時: 2026年11月21日\n予約: 申込必要\nメモ: 受
- 験をお考えのかたはぜひ、ご参加ください\n詳細: https
- ://www.seishingakuenchuto.ed.jp/
-URL:https://www.seishingakuenchuto.ed.jp/
-END:VEVENT
-BEGIN:VEVENT
-UID:seishin-1bd58115-2026-11-21@nara-school-events
-DTSTAMP:20260811T000000Z
-DTSTART:20261121T090000
-DTEND:20261121T130000
-SUMMARY:【聖心学園】聖心入試チャレンジ （国算理社 ※
- 理社は希望制）・入試説明会
-LOCATION:同校
-DESCRIPTION:種別: 入試説明会\n学校/主催: 聖心学園中等教
- 育学校\n日時: 2026年11月21日 09:00〜13:00\n場所: 同校\n予
- 約: Web\nメモ: 対象：小学6年生\n詳細: https://www.schoolnetw
- ork.jp/kansai/jhs/school_list/school/seishingakuenchuto/
-URL:https://www.schoolnetwork.jp/kansai/jhs/school_list/school/seishingak
- uenchuto/
-END:VEVENT
-BEGIN:VEVENT
-UID:tezukayama-a51cfbbe-2026-11-21@nara-school-events
-DTSTAMP:20260811T000000Z
-DTSTART:20261121T091500
-DTEND:20261121T101500
-SUMMARY:【帝塚山】入試説明会
-LOCATION:帝塚山学園講堂
-DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
- 日時: 2026年11月21日（土） 09:15\n場所: 帝塚山学園講堂\
- n予約: 保護者付添1名\n申込開始: 2026-10-26\nメモ: 第４
- 回入試説明会「小6対象 帝塚山チャレンジ」\n詳細: htt
- ps://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-END:VEVENT
-BEGIN:VEVENT
-UID:tezukayama-9f555ce9-2026-11-21@nara-school-events
-DTSTAMP:20260927T000000Z
-DTSTART:20261121T091500
-DTEND:20261121T101500
-SUMMARY:【帝塚山】入試説明会（第4回）小6対象〔帝塚山
- チャレンジ〕
-LOCATION:帝塚山学園講堂
-DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
- 日時: 2026年11月21日（土） 09:15\n場所: 帝塚山学園講堂\
- n予約: 保護者付添1名\n申込開始: 2026-10-26\nメモ: 定員50
- 0名\n詳細: https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
-END:VEVENT
-BEGIN:VEVENT
-UID:chiben_college-694a5f84-2026-11-21@nara-school-events
-DTSTAMP:20260811T000000Z
-DTSTART:20261121T093000
-DTEND:20261121T120000
-SUMMARY:【智辯奈良カレッジ】中学部オープンキャンパ
- ス・中学入試直前対策講座
-LOCATION:智辯学園奈良カレッジ講堂と図書館など
-DESCRIPTION:種別: オープンキャンパス\n学校/主催: 智辯学
- 園奈良カレッジ中学部\n日時: 令和８年１１月２１日
- （土） 09:30〜12:00\n場所: 智辯学園奈良カレッジ講堂と
- 図書館など\n予約: 説明会・見学会(イベント)に申し込
- むボタンから予約\nメモ: 小学６年生対象の中学入試
- 直前対策講座を開講。講堂では入試説明会を開催。校
- 内見学・個別相談も可能。小学６年生以外の方もご参
- 加ください。関屋駅・上ノ太子駅・高井田駅からスク
- ールバスを運行。\n詳細: https://www.chiben.ac.jp/naracollege/f
- utures/orientation/
-URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
-END:VEVENT
-BEGIN:VEVENT
 UID:seishin-1bd58115-2026-11-25@nara-school-events
 DTSTAMP:20260811T000000Z
 DTSTART:20261125T173000
@@ -116,7 +29,7 @@ SUMMARY:【奈良育英】第3回入試説明会・トライアル②（
  プレテスト）
 DESCRIPTION:種別: 入試説明会\n学校/主催: 奈良育英中学校
  \n日時: 11月28日(土)\n予約: 受付はこちら\nメモ: 入試に
- ついてご説明します。トライアルでは本番通りの入試
+ ついてご説明します トライアルでは本番通りの入試
  の練習ができます\n詳細: https://www.ikuei.ed.jp/ikuei-jh/admis
  sion/ex-information/
 URL:https://www.ikuei.ed.jp/ikuei-jh/admission/ex-information/
@@ -131,12 +44,13 @@ LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 入試説明会\n学校/主催: 智辯学園奈良カ
  レッジ中学部\n日時: 令和８年１１月２８日（土） 10:0
  0〜11:30\n場所: 智辯学園奈良カレッジ\n予約: 説明会・
- 見学会(イベント)に申し込むボタンから予約\nメモ: 高
- 等部の教育実践や、令和９年度高等部入試の生徒募集
- と入試について。昨年度の高等部入試の問題と解答例
- を配布。対象は中学生およびその保護者。関屋駅・上
- ノ太子駅・高井田駅からスクールバスを運行。\n詳細:
-  https://www.chiben.ac.jp/naracollege/futures/orientation/
+ 見学会(イベント)に申し込む\nメモ: 高等部の教育実践
+ や、令和９年度高等部入試の生徒募集と入試について
+ お話しします。参加された方全員に昨年度の高等部入
+ 試の問題と解答例を全員に配布します。当日は、関屋
+ 駅・上ノ太子駅・高井田駅からスクールバスを運行し
+ ます。\n詳細: https://www.chiben.ac.jp/naracollege/futures/orientat
+ ion/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
@@ -175,13 +89,13 @@ SUMMARY:【智辯奈良カレッジ】サタデー学校ツアー
 LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
  レッジ中学部\n日時: 令和８年１２月５日（土） 10:00
- 〜14:30\n場所: 智辯学園奈良カレッジ\n予約: 説明会・
- 見学会(イベント)に申し込むボタンから予約\nメモ: 午
- 前の部（１０：００～１１：３０）・午後の部（１３
- ：００～１４：３０）。小学生１０組・中学生１０組
- 限定で校内をご案内。個別相談も可能。関屋駅のみス
- クールバス運行（駅前ロータリーを9:30発と12:30発）。
- \n詳細: https://www.chiben.ac.jp/naracollege/futures/orientation/
+ 〜14:30\n場所: 智辯学園奈良カレッジ\n予約: 午前の部
+ （１０：００～１１：３０）・午後の部（１３：００
+ ～１４：３０）、各部小学生１０組・中学生１０組限
+ 定\nメモ: 校内をご案内します。個別相談も可能です
+ 。当日は関屋駅のみスクールバス（駅前ロータリーを
+ 9:30発と12:30発）を運行します。\n詳細: https://www.chiben.a
+ c.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +164,7 @@ DESCRIPTION:種別: 入試説明会\n学校/主催: 育英西中学校\n
  込締切: 2026-12-11\nメモ: 生徒たちによる学校紹介、校
  舎見学、各コースの特徴と進路指導について、2027年
  度入試について、個別相談など。説明会終了後に学食
- メニューが体験ができます！\n詳細: https://mirai-compass.n
+ メニューが体験ができます。\n詳細: https://mirai-compass.n
  et/usr/nrikeiwj/event/evtIndex.jsf
 URL:https://mirai-compass.net/usr/nrikeiwj/event/evtIndex.jsf
 END:VEVENT
@@ -289,13 +203,11 @@ LOCATION:智辯学園奈良カレッジ
 DESCRIPTION:種別: 学校見学会\n学校/主催: 智辯学園奈良カ
  レッジ中学部\n日時: 令和８年１２月２２日（火）～
  ２５日（金） 10:00〜14:30\n場所: 智辯学園奈良カレッジ
- \n予約: 説明会・見学会(イベント)に申し込むボタンか
- ら予約\nメモ: 実施日は12/22（火）、12/23（水）、12/24
- （木）、12/25（金）。午前の部（１０：００～１１：
- ３０）・午後の部（１３：００～１４：３０）。小学
- 生・中学生それぞれ５組限定で校内をご案内。スクー
- ルバスの配車はなし。\n詳細: https://www.chiben.ac.jp/naracol
- lege/futures/orientation/
+ \n予約: 12/22（火）、12/23（水）、12/24（木）、12/25（金
+ ）、小学生・中学生それぞれ５組限定\nメモ: 校内を
+ ご案内します。当日はスクールバスの配車がありませ
+ んので、お車等でお越しください。\n詳細: https://www.ch
+ iben.ac.jp/naracollege/futures/orientation/
 URL:https://www.chiben.ac.jp/naracollege/futures/orientation/
 END:VEVENT
 BEGIN:VEVENT
