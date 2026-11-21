@@ -3784,25 +3784,25 @@
     },
     {
       "school_key": "tomigaoka",
-      "title": "プレテスト申込",
-      "type": "出願",
+      "title": "プレテスト",
+      "type": "受験日程",
       "date": null,
-      "date_raw": "10/13(火)10時より",
-      "start_time": "10:00",
+      "date_raw": "11/21（土）",
+      "start_time": null,
       "end_time": null,
       "all_day": false,
       "location": "",
       "reservation_required": false,
       "reservation_note": "",
-      "apply_start": "2026-10-13",
+      "apply_start": null,
       "apply_deadline": null,
       "status": "受付中",
-      "note": "",
+      "note": "プレテスト解説会あり",
       "id": "tomigaoka-11d5a9db-tbd",
       "url": "https://www.naragakuen.jp/tomigaoka/t_jun/",
       "source": "登美ヶ丘",
       "first_seen": "2026-11-20",
-      "last_updated": "2026-11-20"
+      "last_updated": "2026-11-21"
     }
   ]
 }
