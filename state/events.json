@@ -2889,9 +2889,9 @@
       "start_time": null,
       "end_time": null,
       "all_day": false,
-      "location": "オンライン",
+      "location": "",
       "reservation_required": true,
-      "reservation_note": "月末更新予定",
+      "reservation_note": "募集中（月末更新予定）",
       "apply_start": null,
       "apply_deadline": null,
       "status": "受付中",
@@ -2900,7 +2900,7 @@
       "url": "https://www.naragakuen.jp/tomigaoka/t_jun/",
       "source": "登美ヶ丘",
       "first_seen": "2026-09-30",
-      "last_updated": "2026-09-30"
+      "last_updated": "2026-11-26"
     },
     {
       "school_key": "nwu",
@@ -3785,16 +3785,16 @@
     {
       "school_key": "tomigaoka",
       "title": "プレテスト",
-      "type": "受験日程",
+      "type": "受験",
       "date": null,
       "date_raw": "11/21（土）",
       "start_time": null,
       "end_time": null,
       "all_day": false,
       "location": "",
-      "reservation_required": false,
-      "reservation_note": "",
-      "apply_start": null,
+      "reservation_required": true,
+      "reservation_note": "10/13(火)10時より申込受付開始",
+      "apply_start": "2026-10-13",
       "apply_deadline": null,
       "status": "受付中",
       "note": "プレテスト解説会あり",
@@ -3802,7 +3802,7 @@
       "url": "https://www.naragakuen.jp/tomigaoka/t_jun/",
       "source": "登美ヶ丘",
       "first_seen": "2026-11-20",
-      "last_updated": "2026-11-21"
+      "last_updated": "2026-11-26"
     }
   ]
 }
