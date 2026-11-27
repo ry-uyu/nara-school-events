@@ -66,6 +66,17 @@ DESCRIPTION:種別: 入試説明会\n学校/主催: 帝塚山中学校\n
 URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
+UID:tomigaoka-711b40be-2026-12-01@nara-school-events
+DTSTAMP:20261127T000000Z
+DTSTART:20261201T100000
+DTEND:20261201T110000
+SUMMARY:【登美ヶ丘】WEB出願開始
+DESCRIPTION:種別: 願書受付（出願）\n学校/主催: 奈良学園
+ 登美ヶ丘中学校\n日時: 12/1(火) 10:00\n詳細: https://www.nara
+ gakuen.jp/tomigaoka/t_jun/
+URL:https://www.naragakuen.jp/tomigaoka/t_jun/
+END:VEVENT
+BEGIN:VEVENT
 UID:chiben_college-360e4e55-2026-12-05@nara-school-events
 DTSTAMP:20261115T000000Z
 DTSTART:20261205T100000
