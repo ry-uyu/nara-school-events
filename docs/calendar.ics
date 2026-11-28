@@ -67,13 +67,24 @@ URL:https://www.tezukayama-h.ed.jp/nyuushi/openschool.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tomigaoka-711b40be-2026-12-01@nara-school-events
-DTSTAMP:20261127T000000Z
+DTSTAMP:20261128T000000Z
 DTSTART:20261201T100000
 DTEND:20261201T110000
-SUMMARY:【登美ヶ丘】WEB出願開始
-DESCRIPTION:種別: 願書受付（出願）\n学校/主催: 奈良学園
- 登美ヶ丘中学校\n日時: 12/1(火) 10:00\n詳細: https://www.nara
- gakuen.jp/tomigaoka/t_jun/
+SUMMARY:【登美ヶ丘】WEB出願
+DESCRIPTION:種別: 願書受付\n学校/主催: 奈良学園登美ヶ丘
+ 中学校\n日時: 12/1(火) 10:00\n申込開始: 2026-12-01\nメモ: 
+ 事前準備をご確認ください\n詳細: https://www.naragakuen.jp/
+ tomigaoka/t_jun/
+URL:https://www.naragakuen.jp/tomigaoka/t_jun/
+END:VEVENT
+BEGIN:VEVENT
+UID:tomigaoka-711b40be-2026-12-01-apply@nara-school-events
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:【申込開始】登美ヶ丘 WEB出願
+DESCRIPTION:登美ヶ丘「WEB出願」の申込開始日です。\n本
+ 番: 12/1(火)\n詳細: https://www.naragakuen.jp/tomigaoka/t_jun/
 URL:https://www.naragakuen.jp/tomigaoka/t_jun/
 END:VEVENT
 BEGIN:VEVENT

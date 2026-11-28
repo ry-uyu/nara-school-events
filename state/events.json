@@ -3256,13 +3256,13 @@
     },
     {
       "school_key": "tomigaoka",
-      "title": "11/21（土）入試説明会・学校見学会3",
+      "title": "入試説明会・学校見学会3",
       "type": "入試説明会・学校見学会",
       "date": "2026-11-21",
       "date_raw": "11/21（土）",
       "start_time": null,
       "end_time": null,
-      "all_day": true,
+      "all_day": false,
       "location": "",
       "reservation_required": false,
       "reservation_note": "予約が必要です",
@@ -3806,8 +3806,8 @@
     },
     {
       "school_key": "tomigaoka",
-      "title": "WEB出願開始",
-      "type": "願書受付（出願）",
+      "title": "WEB出願",
+      "type": "願書受付",
       "date": "2026-12-01",
       "date_raw": "12/1(火)",
       "start_time": "10:00",
@@ -3816,15 +3816,15 @@
       "location": "",
       "reservation_required": false,
       "reservation_note": "",
-      "apply_start": null,
+      "apply_start": "2026-12-01",
       "apply_deadline": null,
-      "status": "受付前",
-      "note": "",
+      "status": "受付中",
+      "note": "事前準備をご確認ください",
       "id": "tomigaoka-711b40be-2026-12-01",
       "url": "https://www.naragakuen.jp/tomigaoka/t_jun/",
       "source": "登美ヶ丘",
       "first_seen": "2026-11-27",
-      "last_updated": "2026-11-27"
+      "last_updated": "2026-11-28"
     }
   ]
 }
